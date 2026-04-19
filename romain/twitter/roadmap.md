@@ -31,7 +31,7 @@ R est le compte le plus actif de l'ecosysteme. Il cumule cold outreach (10/jour)
 | Follow les comptes Tier 1, 2, 3 initiaux (cf. romain/context.md §5.3) | R | En attente |
 | Preparer les 5-7 premiers posts R (semaine 1) au batch | R (projet Claude redaction R) | En attente |
 | Preparer les replies de cross-engagement pour les posts F2 et F de la semaine 1 | R | En attente |
-| Tester le workflow complet 1 fois : Grok → CDV data → Claude → reply | R | En attente |
+| Tester le workflow complet 1 fois : Grok → données terrain → Claude → reply | R | En attente |
 
 ### 2.2 Semaine 1 — Lancement
 
@@ -40,9 +40,9 @@ R est le compte le plus actif de l'ecosysteme. Il cumule cold outreach (10/jour)
 | Jour | Post R | Cold outreach | Engagement |
 |------|--------|---------------|------------|
 | **Lundi** | Hot take lancement : "Your Shopify store is bleeding money right now. Chargebacks, app tax, hidden fees. What if you could see every leak?" | 10 outreachs | 30 interactions. Cross-engagement F2 + F. |
-| **Mardi** | Data post : patterns CDV (530+ reviews, chargebacks, hidden costs). | 10 outreachs | 30 interactions + cross-engagement |
+| **Mardi** | Data post : patterns terrain (530+ reviews, chargebacks, hidden costs). | 10 outreachs | 30 interactions + cross-engagement |
 | **Mercredi** | Question ouverte : "Shopify merchants: do you actually know your real chargeback rate? Not the dashboard number — the real one." | 10 outreachs | 30 interactions + cross-engagement |
-| **Jeudi** | Hot take : opinion e-com tranchee issue des patterns CDV. | 10 outreachs | 30 interactions + cross-engagement |
+| **Jeudi** | Hot take : opinion e-com tranchee issue des patterns terrain. | 10 outreachs | 30 interactions + cross-engagement |
 | **Vendredi** | Learning personnel : "Day 5 of cold outreach to Shopify merchants. Here's what converts and what doesn't." | 10 outreachs | 30 interactions + reunion F+R soir |
 | **Samedi** | Batch semaine 2 (redaction R + F2). Pas de publication R. | — | — |
 | **Dimanche** | Rythme reduit : quelques engagements, pas de post. | — | Leger |
@@ -53,7 +53,7 @@ Le cold outreach est rode. Le focus passe a l'optimisation du workflow.
 
 | Evolution vs semaine 1 | Detail |
 |------------------------|--------|
-| Cold outreach plus fluide | Le cycle Grok → CDV data → Claude → reply est rodé. |
+| Cold outreach plus fluide | Le cycle Grok → données terrain → Claude → reply est rodé. |
 | Premiers resultats des outreachs semaine 1 | Combien ont repondu ? Combien ont clique ? Ajuster les templates si necessaire. |
 | Engagement : commencer a identifier les Tier 3 | Les gens qui reply aux tweets R → futurs Tier 3 (engagement reciproque). |
 | Cross-engagement : le protocole est un reflexe | Si ce n'est pas le cas → revoir l'organisation avec F. |
@@ -63,7 +63,7 @@ Le cold outreach est rode. Le focus passe a l'optimisation du workflow.
 | Milestone | Cible | Si pas atteint |
 |-----------|-------|----------------|
 | Handle change + profil complet + Premium | Avant lancement | Ne pas lancer sans Premium. Le handle peut attendre mais le profil et Premium non. |
-| 70+ cold outreachs cumules | Semaine 1 | Si < 70 : le process prend trop de temps. Identifier le goulot (Grok ? CDV data ? Claude ? redaction manuelle ?). |
+| 70+ cold outreachs cumules | Semaine 1 | Si < 70 : le process prend trop de temps. Identifier le goulot (Grok ? données terrain ? Claude ? redaction manuelle ?). |
 | 150+ cold outreachs cumules | Fin avril | Si < 150 : probleme de volume de cibles ou de discipline. Elargir les termes de recherche Grok. |
 | 10-20% de taux de reponse aux outreachs | Fin avril | Si < 10% : les replies ne sont pas assez personnalisees ou les insights ne sont pas assez percutants. Revoir les templates. |
 | 30-80 followers R | Fin avril | Croissance liee directement a l'activite d'engagement. Si < 30 : pas assez de replies sur des posts Tier 1-2. |
@@ -79,7 +79,7 @@ Le cold outreach est rode. Le focus passe a l'optimisation du workflow.
 | Evolution | Detail | Condition |
 |-----------|--------|-----------|
 | **Passer a 2 posts/jour** | 1er post : 17h-18h CET (11h-12h EST). 2e post : 21h-22h CET (15h-16h EST). | Engagement rate > 1% en avril. Si < 1%, rester a 1 post/jour. |
-| **Data posts enrichis** | Volume CDV data suffisant pour des patterns statistiques. Les data posts deviennent le format principal de R. | — |
+| **Data posts enrichis** | Volumes cibles data suffisant pour des patterns statistiques. Les data posts deviennent le format principal de R. | — |
 | **Premiers threads R** | 1 thread/semaine. Sujet : top 5 hidden costs e-com, ou guide actionnable agencies. | — |
 | **Expansion agencies** | R lead sur la verticale agencies. Cold outreach cible aussi les agency owners (template agency cf. context.md §4.5). | — |
 | **"Audit My Store" inaugural** | R invite les merchants a soumettre leurs URLs. Format : tweet d'appel → R audite 3-5 stores en public dans le thread. | Au moins 20 reponses/semaine recues (preuve que l'audience est engagee). |
@@ -96,7 +96,7 @@ Le cold outreach est rode. Le focus passe a l'optimisation du workflow.
 
 | Jour | Post 1 (17h-18h) | Post 2 (21h-22h) | Cold outreach | Engagement |
 |------|-------------------|-------------------|---------------|------------|
-| Lundi | Hot take e-com | Data post (pattern CDV de la semaine) | 10 outreachs | 30 interactions |
+| Lundi | Hot take e-com | Data post (pattern terrain de la semaine) | 10 outreachs | 30 interactions |
 | Mardi | Question ouverte agencies | — | 10 outreachs | 30 interactions |
 | Mercredi | Thread (data ou guide multi-vertical) | — | 10 outreachs | 30 interactions |
 | Jeudi | Cold outreach public (best of du jour) | Hot take agencies | 10 outreachs | 30 interactions |
@@ -124,7 +124,7 @@ Le cold outreach est rode. Le focus passe a l'optimisation du workflow.
 | Evolution | Detail | Condition |
 |-----------|--------|-----------|
 | **Passer a 3 posts/jour** (si justifie) | 3e post en debut d'apres-midi (14h CET / 8h EST). | Engagement rate > 1.5% ET replies organiques > cross-engagement. |
-| **Threads ambitieux** | Series thematiques : "The 10 biggest hidden costs killing Shopify stores", "Agency ROI myths debunked", guides sectoriels multi-vertical. | Volume de donnees suffisant (CDV data + cold outreach patterns). |
+| **Threads ambitieux** | Series thematiques : "The 10 biggest hidden costs killing Shopify stores", "Agency ROI myths debunked", guides sectoriels multi-vertical. | Volume de donnees suffisant (données terrain + cold outreach patterns). |
 | **Guest audit** | Inviter un expert e-com/agency Tier 1 a co-auditer un store. R publie depuis son compte, tague l'expert. | Relation etablie avec au moins 1 expert qui a deja engage avec R. |
 | **Cold outreach → contenu premium** | Les patterns des 300+ outreachs deviennent la base de threads longs, de guides, de benchmarks multi-vertical. | — |
 
@@ -171,7 +171,7 @@ R est full-time. ~3h/jour marketing. Pas de contrainte CDI.
 
 | Tache | Temps | Frequence |
 |-------|-------|-----------|
-| Cold outreach (Grok → CDV data → Claude → reply) — 10 outreachs | 60 min | Quotidien |
+| Cold outreach (Grok → données terrain → Claude → reply) — 10 outreachs | 60 min | Quotidien |
 | Engagement (30 interactions : replies Tier 1-2-3 + halo pre-post) | 60 min | Quotidien |
 | Publication + cross-engagement | 15 min | Quotidien |
 | Reponses aux replies recues (R + F2) | 15-30 min | Quotidien |

@@ -76,7 +76,7 @@ Pas de post LinkedIn F le mardi. Pas de cross-engagement LinkedIn R ce jour.
 |Post                        |Heure pub.|Contenu (résumé)|R a reply ?|Heure reply R|
 |----------------------------|----------|----------------|-----------|-------------|
 |Tweet F (@FabGangi)         |13h       |Quick fix — Ctrl+F script tags|✅          |~13h05      |
-|Tweet F2 (@foundrytwo)      |14h       |Data thread CDV — 530+ reviews, 3 patterns|✅          |~14h05      |
+|Tweet F2 (@foundrytwo)      |14h       |Data thread terrain — 530+ reviews, 3 patterns|✅          |~14h05      |
 
 **Reply R sur tweet F :**
 ```
@@ -170,7 +170,7 @@ Les replies cross-engagement de R suivent les mêmes règles que le mode écosys
 **Angles R valides pour les posts F (technique) :**
 - E-com : "What I'm seeing on the growth side confirms this. Merchants who [insight terrain]..."
 - Agences : "This maps directly to what agency owners tell me about [problème]..."
-- Business impact : "The business impact of this is [insight growth basé sur données terrain CDV]..."
+- Business impact : "The business impact of this is [insight growth basé sur données terrain]..."
 
 **Angles R valides pour les posts F2 (studio) :**
 - Vécu co-fondateur : "On the growth side, this week I [insight cold outreach/engagement]..."

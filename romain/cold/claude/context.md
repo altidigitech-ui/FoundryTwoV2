@@ -20,11 +20,11 @@ Le cold value outreach est la **priorité #1** d'acquisition de FoundryTwo. C'es
 GROK trouve des cibles sur Twitter    →    R identifie l'insight terrain pertinent    →    CLAUDE rédige la reply    →    R publie en PUBLIC
 ```
 
-R ne contacte JAMAIS des gens au hasard. Il trouve des merchants Shopify et des freelancers/agences marketing qui ont un **PROBLÈME VISIBLE** (chargebacks, store lent, conversion faible, reporting client cauchemardesque) et leur apporte de la **VALEUR IMMÉDIATE** (un insight basé sur les données terrain CDV qui démontre son expertise).
+R ne contacte JAMAIS des gens au hasard. Il trouve des merchants Shopify et des freelancers/agences marketing qui ont un **PROBLÈME VISIBLE** (chargebacks, store lent, conversion faible, reporting client cauchemardesque) et leur apporte de la **VALEUR IMMÉDIATE** (un insight basé sur les données terrain qui démontre son expertise).
 
 ### 1.1 D'où viennent les insights
 
-Les insights viennent des données terrain CDV (530+ reviews concurrents, données Mastercard, 55+ threads Reddit). R ne "pitche" pas un produit — il partage de la connaissance qui démontre son expertise growth e-com & marketing. Les produits FoundryTwo se vendent naturellement quand la cible voit que R comprend son problème mieux que quiconque.
+Les insights viennent des données terrain (530+ reviews concurrents, données Mastercard, 55+ threads Reddit). R ne "pitche" pas un produit — il partage de la connaissance qui démontre son expertise growth e-com & marketing. Les produits FoundryTwo se vendent naturellement quand la cible voit que R comprend son problème mieux que quiconque.
 
 ### 1.2 Mindset Build My Community
 
@@ -43,7 +43,7 @@ Chaque cold outreach ne produit pas seulement un lead — il crée une **relatio
 Your store is probably losing $800/month to chargebacks.
 71% of it isn't even real fraud.
 Here's what I've seen work for stores your size:
-→ [Insight 1 basé sur données terrain CDV]
+→ [Insight 1 basé sur données terrain]
 → [Insight 2]
 → [Insight 3]
 Working on a tool that automates this. Want early access?
@@ -163,7 +163,7 @@ Si c'est un troll → ignorer. Jamais se battre en public.
 |---|-------|
 | 1 | **10 outreachs minimum par jour.** Non négociable. |
 | 2 | **Toujours en réponse publique d'abord.** DM uniquement en suivi après 24h sans réponse. |
-| 3 | **Zéro faux témoignage.** Les données sont vraies. Les insights sont basés sur la recherche terrain CDV. |
+| 3 | **Zéro faux témoignage.** Les données sont vraies. Les insights sont basés sur la recherche terrain. |
 | 4 | **Ne jamais pitcher le prix.** La valeur d'abord. La conversion vient du produit. |
 | 5 | **Répondre dans les 2 heures** à chaque personne qui répond. La réactivité convertit. |
 | 6 | **UTM obligatoire sur chaque lien.** Format : `[produit].tech?utm_source=[plateforme]&utm_medium=coldoutreach&utm_campaign=[vertical]` |
@@ -178,7 +178,7 @@ Si c'est un troll → ignorer. Jamais se battre en public.
 
 | Type de demande | Ce que R donne | Ce que Claude produit |
 |----------------|---------------|----------------------|
-| Cold outreach Twitter | Plateforme (Twitter), type de cible (merchant/agence), insight à partager (données terrain CDV) | Reply publique formatée dans la voix R, concise, sans nom de produit |
+| Cold outreach Twitter | Plateforme (Twitter), type de cible (merchant/agence), insight à partager (données terrain) | Reply publique formatée dans la voix R, concise, sans nom de produit |
 | Cold outreach LinkedIn | Plateforme (LinkedIn), type de cible, insight, contexte du profil | Commentaire professionnel 800-1300 car., insight détaillé, question de suivi |
 | Réponse à un reply positif | Le reply reçu, le contexte du cold initial | Réponse qui approfondit, propose d'aider, ne pitche pas |
 | Suivi DM (Twitter) | Le problème partagé, le fait qu'il n'y a pas eu de réponse | DM court et non-intrusif |

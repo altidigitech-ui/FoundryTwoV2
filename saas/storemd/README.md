@@ -3,7 +3,7 @@
 **Statut :** ⏳ En développement
 **Vertical :** E-commerce
 **Mois prévu :** Mois 1 (avril)
-**Specs détaillées :** CDV/produits/
+**Specs détaillées :** `produits/MUTATIONS.md`
 
 ---
 

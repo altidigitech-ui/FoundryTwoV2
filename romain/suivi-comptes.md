@@ -153,4 +153,4 @@ Note : page LinkedIn F2 = vitrine statique. 0-1 repost/mois. < 15 min/mois.
 | Date | Action |
 |------|--------|
 | 16/03 | Création du fichier. Profils vérifiés. Résultats Grok find-accounts ajoutés. |
-| 04/04 | Pivot CDV. Bios et headlines à mettre à jour pour nouveau positionnement (expert growth e-com & marketing). Comptes Tier réévalués : e-com/marketing au lieu de CRO/devs. |
+| 04/04 | Pivot distribution-first. Bios et headlines à mettre à jour pour nouveau positionnement (expert growth e-com & marketing). Comptes Tier réévalués : e-com/marketing au lieu de CRO/devs. |

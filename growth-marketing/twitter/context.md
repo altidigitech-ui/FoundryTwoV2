@@ -225,7 +225,7 @@ Les formats de contenu sont définis dans growth-marketing/context.md §7. Ici o
 - **Chaque tweet :** auto-suffisant (même lu seul, il a de la valeur).
 - **Dernier tweet :** récap + question ouverte + lien en reply sous ce dernier tweet.
 - **Fréquence :** 1 thread/semaine max par compte. Trop de threads dilue l'engagement.
-- **Contenu idéal :** données terrain CDV (before/after stores, métriques réelles, patterns observés sur les Shopify merchants / agency owners / creators).
+- **Contenu idéal :** données terrain (before/after stores, métriques réelles, patterns observés sur les Shopify merchants / agency owners / creators — collectées via la distribution Reddit/Facebook).
 
 ### 6.3 Post avec image
 

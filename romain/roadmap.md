@@ -3,7 +3,7 @@
 **Dernière mise à jour :** 04 avril 2026
 **Hérite de :** `romain/context.md` (cadre opérationnel, planning, projet Claude, historique LD)
 **Se synchronise avec :** `growth-marketing/roadmap.md` (coordination cross-plateforme)
-**Cadence cible :** 3 SaaS/mois par vertical (e-com, agences, creators).
+**Cadence cible :** 2 SaaS/mois (répartis sur 3 verticals : e-com, agences, creators).
 
 **Rôle de ce fichier :** La progression de R dans le temps — comment le cold outreach, l'engagement, la publication, et la communauté évoluent phase par phase. Les roadmaps par plateforme (twitter/romain/roadmap.md, linkedin/romain/roadmap.md) couvrent les détails spécifiques à chaque canal. Ce fichier couvre la vue OPÉRATIONNELLE globale de R.
 
@@ -31,9 +31,9 @@ Leak Detector a été lancé le 16/03/2026. Résultats : ~8 signups, 0€ MRR ap
 
 **Acquis :** la voix de R est rodée. Le workflow Grok → Claude est fonctionnel. Le cross-engagement R↔F↔F2 est en place.
 
-**Abandonné :** le cold outreach LD (audits landing pages de devs). Remplacé par le cold outreach insights e-com/agences basé sur les données terrain CDV.
+**Abandonné :** le cold outreach LD (audits landing pages de devs). Remplacé par le cold outreach insights e-com/agences basé sur les données terrain.
 
-Le pivot du 03/04/2026 change la cible (merchants + agences au lieu de devs), les volumes (10 outreach/jour au lieu de 5, 30 interactions/jour), et l'angle (insights terrain CDV au lieu d'audits LD).
+Le pivot du 03/04/2026 change la cible (merchants + agences au lieu de devs), les volumes (10 outreach/jour au lieu de 5, 30 interactions/jour), et l'angle (insights terrain au lieu d'audits LD).
 
 ---
 
@@ -49,11 +49,11 @@ PayloadDiff a été retiré du pipeline lors du pivot du 03/04/2026. Remplacé p
 
 **Produits distribués :** LD (actif, en mutation vers StoreMD) + StoreMD, ProfitPilot quand live.
 
-**Focus R :** installer le brand building e-com sur Twitter/LinkedIn. Construire la présence de R comme expert growth e-com. Le cold outreach passe des audits LD aux insights terrain CDV.
+**Focus R :** installer le brand building e-com sur Twitter/LinkedIn. Construire la présence de R comme expert growth e-com. Le cold outreach passe des audits LD aux insights terrain.
 
 | Activité | Détail | Volume |
 |----------|--------|--------|
-| **Cold outreach** | Insights e-com basés sur les données terrain CDV (chargebacks, speed, app tax, conversion). Cible : merchants Shopify sur Twitter/LinkedIn. | 10/jour |
+| **Cold outreach** | Insights e-com basés sur les données terrain (chargebacks, speed, app tax, conversion). Cible : merchants Shopify sur Twitter/LinkedIn. | 10/jour |
 | **Engagement** | Commentaires de valeur sur les posts e-com, marketing, SaaS sur Twitter + LinkedIn. | 30 interactions/jour |
 | **Publication** | 7 posts/semaine R. Build in public multi-SaaS. Hot takes e-com. Data posts basés sur les 530+ reviews concurrents. | 7/sem |
 | **Cross-engagement** | Reply systématique sur les posts F et F2. Protocole 15 min. | Quotidien |

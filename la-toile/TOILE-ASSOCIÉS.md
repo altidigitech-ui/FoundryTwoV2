@@ -1,7 +1,7 @@
 # TOILE-ASSOCIÉS.md — Répartition des Tâches F + R
 
 > Dernière mise à jour : 05 avril 2026
-> Version : 4.0 — PIVOT CDV
+> Version : 4.0 — Pivot distribution-first
 > Dépend de : TOILE-CONTEXT.md + TOILE-COORDINATION.md + TOILE-ROADMAP.md
 
 > ⚠️ **PIVOT 03/04/2026 : R et F sont maintenant FULL-TIME FoundryTwo.**
@@ -28,7 +28,7 @@
 
 ### Planning quotidien full-time
 
-F et R sont full-time. Pas de contrainte CDI/intérim. Le planning est flexible et aligné sur les volumes CDV.
+F et R sont full-time. Pas de contrainte CDI/intérim. Le planning est flexible et aligné sur les volumes cibles.
 
 ```
 F :  |== DISTRIBUTION (30 interactions + 10 outreach) ==|== BUILD SaaS ==|== COORDINATION ==|
@@ -63,7 +63,7 @@ Groupe WhatsApp **"F2 — Décisions"** pour : décisions prises, métriques heb
 
 ### 1.1 Le principe
 
-Pendant que F code le produit suivant, R lance le produit actuel. Les cycles se chevauchent. On ne s'arrête jamais. 3 SaaS par mois par vertical.
+Pendant que F code le produit suivant, R lance le produit actuel. Les cycles se chevauchent. On ne s'arrête jamais. 2 SaaS par mois.
 
 ```
 VERTICAL M1 (E-COM)         VERTICAL M2 (AGENCIES)       VERTICAL M3 (CREATORS)

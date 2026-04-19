@@ -86,7 +86,7 @@ Suivi DM. Store speed. Pas de réponse.
 |-------|--------------------------|
 | La plateforme | Le ton change entre Twitter (concis) et LinkedIn (professionnel pédagogique) |
 | Le vertical | E-com ou creator — l'insight technique change |
-| L'insight technique | Claude n'invente jamais. Les insights viennent de l'expérience de build et des données CDV. |
+| L'insight technique | Claude n'invente jamais. Les insights viennent de l'expérience de build et des données terrain (Reddit/Facebook). |
 
 **Si F oublie un de ces 3 inputs, Claude doit demander avant de rédiger.**
 

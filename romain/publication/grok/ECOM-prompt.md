@@ -53,5 +53,5 @@ Give me 5 to 8 trending topics, sorted by engagement potential (best opportuniti
 ## NOTES
 
 - Ce prompt cherche dans "Top" (pas "Latest") — on veut les sujets qui ont PERFORMÉ.
-- Les résultats donnent des SUJETS et ANGLES pour le batch samedi. R choisit 2-3 sujets et les rédige avec ses propres données terrain CDV via le projet Claude R.
+- Les résultats donnent des SUJETS et ANGLES pour le batch samedi. R choisit 2-3 sujets et les rédige avec ses propres données terrain via le projet Claude R.
 - Grok suggère un angle contraire ou complémentaire pour chaque sujet. R peut le prendre, l'adapter, ou l'ignorer.

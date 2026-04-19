@@ -44,7 +44,7 @@ Avec Claude Code et les agents IA, tout est codable. La question n'est pas "est-
 
 | Métrique | F minimum/jour | R minimum/jour |
 |----------|---------------|---------------|
-| Interactions communautés | 15 | 30 |
+| Interactions communautés | 30 | 30 |
 | Cold outreach (phase distrib) | 10 | 20 |
 | Posts contenu | 1 (5/sem) | 1 (7/sem) |
 
@@ -199,7 +199,7 @@ Quand F finit un build → il met à jour STATUS.md → R commence la distributi
 | Ancienne contrainte | Pourquoi retirée |
 |--------------------|-----------------|
 | Time-to-market ≤ 4 semaines | Claude Code = build en 2-5 jours. Plus de limite. |
-| 1 SaaS/mois | Cadence accélérée : 3-4 SaaS/mois. Le search algorithm est 3-4x plus rapide. |
+| 1 SaaS/mois | Cadence accélérée : 2 SaaS/mois. Le search algorithm est 2x plus rapide. |
 
 ---
 
@@ -262,7 +262,7 @@ Détails complets dans WARMING-FARMING.md.
 - L'approche build-first
 - La cible dev
 - La limite time-to-market de 4 semaines
-- La cadence 1 SaaS/mois (remplacée par 3-4 SaaS/mois)
+- La cadence 1 SaaS/mois (remplacée par 2 SaaS/mois)
 - Le suivi du build dans ce repo (le build est dans des projets Claude séparés)
 
 Le framework de scoring /35 reste utilisable pour évaluer de nouvelles idées, mais les contraintes distribution-first et le scoring bonus distribution (+6 max) s'ajoutent obligatoirement.
@@ -282,6 +282,6 @@ Le framework de scoring /35 reste utilisable pour évaluer de nouvelles idées, 
 | 03/04/2026 | KILL PayloadDiff + DevToolsAPI | Cible dev = hors stratégie |
 | 03/04/2026 | LD → StoreMD, FPA → ListingLab, QF → LeadQuiz | Mutations profondes, pas des pivots cosmétiques |
 | 03/04/2026 | Nouveaux produits : ClientPulse (36), ChargebackShield (35), ProfitPilot (33) | Problèmes à 10-25K$/an, moat data, scoring top |
-| 03/04/2026 | Cadence 3-4 SaaS/mois | Claude Code = build en 2-5j. La distribution est le bottleneck. |
+| 03/04/2026 | Cadence 2 SaaS/mois | Claude Code = build en 2-5j. La distribution est le bottleneck. |
 | 03/04/2026 | Ce repo = distribution uniquement | Le build se fait dans des projets Claude séparés |
 | 08/04/2026 | Fusion 9→6 SaaS : ListingLab→StoreMD, ChargebackShield→ProfitPilot | Anti-app-bloat, plus de valeur par produit, 96 features Shopify totales |

@@ -40,7 +40,7 @@
 | `romain/cold/grok/ECOM-prompt.md` | `romain/cold/grok/` | Prompt Grok cold outreach e-com (R) |
 | `fabrice/cold/grok/ECOM-context.md` | `fabrice/cold/grok/` | Contexte Grok cold outreach e-com (F) — inclut LD/StoreMD |
 | `fabrice/cold/grok/ECOM-prompt.md` | `fabrice/cold/grok/` | Prompt Grok cold outreach e-com (F) |
-| **CDV/produits/MUTATIONS.md** | Repo compagnon | Specs mutation LD → StoreMD |
+| `produits/MUTATIONS.md` | Racine du repo | Specs mutation LD → StoreMD |
 
 ---
 

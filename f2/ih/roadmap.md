@@ -5,7 +5,7 @@
 **Hérite de :** `ih/context.md` (voix, contenu, cold outreach, engagement, formats, règles)
 **S'appuie sur :** `ih/algo.md` (mécanique plateforme, classement, données)
 **Lancement :** Avril 2026
-**Durée :** 3 mois × 3 verticals. Cadence cible : 3 SaaS/mois par vertical.
+**Durée :** 3 mois × 3 verticals. Cadence cible : 2 SaaS/mois.
 
 ---
 
@@ -173,7 +173,7 @@ become harder than building them?
 
 | Type de guide | Exemple |
 |---------------|---------|
-| "How we ship an AI agent in 10 days" | Process complet : CDV → validation → build → launch → first customers |
+| "How we ship an AI agent in 10 days" | Process complet : terrain validation → build → launch → first customers |
 | "Cold outreach across 3 verticals: what actually converts" | Données comparatives entre e-com, agences, creators |
 | "Our stack for shipping fast: what we reuse, what we rebuild" | Architecture réutilisable vs spécifique |
 | "Revenue breakdown: 9 products, 3 verticals, 3 different patterns" | Comparaison des canaux par vertical |

@@ -6,7 +6,7 @@
 **Implémenté par :** `ph/f2/context.md`, `ph/f2/roadmap.md`
 **Ce fichier contient :** la stratégie Product Hunt commune — positionnement, pre-launch, launch day, post-launch, adaptation multi-produit.
 
-**Note fondamentale :** Product Hunt n'est PAS un canal de publication continue comme Twitter, LinkedIn ou IH. C'est une **plateforme de lancement**. On n'y "poste" pas chaque semaine — on y LANCE un produit. Chaque lancement est un événement unique de 24h qui se prépare en 4-8 semaines. Avec la cadence 3 SaaS/mois par vertical, FoundryTwo peut lancer potentiellement plusieurs fois/mois sur PH — ou grouper les lancements par vertical.
+**Note fondamentale :** Product Hunt n'est PAS un canal de publication continue comme Twitter, LinkedIn ou IH. C'est une **plateforme de lancement**. On n'y "poste" pas chaque semaine — on y LANCE un produit. Chaque lancement est un événement unique de 24h qui se prépare en 4-8 semaines. Avec la cadence 2 SaaS/mois, FoundryTwo peut lancer plusieurs fois/mois sur PH — ou grouper les lancements par vertical.
 
 ---
 
@@ -239,9 +239,9 @@ R et F sont full-time. Le launch day commence à 09:01 CET. R est disponible tou
 
 ### 6.1 Le calendrier
 
-Avec la cadence 3 SaaS/mois par vertical, FoundryTwo a potentiellement 3 lancements PH/mois — ou peut grouper les lancements par vertical pour maximiser l'impact.
+Avec la cadence 2 SaaS/mois, FoundryTwo a potentiellement 2 lancements PH/mois — ou peut grouper les lancements par vertical pour maximiser l'impact.
 
-**Stratégie de lancement :** Espacer les lancements PH d'au moins 1-2 semaines pour maximiser le karma accumulation et la communauté entre chaque lancement. Ne pas lancer 3 produits la même semaine.
+**Stratégie de lancement :** Espacer les lancements PH d'au moins 1-2 semaines pour maximiser le karma accumulation et la communauté entre chaque lancement. Ne pas lancer 2 produits la même semaine.
 
 ### 6.2 Ce qui s'améliore avec chaque lancement
 

@@ -12,14 +12,14 @@
 
 ## 1. QUI EST @FOUNDRYTWO
 
-FoundryTwo est un **studio SaaS** créé par deux builders autodidactes basés à Marseille, France. Le studio construit et lance des AI agents SaaS à une cadence de 3 SaaS par mois organisés par vertical (e-commerce Shopify, agences/freelancers, content creators). Tout est construit en public — les vrais chiffres, les vrais échecs, le vrai parcours.
+FoundryTwo est un **studio SaaS** créé par deux builders autodidactes basés à Marseille, France. Le studio construit et lance des AI agents SaaS à une cadence de 2 SaaS par mois, répartis sur 3 verticals (e-commerce Shopify, agences/freelancers, content creators). Tout est construit en public — les vrais chiffres, les vrais échecs, le vrai parcours.
 
 | Fait | Détail |
 |------|--------|
 | **Fondateurs** | R (Romain — growth, CRO, marketing) et F (Fabrice — CTO, technique, code) |
 | **Modèle** | Studio SaaS multi-vertical : F code les SaaS pendant que R distribue et lance |
 | **Portfolio** | 6 AI agents répartis sur 3 verticals. Leak Detector = SaaS #0 actif, en mutation vers StoreMD. |
-| **Cadence** | 3 SaaS/mois par vertical. Chaque produit est un nouveau lancement. |
+| **Cadence** | 2 SaaS/mois. Chaque produit est un nouveau lancement. |
 | **Positionnement** | Le studio, pas un seul produit. @foundrytwo = FoundryTwo le studio multi-vertical, pas "les gars de Leak Detector" |
 | **Cible** | Merchants Shopify, freelancers marketing, content creators (NON-devs) |
 
@@ -80,7 +80,7 @@ La communauté et la vente ne sont pas deux objectifs séparés. Ils s'alignent 
 | Type | Exemple |
 |------|---------|
 | Métriques réelles portfolio | "Month 1: 3 SaaS in dev, 200+ merchants talked to, $0 MRR. Here's what we're learning." |
-| Données terrain agrégées (CDV) | "We analyzed 530+ Shopify app reviews. Top 3 complaints: speed degradation, ghost billing, residual code." |
+| Données terrain agrégées | "We analyzed 530+ Shopify app reviews. Top 3 complaints: speed degradation, ghost billing, residual code." |
 | Milestones portfolio | "First paying customer across the portfolio. Took us X days." |
 | Build in public updates | "This month: 105 features defined, 10 anti-competitor principles written, 3 MVPs shipping." |
 | Questions ouvertes à la communauté | "Shopify merchants: what's the app you regret installing the most?" |
@@ -155,8 +155,8 @@ Le squelette est fixe (quel jour = quel pilier/format). Le contenu est variable 
 | Jour | Pilier | Format | Source de données | Ton |
 |------|--------|--------|-------------------|-----|
 | **Lundi** | Metrics portfolio | Tweet single ou thread court (2-3 tweets) | Growth Tracker + métriques tous SaaS (MRR total, signups, verticals) | Factuel, transparent |
-| **Mardi** | Hot Take Vertical | Tweet single | Douleur e-com/agences/creators basée sur données terrain CDV | Affirmé mais pas agressif |
-| **Mercredi** | Data Thread CDV | Thread 4-6 tweets | Données terrain agrégées (530+ reviews, Mastercard, Reddit threads) | Analytique, structuré |
+| **Mardi** | Hot Take Vertical | Tweet single | Douleur e-com/agences/creators basée sur données terrain | Affirmé mais pas agressif |
+| **Mercredi** | Data Thread terrain | Thread 4-6 tweets | Données terrain agrégées (530+ reviews, Mastercard, Reddit threads) | Analytique, structuré |
 | **Jeudi** | Connexion / Communauté | Question ouverte ou poll | Questions pour merchants, freelancers, creators | Curieux, ouvert |
 | **Vendredi** | Build in Public | Thread court (3-4 tweets) | Recap portfolio 6 SaaS + progression + learnings | Honnête, concret |
 
@@ -185,7 +185,7 @@ We analyzed reviews from 380+ merchants. The pattern is clear:
 Your "optimization" app might be the problem.
 ```
 
-**Mercredi — Data Thread CDV :**
+**Mercredi — Data Thread terrain :**
 ```
 Tweet 1: We analyzed 530+ reviews of Shopify apps this month. Here's what merchants actually complain about 🧵
 
@@ -341,7 +341,7 @@ Le contenu F2 évolue avec le nombre de produits live et les verticals couverts 
 
 | Phase | Contenu dominant | Positionnement |
 |-------|-----------------|---------------|
-| Phase 1 (LD actif + 3 en dev) | Données terrain CDV, build in public portfolio, insights e-com | "We're building 6 AI agents for e-com, agencies, and creators." |
+| Phase 1 (LD actif + 3 en dev) | Données terrain, build in public portfolio, insights e-com | "We're building 6 AI agents for e-com, agencies, and creators." |
 | Phase 2 (3-6 SaaS live) | Cross-produit, cross-vertical, métriques portfolio | "AI agent studio, multi-vertical." |
 | Phase 3 (6 SaaS) | Studio complet, dashboard portfolio, guides cross-produit | "The studio that ships 3 AI agents per month." |
 
@@ -389,7 +389,7 @@ Voir VISUELS.md pour les templates de prompts ChatGPT et les styles.
 
 ## 10. INFORMATIONS PRODUIT — PORTFOLIO
 
-Le studio construit 6 AI agents répartis sur 3 verticals. Détails produits : voir CDV/produits/ pour les spécifications complètes.
+Le studio construit 6 AI agents répartis sur 3 verticals. Détails produits : voir `../../produits/` pour les spécifications complètes.
 
 ### 10.1 Portfolio
 
@@ -411,7 +411,7 @@ Leak Detector est ACTIF et en mutation vers StoreMD. Lancé le 16/03/2026, ~8 si
 
 - Chaque SaaS est un **AGENT IA** (pas un outil) + **PWA**.
 - PayloadDiff a été retiré du pipeline.
-- Détails complets de chaque SaaS : voir le repo CDV (source de vérité produits).
+- Détails complets de chaque SaaS : voir `../../produits/` (source de vérité produits).
 
 ---
 
@@ -422,7 +422,7 @@ Claude ne génère JAMAIS de contenu à partir de rien. R fournit toujours un in
 | Type de demande | Ce que R donne | Ce que Claude produit |
 |----------------|---------------|----------------------|
 | Post metrics lundi | Les chiffres portfolio (signups par SaaS, MRR total, verticals, progression) | Tweet formaté avec la voix F2 |
-| Post hot take mardi | La douleur e-com/agences/creators observée dans les données terrain CDV | Tweet avec le bon ton (affirmé mais pas agressif) |
+| Post hot take mardi | La douleur e-com/agences/creators observée dans les données terrain | Tweet avec le bon ton (affirmé mais pas agressif) |
 | Data thread mercredi | Les données terrain agrégées (reviews, Reddit, Mastercard, patterns par vertical) | Thread 4-6 tweets structuré |
 | Post communauté jeudi | Le sujet de la question ou du sondage (pour merchants, freelancers, ou creators) | Question ouverte ou poll formaté |
 | Post build in public vendredi | La progression portfolio, features shipped, learnings, next | Thread court 3-4 tweets |

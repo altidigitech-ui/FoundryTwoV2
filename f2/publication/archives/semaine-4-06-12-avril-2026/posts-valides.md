@@ -30,7 +30,7 @@ The pain in e-commerce is massive, real, and underserved.
 We're refocusing. Same team, same AI foundation, sharper target. More soon.
 ```
 
-### MERCREDI 08/04 — 14h CET — Data thread CDV
+### MERCREDI 08/04 — 14h CET — Data thread terrain
 
 ```
 Data from 530+ Shopify app reviews. 3 patterns every merchant should know.

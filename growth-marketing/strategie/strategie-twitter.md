@@ -37,9 +37,9 @@ Comptes produit crees au fur et a mesure des lancements SaaS (StoreMD, ProfitPil
 | **Emplacement** | Marseille, France |
 
 **Notes bio :**
-- "killing your SaaS conversion" -> "costing your business money" (framing CDV plus large)
-- "CRO, growth, landing pages" -> "Growth, e-com, marketing, Shopify" (verticales CDV)
-- "Leak Detector + PayloadDiff" -> "Building 6 AI agents for merchants, agencies, creators" (portfolio CDV)
+- "killing your SaaS conversion" -> "costing your business money" (framing distribution-first plus large)
+- "CRO, growth, landing pages" -> "Growth, e-com, marketing, Shopify" (verticales)
+- "Leak Detector + PayloadDiff" -> "Building 6 AI agents for merchants, agencies, creators" (portfolio)
 - Lien : foundrytwo.com (portfolio, pas un seul produit)
 
 ### 2.2 F -- @FabGangi
@@ -54,8 +54,8 @@ Comptes produit crees au fur et a mesure des lancements SaaS (StoreMD, ProfitPil
 | **Emplacement** | Marseille, France |
 
 **Notes bio :**
-- "Python, FastAPI, LLMs in prod" -> "Building AI agents for e-com & creators" (angle CDV accessible)
-- "Leak Detector + PayloadDiff" -> "6 AI agents -- I automate what takes you hours" (portfolio CDV)
+- "Python, FastAPI, LLMs in prod" -> "Building AI agents for e-com & creators" (angle distribution-first accessible)
+- "Leak Detector + PayloadDiff" -> "6 AI agents -- I automate what takes you hours" (portfolio)
 - Quand un agent specifique a de la traction -> le nommer en bio temporairement
 
 ### 2.3 F2 -- @foundrytwo
@@ -99,7 +99,7 @@ Ce compte N'A JAMAIS PUBLIE. Bio a creer de zero.
 **Ton :** Direct, provocateur, data-driven, humour sec. Praticien growth obsede par ce qui coute de l'argent aux marchands, agences et createurs.
 **Positionnement :** Expert terrain qui montre ce qu'il voit dans les donnees reelles. Pas un theoricien.
 
-**6 registres CDV :**
+**6 registres :**
 
 | Registre | Exemple |
 |----------|---------|
@@ -139,7 +139,7 @@ Ce compte N'A JAMAIS PUBLIE. Bio a creer de zero.
 **Ton :** Technique mais accessible, concret, honnete sur les galeres, passionne. Dev indie qui construit des agents AI pour des problemes reels.
 **Positionnement :** Praticien technique. Ce que la doc ne dit pas. L'automatisation comme superpouvoir.
 
-**6 registres CDV :**
+**6 registres :**
 
 | Registre | Exemple |
 |----------|---------|

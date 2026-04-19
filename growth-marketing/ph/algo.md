@@ -341,7 +341,7 @@ L'avantage : chaque lancement bénéficie de la communauté PH construite par le
 | 7 | **Répondre à CHAQUE commentaire en < 5 min.** Crée des threads, signale une discussion active, maintient le produit visible. | Fort |
 | 8 | **Jamais demander des upvotes.** Demander des visites et des commentaires. PH monitore et pénalise le vote fishing. | Fort |
 | 9 | **Self-hunting est la norme.** Un hunter externe n'apporte plus de notification aux followers. Utile uniquement si expert de ta niche avec haute karma. | Modéré |
-| 10 | **Chaque SaaS = un nouveau lancement.** Avec 3 SaaS/mois par vertical, FoundryTwo lance potentiellement plusieurs fois/mois sur PH. Chaque lancement bénéficie de la communauté construite par les précédents. | Structurel |
+| 10 | **Chaque SaaS = un nouveau lancement.** Avec 2 SaaS/mois, FoundryTwo lance potentiellement plusieurs fois/mois sur PH. Chaque lancement bénéficie de la communauté construite par les précédents. | Structurel |
 
 ---
 

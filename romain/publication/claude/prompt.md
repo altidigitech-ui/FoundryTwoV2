@@ -27,7 +27,7 @@ Pour les sujets tendance/angles : Grok peut aider à identifier ce qui se discut
 Hot take Twitter.
 Sujet : [douleur e-com ou agence — ex: "chargebacks friendly fraud"]
 Mon opinion : [l'opinion tranchée de R]
-Données : [données terrain CDV — ex: "$800/mois de perte moyenne, 71% friendly fraud"]
+Données : [données terrain — ex: "$800/mois de perte moyenne, 71% friendly fraud"]
 Mes mots : [1-2 phrases comme R les a dites à F]
 ```
 

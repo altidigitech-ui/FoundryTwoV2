@@ -9,4 +9,4 @@ Karma début : 1 | Karma fin : 1 (+0)
 | Rattrapage commentaires subs faciles | ☐ SKIP |
 
 ## BILAN
-Temps actif : 0h terrain CDV | Raison : debug StoreMD toute la journée, bugs résolus.
+Temps actif : 0h distribution terrain | Raison : debug StoreMD toute la journée, bugs résolus.

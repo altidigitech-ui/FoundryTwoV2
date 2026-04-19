@@ -106,4 +106,4 @@ Voir `romain/cross-engagement-tracker.md` pour toutes les replies cross-engageme
 
 ## 9. NOTES
 
-Semaine 4. Première semaine post-pivot (03/04/2026). Cibles : merchants Shopify, agency owners, freelancers. Données terrain CDV.
+Semaine 4. Première semaine post-pivot (03/04/2026). Cibles : merchants Shopify, agency owners, freelancers. Données terrain.

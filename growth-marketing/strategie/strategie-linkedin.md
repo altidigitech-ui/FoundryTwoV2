@@ -58,7 +58,7 @@ I'm co-building FoundryTwo — a studio shipping 6 AI agents that fix these prob
 ```
 
 **Regles d'evolution About R :**
-- Le About evolue avec les donnees terrain. Quand les chiffres changent (nombre de merchants contactes, nouvelles stats CDV), mettre a jour.
+- Le About evolue avec les donnees terrain. Quand les chiffres changent (nombre de merchants contactes, nouvelles stats terrain), mettre a jour.
 - Quand un agent specifique gagne en traction → ajouter une phrase sur cet agent (angle business/revenue).
 - Quand MRR > $0 → ne PAS ajouter le MRR dans le About perso (c'est le job de la page F2).
 
@@ -66,7 +66,7 @@ I'm co-building FoundryTwo — a studio shipping 6 AI agents that fix these prob
 
 **Skills :** E-commerce Growth, Marketing, Conversion, Shopify.
 
-**Featured section :** Meilleur post LinkedIn (donnees terrain CDV) + lien foundrytwo.com.
+**Featured section :** Meilleur post LinkedIn (donnees terrain) + lien foundrytwo.com.
 
 ### 2.2 F — Fabrice Gangitano
 
@@ -161,7 +161,7 @@ Chaque nouveau agent = 1 nouvelle entree dans Products au moment du launch.
 **Ton :** Professionnel decontracte, data-driven, nuance. Expert e-commerce et marketing qui enseigne avec autorite. Opinion toujours tranchee, mais presentee avec le raisonnement et les donnees derriere.
 **Positionnement :** Praticien growth obsede par les problemes reels des merchants, agencies, et freelancers. Pas un theoricien. Pas un consultant qui pitch. Un expert qui montre ce qu'il voit sur le terrain.
 
-**Les 6 registres CDV adaptes pour LinkedIn R :**
+**Les 6 registres adaptes pour LinkedIn R :**
 
 | Registre | Description LinkedIn | Exemple |
 |----------|---------------------|---------|
@@ -199,7 +199,7 @@ Chaque nouveau agent = 1 nouvelle entree dans Products au moment du launch.
 **Ton :** Pedagogique, raisonnement developpe, tradeoffs expliques. Builder technique qui partage ce que la doc ne dit pas. Accessible — pas du jargon pour impressionner, mais des explications claires pour que meme un non-dev comprenne le "pourquoi".
 **Positionnement :** Praticien technique qui construit des AI agents pour l'e-commerce et les createurs. Les galeres reelles, les solutions reelles, les choix d'architecture avec leurs consequences.
 
-**Les 6 registres CDV adaptes pour LinkedIn F :**
+**Les 6 registres adaptes pour LinkedIn F :**
 
 | Registre | Description LinkedIn | Exemple |
 |----------|---------------------|---------|
@@ -379,7 +379,7 @@ Le meme SUJET peut etre aborde sur Twitter et LinkedIn. Le meme TEXTE ne peut JA
 
 **Ces volumes sont des PLANCHERS, pas des plafonds** (decision validee #2). Augmentation progressive tant que l'algo ne penalise pas et que l'audience ne fatigue pas.
 
-**R et F ont les memes volumes LinkedIn.** 15 interactions/jour chacun. Les deux profiles sont egalement importants pour la strategie CDV.
+**R et F ont les memes volumes LinkedIn.** 15 interactions/jour chacun. Les deux profiles sont egalement importants pour la stratégie distribution-first.
 
 **Commentaires engagement (25/jour R, 25/jour F) :**
 - Chaque commentaire = 15+ mots, insight concret, question de suivi (cf. §7 pour le framework)
@@ -625,11 +625,11 @@ Sur LinkedIn, envoyer un DM immediatement apres acceptation d'une connexion est 
 
 **Jamais de DM avant J+3 post-acceptation.** Le prospect doit avoir vu le nom de R/F dans ses notifications au moins 2 fois avant de recevoir un DM. Ca transforme le cold en warm.
 
-### 8.4 Framing "Terrain Insights" (pivot CDV)
+### 8.4 Framing "Terrain Insights" (pivot distribution-first)
 
 On ne vend PAS un "outil gratuit." On partage des donnees terrain reelles qui resonnent avec les problemes du prospect.
 
-| Ancien framing (LD/PD) | Nouveau framing (CDV terrain) |
+| Ancien framing (LD/PD) | Nouveau framing (terrain) |
 |------------------------|-------------------------------|
 | "Free AI audit of your landing page" | "I've talked to 50+ merchants. The same 3 problems keep showing up — chargebacks, speed, app bloat." |
 | "Try our webhook monitoring tool" | "71% of chargebacks are friendly fraud. Most merchants don't know they can fight them automatically." |

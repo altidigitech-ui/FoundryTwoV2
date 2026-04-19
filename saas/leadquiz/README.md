@@ -3,7 +3,7 @@
 **Statut :** ⏳ En développement
 **Vertical :** E-com + Coaches
 **Mois prévu :** Mois 3 (juin)
-**Specs détaillées :** CDV/produits/
+**Specs détaillées :** `produits/NOUVEAUX.md`
 
 ---
 

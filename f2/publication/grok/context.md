@@ -28,6 +28,6 @@ R copie les sujets tendance Grok → les donne au projet Claude "FoundryTwo" →
 Les sujets trouvés alimentent le squelette 5j/sem :
 - Lundi : Metrics portfolio
 - Mardi : Hot take vertical (le sujet tendance de la semaine)
-- Mercredi : Data thread (données terrain CDV × tendance)
+- Mercredi : Data thread (données terrain × tendance)
 - Jeudi : Question communauté (pour merchants/freelancers/creators)
 - Vendredi : Build in public recap

@@ -185,7 +185,7 @@ Les replies cross-engagement de R suivent les mêmes règles que le mode écosys
 **Angles R valides pour les posts F (technique) :**
 - E-com : "What I'm seeing on the growth side confirms this. Merchants who [insight terrain]..."
 - Agences : "This maps directly to what agency owners tell me about [problème]..."
-- Business impact : "The business impact of this is [insight growth basé sur données terrain CDV]..."
+- Business impact : "The business impact of this is [insight growth basé sur données terrain]..."
 
 **Angles R valides pour les posts F2 (studio) :**
 - Vécu co-fondateur : "On the growth side, this week I [insight cold outreach/engagement]..."

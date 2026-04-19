@@ -173,7 +173,7 @@ L'engagement de R évolue avec chaque nouveau SaaS :
 
 | Produits live | Engagement angle |
 |---------------|-----------------|
-| **Mois 1 (e-com)** | Insights basés sur les données terrain CDV : chargebacks, vitesse store, conversion, app tax. |
+| **Mois 1 (e-com)** | Insights basés sur les données terrain : chargebacks, vitesse store, conversion, app tax. |
 | **Mois 2 (+ agences)** | + Insights agences : reporting, ROI, client churn, pricing. Patterns cross-vertical. |
 | **Mois 3 (+ creators)** | Expert growth multi-vertical avec des données sur 3 verticals. Chaque commentaire est appuyé par un portefeuille de preuves. |
 

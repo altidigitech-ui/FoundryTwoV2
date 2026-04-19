@@ -15,7 +15,7 @@
 
 La publication, c'est les propres posts de R sur ses comptes perso — pas les commentaires (engagement), pas les replies d'insight (cold outreach), pas les posts F2 (R rédige aussi les posts F2 via le projet Claude F2).
 
-**Les posts de R sont batchés le samedi.** R ouvre le projet Claude "Romain", donne les données de la semaine (patterns des conversations terrain, chiffres CDV, sujets tendance), et Claude génère les posts un par un. R valide, ajuste, et programme. En semaine, zéro rédaction de posts — uniquement publication des posts programmés.
+**Les posts de R sont batchés le samedi.** R ouvre le projet Claude "Romain", donne les données de la semaine (patterns des conversations terrain, chiffres terrain, sujets tendance), et Claude génère les posts un par un. R valide, ajuste, et programme. En semaine, zéro rédaction de posts — uniquement publication des posts programmés.
 
 ### 1.1 Mindset Build My Community
 
@@ -60,7 +60,7 @@ R est un **expert growth e-com & marketing** — pas un spécialiste landing pag
 
 | Phase | Période | Mix contenu | Posts/jour |
 |-------|---------|------------|-----------|
-| 1 | Avril | 30% data (CDV), 30% provocation, 20% questions, 20% build in public | 1 |
+| 1 | Avril | 30% data, 30% provocation, 20% questions, 20% build in public | 1 |
 | 2 | Mai | 35% data multi-vertical, 25% provocation, 20% questions, 20% patterns | 1-2 (si engagement rate > 1%) |
 | 3 | Juin+ | 35% data, 25% communauté, 20% provocation, 20% threads profonds | 2-3 |
 
@@ -87,7 +87,7 @@ R est un **expert growth e-com & marketing** — pas un spécialiste landing pag
 
 ### 2.3 IH et Reddit — PAS de publication perso R
 
-R ne publie PAS sur IH ni Reddit depuis un compte perso. Les publications IH sont sous @foundrytwo (géré par R mais via le projet Claude F2). Reddit = repo CDV. Le dossier publication/ R couvre Twitter et LinkedIn uniquement.
+R ne publie PAS sur IH ni Reddit depuis un compte perso. Les publications IH sont sous @foundrytwo (géré par R mais via le projet Claude F2). Reddit est géré séparément dans `../../reddit/` (distribution terrain). Le dossier publication/ R couvre Twitter et LinkedIn uniquement.
 
 ---
 
@@ -99,7 +99,7 @@ R ne publie PAS sur IH ni Reddit depuis un compte perso. Les publications IH son
 |--------|----------|
 | **La plateforme** | Twitter ou LinkedIn |
 | **Le type de post** | Hot take, data post, question, thread, learning perso, pattern, texte long, carousel |
-| **Les données de la semaine** | Patterns des conversations terrain CDV, chiffres, learnings, sujets tendance Grok |
+| **Les données de la semaine** | Patterns des conversations terrain, chiffres, learnings, sujets tendance Grok |
 | **L'angle ou le sujet** | Le sujet précis que R veut couvrir |
 | **Les mots de R** | 1-2 formulations dans ses propres mots (matière première verbale) |
 
@@ -134,7 +134,7 @@ Alterner les registres entre les posts. JAMAIS deux posts consécutifs avec le m
 
 | Produits live | Contenu angle |
 |---------------|--------------|
-| **Mois 1 (e-com)** | Insights e-com : chargebacks, vitesse store, conversion product pages, app tax. Données terrain CDV. |
+| **Mois 1 (e-com)** | Insights e-com : chargebacks, vitesse store, conversion product pages, app tax. Données terrain. |
 | **Mois 2 (+ agences)** | + Insights agences : reporting, ROI, pricing. Patterns CROSS-VERTICAL premium. |
 | **Mois 3 (+ creators)** | Expert growth multi-vertical. Threads profonds cross-vertical. Portfolio 6 SaaS comme preuve. |
 

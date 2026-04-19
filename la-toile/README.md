@@ -2,7 +2,7 @@
 
 > **Ce repo est la source de verite de la societe.** Tout ce qui concerne la strategie, l'organisation, la repartition du travail et la coordination entre F et R est ici. Les autres repos (produits, marketing) s'alignent sur ces documents.
 
-> Derniere mise a jour : 05 avril 2026 — PIVOT CDV
+> Derniere mise a jour : 05 avril 2026 — Pivot distribution-first
 
 ---
 
@@ -13,7 +13,7 @@
 | `TOILE-CONTEXT.md` | **Source de verite** | Qu'est-ce que La Toile, pourquoi, les 8 noeuds, les 3 flux de conversion, les 12 commandements, la machine de contenu mutualise |
 | `TOILE-COORDINATION.md` | **Plan operationnel** | Qui fait quoi et quand. Protocole d'amplification, workflow de contenu, dossier batch, formats par plateforme, gestion UTM, incidents |
 | `TOILE-ROADMAP.md` | **Timeline** | Phase par phase. Phase 0 (fondations) → Phase 6 (domination). Template generique par SaaS avec checkpoints |
-| `TOILE-ASSOCIES.md` | **Repartition F + R** | Roles full-time, cycle usine (3 SaaS/mois par vertical), 7 domaines de responsabilite, RACI, regles anti-conflit, scaling |
+| `TOILE-ASSOCIES.md` | **Repartition F + R** | Roles full-time, cycle usine (2 SaaS/mois), 7 domaines de responsabilite, RACI, regles anti-conflit, scaling |
 
 ---
 
@@ -31,7 +31,7 @@ La Toile est l'architecture de visibilite et de conversion de FoundryTwo. Un res
 
 ## Modele Usine
 
-F et R sont full-time FoundryTwo. 3 SaaS par mois par vertical :
+F et R sont full-time FoundryTwo. 2 SaaS par mois, répartis sur 3 verticals :
 
 ```
 VERTICAL M1 (E-COM)         VERTICAL M2 (AGENCIES)       VERTICAL M3 (CREATORS)
@@ -69,9 +69,10 @@ R: [===LAUNCH vertical N-1===]────[===LAUNCH vertical N===]
 
 ---
 
-## Repo compagnon
+## Dossiers liés (racine du repo)
 
-**CDV/** — Contient les specs produits, les verticals, le contexte du pivot, et la roadmap detaillee par SaaS.
+- `../produits/` — specs produits (STATUS, NOUVEAUX, MUTATIONS)
+- `../strategie/` — strategie, verticals, contexte du pivot, warming-farming
 
 ---
 
@@ -89,7 +90,7 @@ R: [===LAUNCH vertical N-1===]────[===LAUNCH vertical N===]
 - **Ce repo est intouchable.** Les autres repos s'alignent sur ces documents, pas l'inverse.
 - **Toute decision** est notee dans le canal WhatsApp "F2 — Decisions" avec date + rationale.
 - **Toute modification** de ces fichiers necessite l'accord des deux associes.
-- **Version actuelle** : v4.0 (05 avril 2026 — Pivot CDV)
+- **Version actuelle** : v4.0 (05 avril 2026 — Pivot distribution-first)
 
 ---
 

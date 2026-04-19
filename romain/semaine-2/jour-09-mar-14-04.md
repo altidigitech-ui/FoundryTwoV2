@@ -15,5 +15,5 @@ Karma début : 1 | Karma fin : ___ (+___)
 - Douleurs observées : 0
 
 ## BILAN
-Temps actif : ~1h (21h-22h) | Journée passée sur repo FT. Soirée : F5Bot + 2 commentaires Reddit.
+Temps actif : ~1h (21h-22h) | Journée passée sur le repo (brand building). Soirée : F5Bot + 2 commentaires Reddit.
 Ajustement demain : Facebook setup + browse e-com + 6-8 commentaires Reddit pour rattraper.

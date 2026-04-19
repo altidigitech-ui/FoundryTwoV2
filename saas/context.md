@@ -4,7 +4,7 @@
 **Hérite de :** `marketing/context.md` (pipeline §2, funnel §3, comptes §5)
 **Hérite de :** `la-toile/context.md` (architecture de visibilité, nœuds produits)
 **Ce fichier contient :** les conventions du portefeuille SaaS — comment chaque sous-dossier est structuré, ce que chaque fichier contient, les règles communes, le pipeline.
-**Ce fichier ne contient PAS :** les détails de chaque produit (features, pricing, concurrents, données marché = voir repo CDV/produits/).
+**Ce fichier ne contient PAS :** les détails de chaque produit (features, pricing, concurrents, données marché = voir `produits/`).
 
 ---
 
@@ -14,14 +14,14 @@ FoundryTwo est un **studio SaaS** qui construit et lance des outils SaaS propuls
 
 Chaque SaaS est un **agent IA** (pas un outil) et une **PWA** (Progressive Web App, installable, notifications push, offline).
 
-Détails produits (features, pricing, concurrents) = voir repo **CDV/produits/**. Ce dossier contient uniquement le positionnement public et le messaging pour le brand building Twitter/LinkedIn.
+Détails produits (features, pricing, concurrents) = voir **`produits/`** à la racine. Ce dossier contient uniquement le positionnement public et le messaging pour le brand building Twitter/LinkedIn.
 
 | Principe | Détail |
 |----------|--------|
-| **Modèle usine** | F code les SaaS avec Claude Code pendant que R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook = repo CDV. |
+| **Modèle usine** | F code les SaaS avec Claude Code pendant que R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook gérée dans `../romain/reddit/`, `../fabrice/reddit/`, etc. |
 | **Cadence cible** | 2 SaaS/mois. La vélocité est un avantage compétitif — Claude Code rend la complexité technique un moat, pas un frein. |
 | **Chaque produit est indépendant** | Son propre domaine, son propre repo, son propre sous-dossier marketing, ses propres métriques. |
-| **Chaque produit bénéficie des précédents** | La base users, l'audience, le karma PH, la communauté, les learnings, le warming terrain CDV — tout s'accumule. |
+| **Chaque produit bénéficie des précédents** | La base users, l'audience, le karma PH, la communauté, les learnings, le warming terrain — tout s'accumule. |
 | **Cross-sell par vertical** | Les produits du même vertical se complètent. "Also from FoundryTwo" sur chaque site. |
 | **Cible non-dev** | Les produits ciblent des merchants Shopify, freelancers marketing, content creators. Pas des développeurs. |
 
@@ -29,7 +29,7 @@ Détails produits (features, pricing, concurrents) = voir repo **CDV/produits/**
 
 ## 2. PIPELINE
 
-| # | Produit | Vertical | Mois | Statut | Sous-dossier FT |
+| # | Produit | Vertical | Mois | Statut | Sous-dossier saas/ |
 |---|---------|----------|------|--------|-----------------|
 | 0 | **Leak Detector** | (remplacé par StoreMD) | Historique | ARCHIVED | `saas/leak-detector/` |
 | 1 | **StoreMD** (43 features, 5 modules) | E-commerce | Mois 1 | En développement | `saas/storemd/` |
@@ -42,7 +42,7 @@ Détails produits (features, pricing, concurrents) = voir repo **CDV/produits/**
 
 > **Fusion 08/04/2026 :** ListingLab → module Listings de StoreMD. ChargebackShield → module Anti-Fraude de ProfitPilot. Total Shopify : 96 features, 3 apps au lieu de 5.
 
-**Règle :** Les sous-dossiers sont créés QUAND le produit entre en phase de distribution Twitter/LinkedIn. Avant ça, les détails sont dans CDV uniquement.
+**Règle :** Les sous-dossiers sont créés QUAND le produit entre en phase de distribution Twitter/LinkedIn. Avant ça, les détails restent dans `produits/` uniquement.
 
 ---
 
@@ -52,7 +52,7 @@ Chaque produit a le même squelette :
 
 ```
 saas/[nom-produit]/
-├── context.md      ← Positionnement public, personas Twitter/LinkedIn, messaging par vertical, référence CDV
+├── context.md      ← Positionnement public, personas Twitter/LinkedIn, messaging par vertical, référence produits/
 ├── metrics.md      ← Template métriques : signups, MRR, conversion, analyses, NPS (rempli au fil du temps)
 ├── README.md       ← Navigation du dossier
 └── asset-brand/    ← Assets visuels du produit (logo, screenshots, etc.)
@@ -62,9 +62,9 @@ saas/[nom-produit]/
 
 | Section | Ce qu'elle couvre |
 |---------|------------------|
-| **Référence CDV** | Pointer vers CDV/produits/[nom]/ pour les specs détaillées (features, pricing, concurrents, données marché) |
+| **Référence produits/** | Pointer vers `produits/NOUVEAUX.md` ou `produits/MUTATIONS.md` pour les specs détaillées (features, pricing, concurrents, données marché) |
 | **Positionnement public** | Ce que c'est, ce que ce n'est pas, différenciateur principal, URL |
-| **Personas Twitter/LinkedIn** | Les personas POUR LE BRAND BUILDING — comment en parler sur Twitter/LinkedIn pour chaque vertical cible. Pas les personas utilisateur détaillés (qui sont dans CDV). |
+| **Personas Twitter/LinkedIn** | Les personas POUR LE BRAND BUILDING — comment en parler sur Twitter/LinkedIn pour chaque vertical cible. Pas les personas utilisateur détaillés (qui sont dans produits/). |
 | **Messaging par vertical** | Comment parler de ce SaaS à chaque vertical. Hooks, angles, vocabulaire. |
 | **Lien studio** | Hiérarchie de communication F2 ↔ produit, règles d'articulation, cross-sell |
 | **Inputs cold outreach** | Ce que R et F donnent à Claude pour le cold outreach basé sur ce produit |
@@ -114,7 +114,7 @@ saas/[nom-produit]/
 | Étape | Action |
 |-------|--------|
 | 1 | Créer le sous-dossier `saas/[nom-produit]/` avec context.md + metrics.md + README.md |
-| 2 | Remplir context.md avec le positionnement public (adapté depuis CDV/produits/[nom]/) |
+| 2 | Remplir context.md avec le positionnement public (adapté depuis `produits/NOUVEAUX.md` ou `produits/MUTATIONS.md`) |
 | 3 | Uploader `saas/[nom-produit]/context.md` dans les projets Claude R et F |
 | 4 | Ajouter le SaaS aux prompts Grok existants du vertical concerné (ECOM-prompt.md, AGENCY-prompt.md, ou CREATOR-prompt.md) — OU créer un nouveau prompt si le vertical est nouveau |
 | 5 | Mettre à jour les bios et profils (Twitter, LinkedIn, IH, PH) — "Currently building: [produit]" |
@@ -132,4 +132,4 @@ saas/[nom-produit]/
 | marketing/roadmap.md | marketing/ | Vision semestrielle, cadence |
 | growth-marketing/roadmap.md | growth-marketing/ | Coordination marketing cross-plateforme par phase |
 | la-toile/context.md | la-toile/ | Architecture de visibilité, nœuds produits |
-| **CDV/produits/** | Repo compagnon | **Source de vérité produits** (features, pricing, concurrents, données marché) |
+| `produits/` | Racine du repo | **Source de vérité produits** (features, pricing, concurrents, données marché) |

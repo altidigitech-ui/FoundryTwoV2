@@ -40,7 +40,7 @@ La reconstruction du réseau commence AVANT le lancement. Chaque connexion ajout
 |------|----------------|----------------------------------------|------------|
 | **Mardi** | Texte long : qui je suis, ce que je fais, pourquoi. Positionnement growth e-com/marketing. Données terrain (50+ merchants, $800 chargebacks). Pas de pitch produit. | 15 interactions sur posts e-com/marketing/agences. | 5-10 |
 | **Mercredi** | Engagement à valeur uniquement — pas de post. | 15 interactions. Cross-engagement post F si F a publié. | 5-10 |
-| **Jeudi** | Texte long : premier data insight terrain. "$800/month chargebacks" ou "530+ app reviews" — données terrain CDV reformulées en format LinkedIn. | 15 interactions. | 5-10 |
+| **Jeudi** | Texte long : premier data insight terrain. "$800/month chargebacks" ou "530+ app reviews" — données terrain reformulées en format LinkedIn. | 15 interactions. | 5-10 |
 | **Vendredi** | Engagement uniquement. | 15 interactions. | 3-5 |
 | **Samedi** | Batch semaine 2 (LinkedIn intégré dans la session Twitter + F2). | — | — |
 

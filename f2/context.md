@@ -82,7 +82,7 @@ Un projet Claude pré-configuré qui gère TOUTE la rédaction du compte @foundr
 | Élément | Fichier | Rôle |
 |---------|---------|------|
 | **System prompt** | f2/publication/prompt.md | Instructions permanentes : qui est F2, quelle voix, quelles règles, quels formats, quels anti-patterns. Actif dans chaque conversation. |
-| **Fichiers de connaissance** | f2/publication/context.md + pipeline 6 SaaS (référence CDV) + fichiers growth-marketing/ pertinents | Le contexte complet que Claude doit connaître. Uploadés une fois dans le projet. |
+| **Fichiers de connaissance** | f2/publication/context.md + pipeline 6 SaaS (référence produits/) + fichiers growth-marketing/ pertinents | Le contexte complet que Claude doit connaître. Uploadés une fois dans le projet. |
 
 Le détail du system prompt et des fichiers de connaissance est dans f2/publication/.
 
@@ -92,7 +92,7 @@ Le détail du system prompt et des fichiers de connaissance est dans f2/publicat
 
 ## 5. CADENCE MULTI-PRODUIT
 
-FoundryTwo est un studio SaaS avec une cadence cible de 3 SaaS/mois par vertical. Le portfolio comprend 6 AI agents répartis sur 3 verticals (e-com Shopify, agences/freelancers, content creators). Chaque nouveau produit impacte F2 :
+FoundryTwo est un studio SaaS avec une cadence cible de 2 SaaS/mois. Le portfolio comprend 6 AI agents répartis sur 3 verticals (e-com Shopify, agences/freelancers, content creators). Chaque nouveau produit impacte F2 :
 
 | Événement | Impact sur F2 |
 |-----------|--------------|

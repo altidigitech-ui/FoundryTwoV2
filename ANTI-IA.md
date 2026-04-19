@@ -1,6 +1,6 @@
 # ANTI-DETECTION IA — CONTRAINTE PRIORITAIRE
 
-**Ce fichier est uploade dans CHAQUE projet Claude (F, R, F2, CDV).
+**Ce fichier est uploade dans CHAQUE projet Claude (F, R, F2).
 Il est lu AVANT tout autre fichier. Ses regles PRIMENT sur tout le reste.**
 
 ---
@@ -126,7 +126,7 @@ the scanning part took 2 days. classifying which app is actually causing the dam
 ---
 
 ## CE FICHIER S'APPLIQUE A :
-- Tout output du projet Claude Fabrice (FT + CDV)
-- Tout output du projet Claude Romain (FT + CDV)
+- Tout output du projet Claude Fabrice (FoundryTwo)
+- Tout output du projet Claude Romain (FoundryTwo)
 - Tout output du projet Claude FoundryTwo (F2)
 - Sans exception. Pas de plateforme exclue. Pas de "mode" exclue.

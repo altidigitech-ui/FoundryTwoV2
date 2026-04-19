@@ -105,7 +105,7 @@ Claude comprend et produit dans le bon format car le contexte est dans les fichi
 |-------|--------------------------|
 | La plateforme | Le ton et le format changent entre Twitter (concis) et LinkedIn (professionnel long-form) |
 | Le vertical | E-com ou agence — l'insight et l'angle changent |
-| L'insight terrain | Claude n'invente jamais une donnée. Les insights viennent des données CDV. |
+| L'insight terrain | Claude n'invente jamais une donnée. Les insights viennent des données terrain. |
 
 **Le registre est optionnel.** Si R ne précise pas, Claude choisit automatiquement un registre différent du précédent.
 

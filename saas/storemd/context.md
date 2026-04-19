@@ -4,7 +4,7 @@
 **Statut :** ⏳ En développement
 **Vertical :** E-commerce
 **Mois prévu :** Mois 1 (avril)
-**Specs détaillées :** Voir CDV/produits/MUTATIONS.md
+**Specs détaillées :** Voir `produits/MUTATIONS.md`
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 5. DONNÉES TERRAIN POUR LE CONTENU
 
-Source : CDV (repo compagnon)
+Source : `produits/MUTATIONS.md`
 
 | Donnée | Chiffre | Utilisable dans les posts |
 |--------|---------|---------------------------|

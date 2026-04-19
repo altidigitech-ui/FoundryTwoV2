@@ -157,5 +157,5 @@ Free scan → https://storemd.vercel.app/
 
 ## NOTES
 
-Batch réalisé dimanche 12/04. Semaine de lancement StoreMD. Launch day = mardi 14/04. Données issues du repo StoreMD (context.md, 43 features, 5 modules) + données terrain CDV (530+ reviews, 380+ reviews 4 apps, 50+ threads Reddit, bot traffic merchant, chargebacks $800/mois).
+Batch réalisé dimanche 12/04. Semaine de lancement StoreMD. Launch day = mardi 14/04. Données issues du repo StoreMD (context.md, 43 features, 5 modules) + données terrain (530+ reviews, 380+ reviews 4 apps, 50+ threads Reddit, bot traffic merchant, chargebacks $800/mois).
 URL StoreMD : https://storemd.vercel.app/ — à poster en reply/commentaire séparé, JAMAIS dans le corps du post.

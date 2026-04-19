@@ -22,4 +22,6 @@ Dossier marketing global du studio FoundryTwo.
 | Suivi outreach et métriques | tracking/ |
 | SaaS et marketing produit | saas/ |
 | Coordination stratégique | la-toile/ |
-| **Co-do-va-bu-di (CDV)** | **Repo compagnon — source de vérité produits, distribution Reddit/Facebook** |
+| Produits (features, pricing, specs) | `../produits/` |
+| Distribution terrain Reddit/Facebook | `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/` |
+| Stratégie globale | `../strategie/` |

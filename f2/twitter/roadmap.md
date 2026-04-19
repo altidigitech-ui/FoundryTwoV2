@@ -11,7 +11,7 @@
 
 | Phase | Période | Focus F2 | Posts/jour |
 |-------|---------|----------|-----------|
-| 1 | Avril | Build in public 3 e-com SaaS + données terrain CDV | 1 (lun-ven) |
+| 1 | Avril | Build in public 3 e-com SaaS + données terrain | 1 (lun-ven) |
 | 2 | Mai | Lancements + contenu multi-vertical (e-com, agencies, creators) | 1 (lun-ven) |
 | 3 | Juin+ | Full portfolio 6 SaaS + autorité studio AI agents | 1 (lun-ven) |
 
@@ -21,26 +21,26 @@ F2 reste à 1 post/jour 5j/semaine sur toute la période. Pas de montée en volu
 
 | Verticale | SaaS | Phase d'activation |
 |-----------|------|--------------------|
-| **E-com** | Leak Detector, ChargebackDefender (CDV), PriceRadar | Phase 1 (Avril) |
+| **E-com** | Leak Detector, ChargebackDefender, PriceRadar | Phase 1 (Avril) |
 | **Agencies** | BriefForge, AdWatcher, InvoiceGuard | Phase 2 (Mai) |
 | **Creators** | ContentFlow, AdWatcher, InvoiceGuard | Phase 2 (Mai) |
 | **Cross-vertical** | DataMerge, ReviewPulse | Phase 3 (Juin+) |
 
 ---
 
-## 2. PHASE 1 — AVRIL : BUILD IN PUBLIC E-COM + DONNÉES TERRAIN CDV
+## 2. PHASE 1 — AVRIL : BUILD IN PUBLIC E-COM + DONNÉES TERRAIN
 
 ### 2.1 Objectif
 
-Installer la présence F2 comme studio AI agents, publier les données terrain CDV (530+ reviews, Reddit, Mastercard), et documenter la construction des 3 premiers SaaS e-com en build in public.
+Installer la présence F2 comme studio AI agents, publier les données terrain (530+ reviews, Reddit, Mastercard), et documenter la construction des 3 premiers SaaS e-com en build in public.
 
 ### 2.2 Semaine 1 — Lancement
 
 | Jour | Pilier squelette | Contenu spécifique semaine 1 |
 |------|-----------------|------------------------------|
 | **Lundi** | Metrics Portfolio | Tweet d'annonce : qui on est, ce qu'on build (6 AI agents, 3 verticales), pourquoi. Pas de métriques encore. Lien vers foundrytwo.com en reply. |
-| **Mardi** | Hot Take Studio | Première donnée terrain CDV : "$800/month — the average chargeback cost Shopify merchants don't track." |
-| **Mercredi** | Data Thread | Premier thread CDV : 530+ reviews analysées, 71% friendly fraud, apps JS, ghost billing. |
+| **Mardi** | Hot Take Studio | Première donnée terrain : "$800/month — the average chargeback cost Shopify merchants don't track." |
+| **Mercredi** | Data Thread | Premier thread terrain : 530+ reviews analysées, 71% friendly fraud, apps JS, ghost billing. |
 | **Jeudi** | Communauté | Question ouverte : "Shopify merchants: what's your biggest hidden cost running your store?" |
 | **Vendredi** | Build in Public | Recap semaine 1 : portfolio status (3 SaaS en build, 105 features defined, 10 anti-competitor principles). |
 
@@ -51,7 +51,7 @@ Cross-engagement R+F sur chaque post : obligatoire dès le jour 1. Le protocole 
 | Jour | Pilier squelette | Contenu spécifique semaine 2 |
 |------|-----------------|------------------------------|
 | **Lundi** | Metrics Portfolio | Premiers vrais chiffres : signups semaine 1 (tous SaaS confondus), MRR total, verticals actives. |
-| **Mardi** | Hot Take Studio | Hot take basé sur données CDV : "71% of chargebacks are friendly fraud. The customer got the product. They just... disputed anyway." |
+| **Mardi** | Hot Take Studio | Hot take basé sur données terrain : "71% of chargebacks are friendly fraud. The customer got the product. They just... disputed anyway." |
 | **Mercredi** | Data Thread | Thread terrain : apps injecting JS dans les stores, ghost billing ($127/month en apps inutilisées). |
 | **Jeudi** | Communauté | Poll : "What's the biggest hidden cost for e-com merchants?" (chargebacks / unused apps / return fees / processor markups). |
 | **Vendredi** | Build in Public | Recap semaine 2 + comparaison semaine 1 vs semaine 2. Progression features shipped. |
@@ -62,9 +62,9 @@ Cross-engagement R+F sur chaque post : obligatoire dès le jour 1. Le protocole 
 
 | Évolution | Détail |
 |-----------|--------|
-| **"Store Insight of the Week"** | 1 insight terrain e-com présenté en détail (données CDV, pattern marchand, coût caché). Remplace le data thread du mercredi 1 semaine sur 2. |
-| **Data threads plus denses** | Les données CDV terrain sont suffisamment riches dès le départ (530+ reviews). Les threads s'enrichissent avec de nouvelles sources (forums, Stripe data, etc.). |
-| **Hot takes data-driven** | Les hot takes du mardi s'appuient sur des données CDV terrain précises, pas des observations générales. |
+| **"Store Insight of the Week"** | 1 insight terrain e-com présenté en détail (données terrain, pattern marchand, coût caché). Remplace le data thread du mercredi 1 semaine sur 2. |
+| **Data threads plus denses** | Les données terrain terrain sont suffisamment riches dès le départ (530+ reviews). Les threads s'enrichissent avec de nouvelles sources (forums, Stripe data, etc.). |
+| **Hot takes data-driven** | Les hot takes du mardi s'appuient sur des données terrain terrain précises, pas des observations générales. |
 
 ### 2.5 Milestones Phase 1
 
@@ -75,7 +75,7 @@ Cross-engagement R+F sur chaque post : obligatoire dès le jour 1. Le protocole 
 | 20-50 followers F2 | Fin avril | Normal si < 50. Vérifier que les cross-engagements de R et F amènent des clics profil. |
 | Batch samedi < 2h pour F2 | Fin semaine 2 | Optimiser les prompts Claude, préparer les données en amont. |
 | 5+ replies organiques (hors R et F) reçues | Fin avril | Le contenu ne provoque pas assez de réaction. Revoir les hooks et les questions de fin de tweet. |
-| 1+ Store Insight of the Week publié | Fin avril | Si les données CDV ne génèrent pas assez d'engagement, tester un angle différent (comparaison avant/après, calcul de perte mensuelle). |
+| 1+ Store Insight of the Week publié | Fin avril | Si les données terrain ne génèrent pas assez d'engagement, tester un angle différent (comparaison avant/après, calcul de perte mensuelle). |
 
 ---
 
@@ -120,7 +120,7 @@ Le squelette reste identique (cf. f2/context.md §4). Les changements sont dans 
 | 100-300 followers F2 | Fin mai | Analyser : les RT de R et F amènent-ils des follows ? Si non, revoir le contenu F2 (valeur insuffisante pour follow). |
 | Engagement rate > 1% | Fin mai | Revoir les hooks. Tester des formats différents (plus de polls, plus de questions directes). |
 | 10-30 clicks UTM/semaine vers produits portfolio | Fin mai | Vérifier que le lien en reply est bien posté systématiquement. Tester des CTA différents. |
-| 2+ SaaS lancés | Fin mai | Si retard de lancement : maintenir le contenu terrain CDV + build in public, ajuster le planning. |
+| 2+ SaaS lancés | Fin mai | Si retard de lancement : maintenir le contenu terrain + build in public, ajuster le planning. |
 | Replies organiques > cross-engagement | Mi-mai | Seuil clé : les réponses d'inconnus dépassent les réponses R+F. La communauté prend le relais. |
 | Batch samedi < 1h30 pour F2 | Fin mai | Le process doit être rodé. Si encore > 2h : trop de friction dans les prompts ou les données. |
 

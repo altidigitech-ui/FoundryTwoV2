@@ -14,7 +14,7 @@
 |----|---------|----------|------------------------|
 |07/04|Posts F2 Twitter (mar→ven) batchés et schedulés. Post F2 IH (mer) batché.|Twitter, IH|Batch fait ✅|
 |07/04|Prompts Grok cold + engagement ECOM réécrits et validés. Cold EN PAUSE jusqu'au 13/04. Engagement ACTIF.|—|Fichiers batchés dans le repo ✅|
-|08/04|Post F2 Twitter publié (14h, Data thread CDV — 530+ reviews, 3 patterns). Publication automatique (schedulé).|Twitter|✅|
+|08/04|Post F2 Twitter publié (14h, Data thread terrain — 530+ reviews, 3 patterns). Publication automatique (schedulé).|Twitter|✅|
 |08/04|⚠️ Post F2 IH NON publié. Prévu 14h30 mercredi. Problème connexion IH + problèmes perso de R.|IH|À rattraper jeudi 09/04 si encore pertinent|
 |08/04|⚠️ JOURNÉE RÉDUITE côté F2 — Problèmes perso de R. Aucun engagement IH, aucun commentaire, aucun karma PH.|IH, PH|R reprend à 100% jeudi 09/04|
 |09/04|Post F2 Twitter publié (14h, Question — app count + code résiduel). Publication automatique (schedulé).|Twitter|✅|

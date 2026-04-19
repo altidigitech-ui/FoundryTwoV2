@@ -12,7 +12,7 @@
 > **Diagnostic :** la cible dev (indie hackers, SaaS founders) ne paie pas pour des audits de landing page.
 > **Décision :** LD mute vers **StoreMD** — un agent IA qui diagnostique et optimise les stores Shopify (cible : merchants Shopify, NON-devs).
 > Les features LD (audit 8 catégories, score /100) sont intégrées dans StoreMD comme module d'audit.
-> **Les personas §3 ci-dessous sont historiques** (cible dev). Les nouveaux personas StoreMD sont dans CDV/produits/MUTATIONS.md.
+> **Les personas §3 ci-dessous sont historiques** (cible dev). Les nouveaux personas StoreMD sont dans `../../produits/MUTATIONS.md`.
 > LD reste actif en attendant la mutation complète. Le contenu brand building peut continuer à mentionner LD mais doit orienter vers StoreMD.
 
 ---

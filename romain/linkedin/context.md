@@ -71,7 +71,7 @@ R sur LinkedIn est un expert growth e-com & marketing. Sur Twitter, R provoque (
 | Parler au "I" | "I talked to 50+ merchants this month. Here's the pattern." | "We've researched..." (voix F2 studio) |
 | Opinion argumentée | "Most merchants lose $800/month to chargebacks without knowing it. Here's the data." | "Chargebacks are bad." (trop vague pour LinkedIn) |
 | Données réelles terrain | "$800/month. That's what the average Shopify merchant loses to chargebacks. 71% isn't even real fraud." | "Chargebacks are a problem." (générique) |
-| Actionnable | "Here are 3 things that actually reduce friendly fraud: [insights terrain CDV]." | "You should reduce chargebacks." (vague) |
+| Actionnable | "Here are 3 things that actually reduce friendly fraud: [insights terrain]." | "You should reduce chargebacks." (vague) |
 | Jamais de pitch | "In 530+ app reviews, the #1 complaint is apps injecting JavaScript without consent." | "Try StoreMD for a free diagnostic!" |
 | Jamais de lien dans le post | Valeur dans le post, foundrytwo.com dans la bio | Lien dans le corps ou en commentaire |
 
@@ -132,9 +132,9 @@ The system is rigged. Banks earn $25 per chargeback fee. The customer gets a ref
 
 3 things that actually reduce friendly fraud:
 
-→ [Insight from CDV data]
-→ [Insight from CDV data]
-→ [Insight from CDV data]
+→ [Insight from données terrain]
+→ [Insight from données terrain]
+→ [Insight from données terrain]
 
 We're building an AI agent that automates this. Pre-ship risk scoring, auto-evidence building, and a shared blacklist across merchants.
 
@@ -313,7 +313,7 @@ Au batch du samedi, en même temps que Twitter et F2. Même session, même proje
 
 ### 8.2 Process
 
-1. **Identifier les sujets de la semaine** — les mêmes que Twitter (données terrain CDV, conversations merchants, insights agences).
+1. **Identifier les sujets de la semaine** — les mêmes que Twitter (données terrain, conversations merchants, insights agences).
 2. **Rédiger les versions LinkedIn** — PAS de copier-coller depuis Twitter. Même sujet → développer avec données, contexte, raisonnement. Allonger à 800-1300 caractères. Reformuler le hook. Ajouter une question professionnelle de clôture.
 3. **Produire le carousel** (Phase 2+) — prendre le meilleur data insight de la semaine, le transformer en 6-9 slides sur Canva Pro.
 4. **Programmer** — si outil de scheduling disponible, programmer aux créneaux définis. Sinon, publier manuellement aux horaires optimaux algo.
@@ -339,7 +339,7 @@ Chaque post LinkedIn de R doit passer le test : "Si quelqu'un suit R sur Twitter
 - **Focus :** Data posts enrichis, premiers carousels, storytelling learnings agences.
 - **Format :** Texte long + 1 carousel/semaine.
 - **Volume :** 3-4 posts/semaine.
-- **Nouveau :** Carousel "Top 5 hidden costs" basé sur les données terrain CDV. Contenu agences + contenu multi-vertical.
+- **Nouveau :** Carousel "Top 5 hidden costs" basé sur les données terrain. Contenu agences + contenu multi-vertical.
 
 ### Phase 3 — Juin+ 2026 (Scale 3 verticals, autorité "expert growth e-com")
 

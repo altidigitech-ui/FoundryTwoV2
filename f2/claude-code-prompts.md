@@ -16,7 +16,7 @@ Prompt :
 Exemple :
 
 "Dans f2/progress-semaine.md, ajoute cette ligne dans le tableau ÉVÉNEMENTS NOTABLES :
-| 07/04 | Merchant Shopify a reply au thread F2 en demandant comment réduire ses chargebacks | Twitter | publication | Reply envoyé avec insight terrain (données CDV chargebacks $800/mois) |"
+| 07/04 | Merchant Shopify a reply au thread F2 en demandant comment réduire ses chargebacks | Twitter | publication | Reply envoyé avec insight terrain (données terrain chargebacks $800/mois) |"
 
 ---
 

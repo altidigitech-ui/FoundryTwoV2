@@ -2,14 +2,14 @@
 
 **Dernière mise à jour :** 04 avril 2026
 **Hérite de :** `saas/context.md` (conventions portefeuille, règles communes, structure sous-dossiers)
-**Se synchronise avec :** `growth-marketing/roadmap.md` (coordination marketing cross-plateforme), `marketing/roadmap.md` (vision semestrielle), **CDV/produits/STATUS.md** (source de vérité produits)
+**Se synchronise avec :** `growth-marketing/roadmap.md` (coordination marketing cross-plateforme), `marketing/roadmap.md` (vision semestrielle), `produits/STATUS.md` (source de vérité produits)
 **Ce fichier contient :** le pipeline des SaaS dans le temps — quand chaque produit lance, les dépendances, les actions à chaque lancement, l'évolution du portefeuille.
 
 ---
 
 ## 1. VUE D'ENSEMBLE
 
-| # | Produit | Vertical | Mois cible | Statut FT | Statut CDV |
+| # | Produit | Vertical | Mois cible | Statut saas/ | Statut produits/ |
 |---|---------|----------|------------|-----------|------------|
 | 0 | **Leak Detector** | (remplacé par StoreMD) | Historique | ARCHIVED | ARCHIVED |
 | 1 | **StoreMD** (43 features, 5 modules) | E-commerce | Mois 1 | ✅ Créé | En développement |
@@ -22,7 +22,7 @@
 
 > **Fusion 08/04/2026 :** ListingLab → module Listings de StoreMD. ChargebackShield → module Anti-Fraude de ProfitPilot. Total Shopify : 96 features, 3 apps au lieu de 5.
 
-**Cadence cible :** 2 SaaS/mois. F code avec Claude Code. R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook = repo CDV.
+**Cadence cible :** 2 SaaS/mois. F code avec Claude Code. R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook gérée dans `../romain/reddit/`, `../romain/facebook/`, `../fabrice/reddit/`, `../fabrice/facebook/`.
 
 ---
 
@@ -49,7 +49,7 @@
 | **Phase 3 — Croissance** | M3 → M6 | Scaler l'acquisition et le revenu | ⚠️ À RÉÉVALUER |
 | **Phase 4 — Intelligence** | M6+ | Créer un moat via la data et l'IA | ⚠️ À RÉÉVALUER |
 
-**Note :** Les Phases 2-4 du roadmap original LD sont À RÉÉVALUER après la mutation StoreMD. Les prochaines itérations de LD intègrent les features StoreMD définies dans CDV/produits/MUTATIONS.md.
+**Note :** Les Phases 2-4 du roadmap original LD sont À RÉÉVALUER après la mutation StoreMD. Les prochaines itérations de LD intègrent les features StoreMD définies dans `../produits/MUTATIONS.md`.
 
 ### 2.3 Métriques cibles (ajustées post-pivot)
 
@@ -77,44 +77,44 @@ PayloadDiff a été retiré du pipeline lors du pivot du 03/04/2026. Le slot avr
 
 **StoreMD** (43 features, 5 modules) — Agent IA qui diagnostique et optimise les stores Shopify (vitesse, conversion, SEO). Intègre les features Leak Detector (audit) + module Listings (ex-ListingLab).
 - Vertical : E-commerce Shopify
-- Détails : voir CDV/produits/MUTATIONS.md
-- Actions FT au lancement : créer `saas/storemd/`, remplir context.md, uploader dans projets Claude R+F, adapter prompts Grok ECOM, posts launch F2+R+F
+- Détails : voir `../produits/MUTATIONS.md`
+- Actions au lancement : créer `saas/storemd/`, remplir context.md, uploader dans projets Claude R+F, adapter prompts Grok ECOM, posts launch F2+R+F
 
 **ProfitPilot** (41 features, 4 modules) — Agent IA qui optimise les marges et le pricing pour les stores e-com. Intègre le module Anti-Fraude (ex-ChargebackShield).
 - Vertical : E-commerce Shopify
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : créer `saas/profitpilot/`, adapter prompts Grok ECOM
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : créer `saas/profitpilot/`, adapter prompts Grok ECOM
 
 ### Mois 2 — Agences + E-com (mai 2026)
 
 **ClientPulse** — Agent IA qui automatise le reporting client pour agences et freelancers.
 - Vertical : Agences/Freelancers marketing
 - Douleur : 15h/mois de reporting manuel, $20K+/an d'outils
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : créer `saas/clientpulse/`, adapter prompts Grok AGENCY
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : créer `saas/clientpulse/`, adapter prompts Grok AGENCY
 
 **AdAudit** — Agent IA qui audite les campagnes ads (Google, Meta, TikTok) pour agences.
 - Vertical : Agences marketing
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : créer `saas/adaudit/`, adapter prompts Grok AGENCY
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : créer `saas/adaudit/`, adapter prompts Grok AGENCY
 
 ### Mois 3 — Creators + E-com (juin 2026)
 
 **CreatorSuite** — Agent IA qui automatise le repurposing et le workflow multi-plateforme pour creators.
 - Vertical : Content Creators (YouTube, TikTok, podcast)
 - Douleur : 8h d'editing + 8h de repurposing par vidéo
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : créer `saas/creatorsuite/`, adapter prompts Grok CREATOR
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : créer `saas/creatorsuite/`, adapter prompts Grok CREATOR
 
 **LeadQuiz** — Agent IA qui crée des quiz de qualification et capture de leads.
 - Vertical : E-com + Coaches
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : créer `saas/leadquiz/`, adapter prompts Grok ECOM
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : créer `saas/leadquiz/`, adapter prompts Grok ECOM
 
-**Wildcard** — À déterminer en fonction des données terrain CDV et du feedback des 6 premiers SaaS.
+**Wildcard** — À déterminer en fonction des données terrain et du feedback des 6 premiers SaaS.
 - Vertical : À déterminer
-- Détails : voir CDV/produits/NOUVEAUX.md
-- Actions FT : process standard (saas/context.md §5.2)
+- Détails : voir `../produits/NOUVEAUX.md`
+- Actions au lancement : process standard (saas/context.md §5.2)
 
 ---
 
@@ -125,7 +125,7 @@ Chaque lancement suit le même process. Les actions deviennent plus rapides car 
 - Le karma PH est accumulé
 - La communauté grandit → chaque lancement a plus de portée
 - Le cross-sell s'amplifie par vertical (3+ produits e-com → offre complète)
-- Le warming terrain CDV (Reddit/Facebook) pré-qualifie l'audience
+- Le warming terrain (Reddit/Facebook) pré-qualifie l'audience
 
 ### Ce qui évolue avec chaque nouveau SaaS
 
@@ -144,11 +144,11 @@ Chaque lancement suit le même process. Les actions deviennent plus rapides car 
 
 | Risque | Impact | Mitigation |
 |--------|--------|-----------|
-| **Cadence glisse** (3/mois trop ambitieux) | Moins de SaaS livrés que prévu. | La cadence est 3/mois CIBLE. Si un SaaS demande plus de temps, il prend plus de temps. La qualité prime. Claude Code accélère mais ne garantit pas. |
-| **Un produit ne trouve pas son marché** | MRR stagne. Temps investi perdu. | Validation CDV (warming Reddit/Facebook) réduit ce risque. Seuil : si 0 conversion payante après 30 jours de distribution → pivoter ou couper. |
+| **Cadence glisse** (2/mois trop ambitieux) | Moins de SaaS livrés que prévu. | La cadence est 2/mois CIBLE. Si un SaaS demande plus de temps, il prend plus de temps. La qualité prime. Claude Code accélère mais ne garantit pas. |
+| **Un produit ne trouve pas son marché** | MRR stagne. Temps investi perdu. | Validation terrain (warming Reddit/Facebook) réduit ce risque. Seuil : si 0 conversion payante après 30 jours de distribution → pivoter ou couper. |
 | **Coûts LLM explosent avec le volume** | Marge brute se réduit. | Cache résultats, Haiku fallback, limites strictes par plan. Monitorer le coût/analyse hebdomadairement. |
 | **Cross-sell cannibalise** (les produits se volent des clients) | MRR total ne croît pas malgré les lancements. | Les produits du même vertical résolvent des problèmes DIFFÉRENTS (santé technique ≠ santé financière). Fusion 08/04 réduit ce risque : 3 apps au lieu de 5. |
-| **Désynchronisation FT ↔ CDV** | Le messaging public contredit les specs produit. | Règle #9 (context.md racine) : si CDV modifie un produit → mettre à jour FT (pipeline + fichiers impactés). Check hebdo vendredi. |
+| **Désynchronisation entre brand et distribution** | Le messaging public contredit les specs produit. | Règle #9 (context.md racine) : si produits/ est modifié un produit → mettre à jour les fichiers saas/ impactés. Check hebdo vendredi. |
 
 ---
 
@@ -162,6 +162,6 @@ Chaque lancement suit le même process. Les actions deviennent plus rapides car 
 | marketing/roadmap.md | marketing/ | Vision semestrielle, cadence |
 | growth-marketing/roadmap.md | growth-marketing/ | Coordination marketing cross-plateforme par phase |
 | la-toile/context.md | la-toile/ | Architecture de visibilité, nœuds produits |
-| **CDV/produits/STATUS.md** | Repo compagnon | **Source de vérité pipeline** (statut de chaque SaaS) |
-| **CDV/produits/MUTATIONS.md** | Repo compagnon | Mutations LD → StoreMD |
-| **CDV/produits/NOUVEAUX.md** | Repo compagnon | Specs des 8 nouveaux SaaS |
+| `produits/STATUS.md` | Racine du repo | **Source de vérité pipeline** (statut de chaque SaaS) |
+| `produits/MUTATIONS.md` | Racine du repo | Mutations LD → StoreMD |
+| `produits/NOUVEAUX.md` | Racine du repo | Specs des 8 nouveaux SaaS |

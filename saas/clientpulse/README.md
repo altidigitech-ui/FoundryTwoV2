@@ -3,7 +3,7 @@
 **Statut :** ⏳ En développement
 **Vertical :** Agences/Freelancers
 **Mois prévu :** Mois 2 (mai)
-**Specs détaillées :** CDV/produits/
+**Specs détaillées :** `produits/NOUVEAUX.md`
 
 ---
 

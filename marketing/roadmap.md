@@ -11,14 +11,14 @@
 
 ## VISION SEMESTRE (avril → septembre 2026)
 
-**Objectif :** transformer FoundryTwo d'un studio avec 1 SaaS (LD, ~8 signups) en un portfolio de 6 SaaS agents IA ciblant 3 verticals non-dev, avec une machine d'acquisition organique rodée sur Twitter/LinkedIn/IH/PH + distribution terrain via CDV.
+**Objectif :** transformer FoundryTwo d'un studio avec 1 SaaS (LD, ~8 signups) en un portfolio de 6 SaaS agents IA ciblant 3 verticals non-dev, avec une machine d'acquisition organique rodée sur Twitter/LinkedIn/IH/PH + distribution terrain Reddit/Facebook.
 
 **Fin septembre, la machine doit produire :**
 - 6 SaaS live sous bannière F2, répartis sur 3 verticals (e-commerce, agences/freelancers, content creators)
 - MRR > €10,000 (portfolio)
 - Audience Twitter F2 : 5,000+ followers engagés
 - Audience LinkedIn R + F : 3,000+ connexions chacun
-- Canaux actifs : Twitter, LinkedIn, IH, PH (+ Reddit/Facebook via CDV)
+- Canaux actifs : Twitter, LinkedIn, IH, PH, Reddit, Facebook
 - Système de publication rodé : batch ven/sam, exécution semaine, 0 improvisation
 - Chaque nouveau SaaS bénéficie du portfolio existant (audience, crédibilité, cross-sell)
 
@@ -30,7 +30,7 @@
 
 ### T1 — avril → mai : WARMING + PREMIERS SaaS
 
-**Mot d'ordre :** warming communautés, distribution terrain CDV, premiers produits live.
+**Mot d'ordre :** warming communautés, distribution terrain Reddit/Facebook, premiers produits live.
 
 | Métrique | Cible fin mai |
 |----------|--------------|
@@ -41,12 +41,12 @@
 | Ratio replies/impressions | > 1% |
 | Connexions LinkedIn R + F | 1,000+ chacun |
 
-**Canaux actifs T1 :** Twitter (prioritaire), LinkedIn, IH, PH + Reddit/Facebook via CDV
+**Canaux actifs T1 :** Twitter (prioritaire), LinkedIn, IH, PH, Reddit, Facebook
 
 **Avril — WARMING + MOIS 1 (E-commerce)**
 
 - Warming communautés e-com (Twitter + LinkedIn) + lurk agences/creators
-- Distribution terrain Reddit/Facebook via CDV
+- Distribution terrain Reddit/Facebook
 - StoreMD, ProfitPilot en développement + lancement
 - LD continue à fonctionner, mutation vers StoreMD en cours
 - Cold outreach angle e-com : chargebacks, vitesse store, listings
@@ -96,7 +96,7 @@
 |------|--------|--------|-------------------|
 | Lundi | Metrics / Milestone | Thread court ou tweet single | Chiffres réels portfolio (Growth Tracker) |
 | Mardi | Hot Take | Tweet single | Opinion tranchée sur les douleurs des 3 verticals (chargebacks, reporting, editing burnout) |
-| Mercredi | Data Thread | Thread 4-6 tweets | Données agrégées terrain CDV (reviews concurrents, données marché, insights Reddit) |
+| Mercredi | Data Thread | Thread 4-6 tweets | Données agrégées terrain (reviews concurrents, données marché, insights Reddit) |
 | Jeudi | Connexion / Communauté | Question ouverte ou sondage | Questions pour merchants, freelancers, creators |
 | Vendredi | Build in Public | Thread court | Recap semaine (progression des 6 SaaS, métriques) + what's next |
 
@@ -140,7 +140,7 @@ Engagement F+R dans les 30 minutes après chaque post F2. Like, reply, retweet. 
 | Matin | COLD OUTREACH — 10 minimum, non négociable | 🔴 CRITIQUE |
 | Matin-midi | Engagement proactif — 30 interactions/jour (Twitter + LinkedIn) | 🟡 IMPORTANT |
 | Après-midi | Publication des posts batchés + rédaction contenu + gestion lancements | 🟢 NORMAL |
-| Continu | Distribution terrain via CDV (Reddit, Facebook) | 🟡 IMPORTANT |
+| Continu | Distribution terrain Reddit, Facebook | 🟡 IMPORTANT |
 
 Publications aux horaires optimaux : 7h30, 8h, 13h30, 17h, 18h-19h.
 
@@ -180,7 +180,7 @@ Chaque nouveau SaaS bénéficie de :
 - La base d'utilisateurs des SaaS précédents (email, in-app notification)
 - L'audience sociale accumulée
 - La crédibilité des métriques publiées
-- Le réseau de warming terrain CDV déjà activé
+- Le réseau de warming terrain Reddit/Facebook déjà activé
 
 ---
 
@@ -213,8 +213,8 @@ Chaque nouveau SaaS bénéficie de :
 | LinkedIn | Actif depuis jour 1 | — |
 | IndieHackers | Actif depuis jour 1 | — |
 | Product Hunt | Actif à chaque launch | — |
-| Reddit | Via CDV (distribution terrain) | — |
-| Facebook | Via CDV (distribution terrain) | — |
+| Reddit | Distribution terrain — voir `../romain/reddit/`, `../fabrice/reddit/` | — |
+| Facebook | Distribution terrain — voir `../romain/facebook/`, `../fabrice/facebook/` | — |
 | TikTok | Reprise quand social proof disponible | Données réelles, clients, métriques à montrer |
 | Ads payantes | Été 2026 | MRR > €5,000 + contenu organique qui performe |
 | Podcast | À évaluer | ROI des canaux existants prouvé |
@@ -244,7 +244,7 @@ Chaque nouveau SaaS bénéficie de :
 | Si ceci n'est pas fait... | ...alors ceci est impossible |
 |---------------------------|------------------------------|
 | Cold outreach quotidien (10/jour/personne) | Revenue à court terme |
-| Warming terrain CDV actif | Données terrain pour le cold outreach FT |
+| Warming terrain Reddit/Facebook actif | Données terrain pour le cold outreach |
 | Batch ven/sam complet | Exécution semaine = improvisation = incohérence |
 | R rédige R+F2, F rédige F au batch | Posts sans touche personnelle |
 | F2 publie 5j/semaine (squelette éditorial) | Le hub central est mort, pas de contenu à amplifier |
@@ -262,4 +262,4 @@ Chaque nouveau SaaS bénéficie de :
 3. **Ne jamais ajouter un canal si la cadence existante n'est pas stable.**
 4. **Le cold outreach nourrit le contenu.** Chaque conversation terrain = une donnée réelle pour les posts. Pas l'inverse.
 5. **Le premier mois sera consacré au warming.** C'est le prix pour que les 5 mois suivants tournent comme une montre suisse.
-6. **CDV nourrit FT.** Les données terrain (Reddit, Facebook) alimentent le cold outreach et les posts Twitter/LinkedIn.
+6. **Le terrain nourrit le brand.** Les données Reddit/Facebook alimentent le cold outreach et les posts Twitter/LinkedIn.

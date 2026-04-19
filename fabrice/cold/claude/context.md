@@ -20,11 +20,11 @@ F partage des insights TECHNIQUES accessibles à des non-devs. Le merchant ne sa
 GROK trouve des cibles sur Twitter    →    F identifie l'insight technique pertinent    →    CLAUDE rédige la reply    →    F publie en PUBLIC
 ```
 
-F trouve des merchants Shopify et des content creators qui ont un **PROBLÈME TECHNIQUE VISIBLE** (store lent, app conflicts, workflow manuel, editing trop long) et leur apporte une **EXPLICATION TECHNIQUE ACCESSIBLE** basée sur les données terrain CDV et son expérience de build.
+F trouve des merchants Shopify et des content creators qui ont un **PROBLÈME TECHNIQUE VISIBLE** (store lent, app conflicts, workflow manuel, editing trop long) et leur apporte une **EXPLICATION TECHNIQUE ACCESSIBLE** basée sur les données terrain (distribution Reddit/Facebook) et son expérience de build.
 
 ### 1.1 D'où viennent les insights
 
-Les insights viennent de l'expérience de build de F (6 AI agents construits) et des données terrain CDV (530+ reviews concurrents, données techniques stores Shopify, workflows creators). F ne "pitche" pas un produit — il explique le "pourquoi technique" que personne d'autre ne donne dans les conversations e-com/creators.
+Les insights viennent de l'expérience de build de F (6 AI agents construits) et des données terrain (530+ reviews concurrents, données techniques stores Shopify, workflows creators — collectées via la distribution Reddit/Facebook). F ne "pitche" pas un produit — il explique le "pourquoi technique" que personne d'autre ne donne dans les conversations e-com/creators.
 
 ### 1.2 Mindset Build My Community
 

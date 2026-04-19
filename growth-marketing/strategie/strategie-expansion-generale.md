@@ -21,7 +21,7 @@ R et F sont en mode marketing full-time depuis le 30 mars 2026. Il n'y a plus de
 | Verticale | Cible | Pourquoi |
 |-----------|-------|----------|
 | **M1 — E-commerce** | Merchants Shopify/WooCommerce, e-com managers, DTC brands | Douleur immédiate (revenue leaks, chargebacks, listings). Budget disponible. Volume massif. |
-| **M2 — Agences marketing** | Agences web, freelances growth, consultants marketing | Multiplicateurs : 1 agence = 10-50 clients. Upsell naturel des outils CDV. |
+| **M2 — Agences marketing** | Agences web, freelances growth, consultants marketing | Multiplicateurs : 1 agence = 10-50 clients. Upsell naturel des outils studio. |
 | **M3 — Créateurs de contenu** | Content creators, solopreneurs, influenceurs qui monétisent | Audience massive, besoin d'outils simples, forte viralité organique. |
 
 **Volume croissant :** Les volumes définis dans ce document sont le PLANCHER de départ. Ils seront augmentés progressivement tant que les algos ne pénalisent pas et que l'audience ne fatigue pas. L'objectif est le volume MAXIMUM soutenable, pas un volume fixe. Si les métriques (engagement rate, replies organiques, impressions) restent stables ou montent après une augmentation de volume → augmenter encore. Si elles baissent → revenir au palier précédent.
@@ -45,7 +45,7 @@ R et F sont en mode marketing full-time depuis le 30 mars 2026. Il n'y a plus de
 
 **Historique :** Leak Detector (LD) est LIVE depuis le 16/03/2026 sur leakdetector.tech. LD sera muté en StoreMD quand StoreMD lance — même ADN (audit IA), repositionné pour les merchants e-com.
 
-**Cadence studio :** 3 SaaS lancés par mois, 1 verticale par mois. Chaque SaaS a son propre compte Twitter créé au fur et à mesure des lancements. Chaque SaaS est intégré dans le portfolio promu par TOUT l'écosystème.
+**Cadence studio :** 2 SaaS lancés par mois, 1 verticale par mois. Chaque SaaS a son propre compte Twitter créé au fur et à mesure des lancements. Chaque SaaS est intégré dans le portfolio promu par TOUT l'écosystème.
 
 ### 2.2 Les comptes — toutes plateformes
 
@@ -86,7 +86,7 @@ R et F sont en mode marketing full-time depuis le 30 mars 2026. Il n'y a plus de
 | **F perso** | Profil perso maker | F | Karma farming quotidien. Sera listé comme maker sur les lancements. |
 | **@foundrytwo** | Profil studio | R (gère) | Héberge les listings produit (tous SaaS du portfolio). Chaque produit = 1 listing sous ce profil. |
 
-**Règle :** Chaque SaaS est un NOUVEAU listing sur PH sous @foundrytwo, pas une relance. 3 SaaS/mois = jusqu'à 3 launches PH/mois (quand le karma et la communauté sont prêts).
+**Règle :** Chaque SaaS est un NOUVEAU listing sur PH sous @foundrytwo, pas une relance. 2 SaaS/mois = jusqu'à 2 launches PH/mois (quand le karma et la communauté sont prêts).
 
 ---
 
@@ -121,7 +121,7 @@ L'écosystème est un funnel intégré. Chaque compte promeut TOUS les produits 
 |--------|-------|----------------------|---------------------|
 | **R** | Growth e-com/marketing → merchants + agences | "Your Shopify store leaks 30% of revenue. Here's the data from 50+ merchant audits." | "Your agency tracks client satisfaction manually. That's 10h/week you're burning." |
 | **F** | Technique accessible → merchants + creators | "Here's how the AI agent scans 47 revenue leak patterns in 60 seconds." | "How we built a listing optimizer that writes better product copy than most humans." |
-| **F2** | Studio build in public | "Month 1: 3 e-com tools shipped. 50+ merchant audits. The CDV cadence continues." | "Our second vertical launches next month. Same studio, different market. Here's the pattern." |
+| **F2** | Studio build in public | "Month 1: 3 e-com tools shipped. 50+ merchant audits. The cadence continues." | "Our second vertical launches next month. Same studio, different market. Here's the pattern." |
 
 ### 4.3 Le funnel
 
@@ -322,7 +322,7 @@ Le volume vient de l'outbound, pas des posts. 1 post/jour par compte est le swee
 
 ### 8.2 Mix contenu par post (tous comptes perso R et F)
 
-| Type | % | Objectif | Exemples CDV |
+| Type | % | Objectif | Exemples terrain |
 |------|---|---------|-------------|
 | Provocation / hot take | 25% | Déclencher des replies (signal 150x sur Twitter) | "90% of Shopify stores have the same 3 revenue leaks. None of them know it." |
 | Données / insights réels | 30% | Crédibilité, bookmarks (signal 20x sur Twitter), saves LinkedIn | "We audited 50+ merchant stores. Average score: 61/100. The gap to 85 = 30% more revenue." |
@@ -433,7 +433,7 @@ Si le prospect répond à N'IMPORTE quelle étape → conversation libre, plus d
 
 ### 10.3 Framing par verticale (pas "audit")
 
-Le repositionnement CDV : on ne vend PAS un "audit gratuit." On vend l'idée que le prospect PERD quelque chose (argent, temps, clients) en ce moment.
+Le repositionnement post-pivot : on ne vend PAS un "audit gratuit." On vend l'idée que le prospect PERD quelque chose (argent, temps, clients) en ce moment.
 
 | Verticale | Ancien framing | Nouveau framing |
 |-----------|---------------|-----------------|

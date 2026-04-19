@@ -30,7 +30,7 @@
 
 | Action | Détail |
 |--------|--------|
-| Donn��es terrain CDV de la semaine | Patterns des conversations, insights par vertical, nouvelles données |
+| Donn��es terrain de la semaine | Patterns des conversations, insights par vertical, nouvelles données |
 | Cold outreach bilan par vertical | E-com : quels insights ont marché. Agences : quels insights ont marché. |
 | Sujets tendance (Grok) | Lancer le prompt `publication/grok/ECOM-prompt.md` pour trouver les sujets qui ont performé cette semaine |
 | Inputs de F | F donne les éléments techniques de la semaine. Pour les posts F2 principalement. |
@@ -171,7 +171,7 @@ Revue semaine          Projet Claude R      Archiver           8h-10h COLD + ENG
                        ├── Programmer                           
 Inputs pour batch      │                                       
 ├── Données terrain    F rédige F seul                          
-├── Patterns CDV       (projet Claude F)                        
+├── Patterns terrain       (projet Claude F)                        
 ├── Sujets Grok                                                 
 └── Inputs F                                                    
 ```

@@ -10,4 +10,4 @@ Karma début : 1 | Karma fin : 1 (+0)
 | Browse r/shopify + r/ecommerce | ☐ SKIP |
 
 ## BILAN
-Temps actif : 0h terrain CDV | Raison : focus F2 (cold outreach Twitter, build StoreMD). Aucun commentaire posté.
+Temps actif : 0h distribution terrain | Raison : focus F2 (cold outreach Twitter, build StoreMD). Aucun commentaire posté.

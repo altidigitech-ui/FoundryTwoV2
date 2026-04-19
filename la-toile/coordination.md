@@ -1,7 +1,7 @@
 # TOILE-COORDINATION.md — Plan de Coordination Opérationnel
 
 > Dernière mise à jour : 05 avril 2026
-> Version : 4.0 — PIVOT CDV
+> Version : 4.0 — Pivot distribution-first
 > Dépend de : TOILE-CONTEXT.md + TOILE-ASSOCIES.md
 
 ---
@@ -404,7 +404,7 @@ F prend ces mêmes inputs et rédige ses propres posts :
 
 ### Séquence type par SaaS (automatique)
 
-> Séquence LD ci-dessous — à adapter pour chaque nouveau SaaS. Voir CDV/produits/ pour les specs des 6 SaaS.
+> Séquence LD ci-dessous — à adapter pour chaque nouveau SaaS. Voir `../produits/` pour les specs des 6 SaaS.
 
 | Email | Timing | Objet | CTA |
 |---|---|---|---|
@@ -557,7 +557,7 @@ Le premier mois sera plus lent. C'est normal. Le système se met en place. Voici
 | Amplification | Engagement croisé (like, commentaire, repost) entre les nœuds. |
 | Événement source | Quelque chose qui se passe et qui devient du contenu. |
 | Input technique | Données, screenshots, explications que F fournit à R pour qu'il rédige les posts F2. |
-| Distribution | 30 interactions + 10 outreach par jour par personne. Volume CDV. |
+| Distribution | 30 interactions + 10 outreach par jour par personne. Volumes cibles. |
 | Nœud | Un point de la toile (compte social, site, produit, canal). |
 | UTM | Paramètres de tracking dans les liens. |
 | Forge Log | Newsletter hebdomadaire F2. |
@@ -566,4 +566,5 @@ Le premier mois sera plus lent. C'est normal. Le système se met en place. Voici
 | Hook | Première ligne d'un post. |
 | CTA | Call to action. |
 | Vertical | Groupe de 3 SaaS ciblant le même marché (M1 E-com, M2 Agencies, M3 Creators). |
-| CDV | Cadence De Vie — le repo compagnon avec les specs produits et le contexte pivot. |
+| `produits/` | Dossier racine contenant STATUS.md, NOUVEAUX.md, MUTATIONS.md — source de vérité produits. |
+| `strategie/` | Dossier racine contenant CONTEXT.md, PLAYBOOK-DISTRIBUTION.md, WARMING-FARMING.md, verticals/ — source de vérité stratégique post-pivot. |

@@ -2,7 +2,7 @@
 
 **Dernière mise à jour :** 04 avril 2026
 
-Ce dossier contient tout ce qui concerne l'engagement, le contenu, la construction de communauté et les lancements de FoundryTwo sur les réseaux sociaux et plateformes de découverte. Il ne couvre PAS le marketing macro (pipeline SaaS, funnel, cold outreach process, cadence journalière R/F) — ça c'est dans `marketing/context.md` et `marketing/roadmap.md`. La distribution terrain Reddit/Facebook est dans le repo CDV.
+Ce dossier contient tout ce qui concerne l'engagement, le contenu, la construction de communauté et les lancements de FoundryTwo sur les réseaux sociaux et plateformes de découverte. Il ne couvre PAS le marketing macro (pipeline SaaS, funnel, cold outreach process, cadence journalière R/F) — ça c'est dans `../marketing/context.md` et `../marketing/roadmap.md`. La distribution terrain Reddit/Facebook est dans `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/`.
 
 ---
 
@@ -174,4 +174,5 @@ TikTok est reporté. Il sera activé quand la routine des canaux principaux (Twi
 | marketing/roadmap.md | marketing/ | Plan macro : vision semestre/trimestre/mois, cadence journalière R/F (horaires), tous canaux. |
 | la-toile/context.md | la-toile/ | Architecture de visibilité de l'écosystème. |
 | FOUNDRYTWO-BRAND-BIBLE.md | asset-brand/ | Identité visuelle, storytelling, voix du studio. |
-| **Co-do-va-bu-di (CDV)** | Repo compagnon | **Source de vérité produits** + distribution terrain Reddit/Facebook. |
+| `produits/` | Racine | **Source de vérité produits** (STATUS, NOUVEAUX, MUTATIONS). |
+| `distribution/` + `romain/{reddit,facebook}/` + `fabrice/{reddit,facebook}/` | Racine | Distribution terrain Reddit/Facebook. |

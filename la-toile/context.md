@@ -1,7 +1,7 @@
 # TOILE-CONTEXT.md — Source de Vérité
 
 > Dernière mise à jour : 05 avril 2026
-> Version : 4.0 — PIVOT CDV
+> Version : 4.0 — Pivot distribution-first
 > Statut : EXÉCUTION — Pipeline 6 SaaS × 3 verticals
 
 ---
@@ -74,7 +74,7 @@ Altistone (Holding — personne morale, invisible)
 
 ### Le modèle usine
 
-F et R sont full-time FoundryTwo. 3 SaaS par mois par vertical. Pendant que F code le SaaS suivant, R lance le SaaS actuel. Les cycles se chevauchent. On ne s'arrête jamais.
+F et R sont full-time FoundryTwo. 2 SaaS par mois. Pendant que F code le SaaS suivant, R lance le SaaS actuel. Les cycles se chevauchent. On ne s'arrête jamais.
 
 ---
 
@@ -353,7 +353,8 @@ R et F sont full-time FoundryTwo. R = growth/distribution + rédaction F2. F = d
 | `TOILE-COORDINATION.md` | Plan de coordination opérationnel. |
 | `TOILE-ROADMAP.md` | Roadmap chronologique. |
 | `TOILE-ASSOCIES.md` | Répartition des tâches F + R, cycle usine. |
-| `CDV/` | Repo compagnon — specs produits, verticals, contexte pivot. |
+| `../produits/` | Source de vérité produits (STATUS, NOUVEAUX, MUTATIONS). |
+| `../strategie/` | Source de vérité stratégique (CONTEXT, PLAYBOOK-DISTRIBUTION, WARMING-FARMING, verticals/). |
 
 ---
 
@@ -371,8 +372,8 @@ R et F sont full-time FoundryTwo. R = growth/distribution + rédaction F2. F = d
 | 19/02/2026 | Modèle usine (cycles parallèles code/lancement) | F code le suivant pendant que R lance le précédent |
 | 19/02/2026 | Dimanche = repos | Repos non-négociable |
 | 03/04/2026 | **PIVOT : F et R full-time FoundryTwo** | CDI/intérim terminés. 100% société. |
-| 03/04/2026 | **Pipeline : 6 SaaS × 3 verticals (M1/M2/M3)** | E-com, agences, creators. 3 SaaS/mois par vertical. |
+| 03/04/2026 | **Pipeline : 6 SaaS × 3 verticals (M1/M2/M3)** | E-com, agences, creators. 2 SaaS/mois. |
 | 03/04/2026 | **F rédige ses propres posts** | Chacun maîtrise son angle. R coordonne la stratégie globale. |
 | 03/04/2026 | **Cibles : e-commerçants, agences marketing, creators** | Verticals claires, problèmes concrets, willingness to pay. |
 | 04/04/2026 | **LD mute en StoreMD** | Leak Detector pivote vers l'e-com (vertical M1). |
-| 04/04/2026 | **Distribution CDV : 30 interactions + 10 outreach/jour par personne** | Volume minimum pour la traction organique. |
+| 04/04/2026 | **Distribution : 30 interactions + 10 outreach/jour par personne** | Volume minimum pour la traction organique. |

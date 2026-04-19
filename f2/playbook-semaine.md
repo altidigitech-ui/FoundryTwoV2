@@ -20,7 +20,7 @@
 | Relever les UTM | Quels canaux ont généré du trafic cette semaine (Twitter, LinkedIn, IH, PH, Reddit) |
 | Analyser les posts F2 de la semaine | Lequel a le mieux performé ? Pourquoi ? Lequel a le moins bien marché ? Pourquoi ? |
 | Identifier les patterns | Quels sujets ont déclenché des replies ? Quels formats ont marché ? |
-| Données terrain CDV de la semaine | Nouvelles reviews analysées, threads Reddit, données Mastercard, insights terrain par vertical |
+| Données terrain de la semaine | Nouvelles reviews analysées, threads Reddit, données Mastercard, insights terrain par vertical |
 | Feedbacks cold outreach | Quelles questions reviennent le plus ? Quels types de problèmes sont mentionnés par vertical ? |
 | Décisions | Ajustements pour la semaine prochaine. Rien d'improvisé en semaine. |
 
@@ -28,7 +28,7 @@
 
 | Action | Détail |
 |--------|--------|
-| Préparer les données pour chaque jour du squelette | Lundi metrics : métriques portfolio. Mardi hot take : douleur e-com/agences/creators (données terrain CDV). Mercredi data thread : données terrain agrégées. Jeudi communauté : question pour merchants/freelancers/creators. Vendredi build in public : recap portfolio. |
+| Préparer les données pour chaque jour du squelette | Lundi metrics : métriques portfolio. Mardi hot take : douleur e-com/agences/creators (données terrain). Mercredi data thread : données terrain agrégées. Jeudi communauté : question pour merchants/freelancers/creators. Vendredi build in public : recap portfolio. |
 | Inputs de F | F donne les éléments techniques de la semaine (features shipped, bugs résolus, décisions d'archi, progression des SaaS en dev). R les transformera en contenu F2 samedi. |
 | Préparer les données IH | Si le mercredi a un build in public update IH en plus du thread Twitter, collecter les données spécifiques (plus détaillées, ton IH). |
 
@@ -51,7 +51,7 @@ R ouvre le projet Claude "FoundryTwo" et travaille post par post :
 | 1 | Ouvrir une conversation dans le projet Claude F2 |
 | 2 | Demander le post du lundi : "Post metrics lundi. Voici les chiffres portfolio : [données]" |
 | 3 | Claude génère → R lit, valide ou ajuste |
-| 4 | Demander le post du mardi : "Hot take mardi. Données terrain CDV : [angle]" |
+| 4 | Demander le post du mardi : "Hot take mardi. Données terrain : [angle]" |
 | 5 | Continuer pour mercredi, jeudi, vendredi |
 | 6 | À la fin : 5 posts prêts à copier-coller |
 
@@ -195,12 +195,12 @@ Revue semaine          Projet Claude F2     Archiver           Publier post prog
 ├── UTM                ├── Post mardi       ├── progress       ├── Répondre aux replies
 ├── Top/flop posts     ├── Post mercredi    Réinitialiser      ├── IH mercredi
 ├── Patterns           ├── Post jeudi       ├── plan-hebdo     ├── Remplir progress
-├── Données CDV        ├── Post vendredi    └── progress       └── Zéro rédaction
+├── Données terrain        ├── Post vendredi    └── progress       └── Zéro rédaction
 └── Décisions          ├── Post IH                              
                        ├── Visuels                              
 Inputs pour batch      └── Programmer                           
 ├── Données portf.                                              
-├── Données CDV                                                 
+├── Données terrain                                                 
 └── Inputs F                                                    
 ```
 
@@ -211,7 +211,7 @@ Inputs pour batch      └── Programmer
 | Fixe (ce playbook) | Variable (plan-hebdo.md) |
 |--------------------|-------------------------|
 | Le process vendredi/samedi/dimanche/semaine | Le contenu spécifique de chaque post |
-| L'ordre des étapes | Les données de la semaine (portfolio + CDV) |
+| L'ordre des étapes | Les données de la semaine (portfolio) |
 | Le squelette éditorial (quel pilier quel jour) | Les métriques visées cette semaine |
 | Le protocole cross-engagement (timing, séquence) | Les objectifs spécifiques |
 | Les règles de réponse aux replies | Les replies reçues et les réponses données |

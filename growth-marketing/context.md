@@ -55,8 +55,8 @@ Chaque semaine, le contenu publié couvre ces 4 piliers :
 
 | Pilier | % du contenu | Objectif | Source de données |
 |--------|-------------|----------|-------------------|
-| **Provocation** | 30% | Déclencher des réactions, des débats | Opinions basées sur les données terrain CDV (530+ reviews concurrents, threads Reddit, données Mastercard) |
-| **Valeur** | 30% | Éduquer, donner des insights actionnables | Données terrain CDV + insights des interactions communautés e-com/agences/creators |
+| **Provocation** | 30% | Déclencher des réactions, des débats | Opinions basées sur les données terrain (530+ reviews concurrents, threads Reddit, données Mastercard) |
+| **Valeur** | 30% | Éduquer, donner des insights actionnables | Données terrain + insights des interactions communautés e-com/agences/creators |
 | **Build in Public** | 25% | Montrer le parcours, créer de l'attachement | Métriques réelles (signups, revenue, learnings, progression portfolio) |
 | **Connexion** | 15% | Questions, sondages, conversations directes | Questions posées par merchants/freelancers/creators dans les communautés |
 
@@ -169,16 +169,16 @@ Listes complètes dans growth-marketing/twitter/context.md.
 
 ### 6.1 Merchants Shopify (e-com)
 
-**Où :** Twitter, LinkedIn, Reddit r/shopify (CDV), Facebook groups (CDV)
+**Où :** Twitter, LinkedIn, Reddit r/shopify, Facebook groups
 **Trigger :** Problèmes concrets (chargebacks, vitesse, apps qui cassent), solutions rapides, données chiffrées
 **Ton R :** "You're losing $X/month. Here's why." (growth/business)
 **Ton F :** "The reason your store is slow is [explication technique simple]." (technique accessible)
-**Cold outreach :** R = insight business, F = insight technique. Données terrain CDV.
+**Cold outreach :** R = insight business, F = insight technique. Données terrain (distribution Reddit/Facebook).
 **Mots-clés :** chargeback, store speed, conversion, Shopify app, product page, checkout
 
 ### 6.2 Agences / Freelancers Marketing (R LEAD)
 
-**Où :** Twitter, LinkedIn, Reddit r/digital_marketing (CDV)
+**Où :** Twitter, LinkedIn, Reddit r/digital_marketing
 **Trigger :** ROI client, reporting, workflow, pricing, scaling
 **Ton R :** "Your clients don't care about impressions. They care about revenue." (direct, provocateur)
 **Ton F :** "I automated client reporting. 15h/month → 30 minutes." (technique accessible)
@@ -187,7 +187,7 @@ Listes complètes dans growth-marketing/twitter/context.md.
 
 ### 6.3 Content Creators (F LEAD)
 
-**Où :** Twitter, LinkedIn, Reddit r/NewTubers (CDV)
+**Où :** Twitter, LinkedIn, Reddit r/NewTubers
 **Trigger :** Editing burnout, repurposing, multi-platform, workflow, tools
 **Ton R :** "The top creators spend 20% of their time creating and 80% distributing." (growth angle)
 **Ton F :** "I automated repurposing. 1 video → 5 platforms in 15 minutes." (technique accessible)
@@ -216,7 +216,7 @@ I've seen stores go from 2.5s to 4.2s AFTER installing a speed app.
 The irony.
 ```
 
-### 7.2 Le "Data Thread" (1x/semaine — alimenté par les données terrain CDV)
+### 7.2 Le "Data Thread" (1x/semaine — alimenté par les données terrain)
 
 Un thread = tous les tweets postés en chaîne sous le premier, en même temps. Le lecteur voit tout d'un coup en déroulant.
 
@@ -228,7 +228,7 @@ Tweet 4: [Donnée #3 — modification de code thème sans consentement]
 Tweet 5: [Conclusion + ce qu'on construit pour fixer ça]
 ```
 
-**⚠️ Zéro données inventées.** Source = données terrain CDV (reviews, Reddit, Mastercard) uniquement.
+**⚠️ Zéro données inventées.** Source = données terrain (reviews, Reddit, Mastercard) uniquement.
 
 ### 7.3 Le "Question Ouverte" (2-3x/semaine)
 
@@ -271,14 +271,14 @@ Month [N] of building 6 AI agents for e-com, agencies, and creators:
 
 ### 8.1 Quel contenu sur quelle plateforme
 
-| Type de contenu | Twitter | LinkedIn | Reddit (CDV) | IH | PH | TikTok |
+| Type de contenu | Twitter | LinkedIn | Reddit | IH | PH | TikTok |
 |---|---|---|---|---|---|---|
-| Cold outreach (insight terrain) | ✅ #1 | ✅ | ✅ (CDV) | ✅ | ❌ | ❌ |
+| Cold outreach (insight terrain) | ✅ #1 | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Hot takes / provocation | ✅ | ✅ (adapté) | ⚠️ (subs appropriés) | ❌ | ❌ | ✅ |
-| Data threads | ✅ | ✅ (adapté long) | ✅ (post détaillé, CDV) | ✅ | ❌ | ✅ (vidéo) |
+| Data threads | ✅ | ✅ (adapté long) | ✅ (post détaillé) | ✅ | ❌ | ✅ (vidéo) |
 | Build in public | ✅ | ✅ | ✅ | ✅ #1 | ❌ | ✅ |
-| Audit My Store/Workflow | ✅ | ❌ | ✅ (CDV) | ✅ | ✅ (comments) | ✅ (vidéo) |
-| Launch announcement | ✅ | ✅ | ✅ (1 post, CDV) | ✅ (Show IH) | ✅ #1 | ✅ |
+| Audit My Store/Workflow | ✅ | ❌ | ✅ | ✅ | ✅ (comments) | ✅ (vidéo) |
+| Launch announcement | ✅ | ✅ | ✅ (1 post) | ✅ (Show IH) | ✅ #1 | ✅ |
 
 ### 8.2 Adaptation du ton par plateforme
 
@@ -303,7 +303,7 @@ Month [N] of building 6 AI agents for e-com, agencies, and creators:
 | Samedi | Batch rédaction | — | — | — |
 | Dimanche | Rythme réduit | — | — | — |
 
-**Note :** Les volumes précis (interactions, cold outreach) sont dans §9 et dans le context de chaque plateforme. Reddit/Facebook = repo CDV.
+**Note :** Les volumes précis (interactions, cold outreach) sont dans §9 et dans le context de chaque plateforme. Reddit/Facebook = voir `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/`.
 
 ---
 
@@ -387,10 +387,10 @@ Cette règle s'applique à TOUTES les plateformes, pas uniquement Twitter.
 
 - **Focus :** Warming e-com (R+F) + lurk agences (R) et creators (F)
 - **Temps :** 40% cold outreach e-com, 30% engagement, 30% contenu portfolio
-- **Mix contenu :** 30% données terrain CDV, 25% provocation e-com, 25% build in public portfolio, 20% connexion merchants
+- **Mix contenu :** 30% données terrain, 25% provocation e-com, 25% build in public portfolio, 20% connexion merchants
 - **TikTok :** Suspendu
-- **Cold outreach :** Données terrain CDV (530+ reviews, chargebacks, app tax) = insights pour e-com merchants
-- **Reddit/Facebook :** Distribution terrain via repo CDV (séparé)
+- **Cold outreach :** Données terrain (530+ reviews, chargebacks, app tax) = insights pour e-com merchants
+- **Reddit/Facebook :** Distribution terrain via `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/`
 
 ### Phase 2 : Mai 2026
 
@@ -466,4 +466,5 @@ Données dans tracking/utm/ par produit.
 | tiktok/context.md | growth-marketing/tiktok/ | Stack vidéo, formats, specs, planning | ⏳ TODO |
 | asset-brand/FOUNDRYTWO-BRAND-BIBLE.md | asset-brand/ | Identité, palette, typo, storytelling, bios, rules | ✅ |
 | tracking/FoundryTwo-Growth-Tracker.xlsx | tracking/ | Suivi cold outreach et métriques | ✅ |
-| **Co-do-va-bu-di (CDV)** | Repo compagnon | **Source de vérité produits** + distribution terrain Reddit/Facebook | ✅ |
+| `../produits/` | Racine | **Source de vérité produits** (STATUS, NOUVEAUX, MUTATIONS) | ✅ |
+| `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/` | Racine | Distribution terrain Reddit/Facebook | ✅ |

@@ -29,4 +29,4 @@ Karma début : 1 | Karma fin : 1 (+0)
 - ☐ Pas d'activité
 
 ## BILAN
-Temps actif : 0h terrain CDV | Raison : journée dédiée à StoreMD (produit). Terrain repris J4.
+Temps actif : 0h distribution terrain | Raison : journée dédiée à StoreMD (produit). Terrain repris J4.

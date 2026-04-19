@@ -79,8 +79,8 @@ Sur Twitter, F2 est un studio neutre et data-driven. Sur LinkedIn, R et F sont d
 | **Post-mortem / échec** | Post long : ce qui s'est passé + pourquoi + ce qu'on a changé | Quand un échec significatif se produit | Expérience directe |
 | **Ask IH (question)** | Question spécifique à la communauté, issue de nos propres challenges | 1-2x/mois | Questions réelles qu'on se pose |
 | **Show IH (lancement)** | Présentation d'un SaaS du portfolio au format Show IH (story + learnings + lien) | 1x par lancement de produit | — |
-| **Guide actionnable** | Step-by-step issu des données terrain CDV et de notre expérience multi-vertical | 1x/mois quand on a assez de matière | Données terrain CDV + expérience cumulée |
-| **Cold outreach reply** | Répondre aux posts Ask IH sur les problèmes e-com, marketing, ou création de contenu avec des insights terrain | Quotidien (dans les interactions de R) | Données terrain CDV + posts Ask IH |
+| **Guide actionnable** | Step-by-step issu des données terrain et de notre expérience multi-vertical | 1x/mois quand on a assez de matière | Données terrain + expérience cumulée |
+| **Cold outreach reply** | Répondre aux posts Ask IH sur les problèmes e-com, marketing, ou création de contenu avec des insights terrain | Quotidien (dans les interactions de R) | Données terrain + posts Ask IH |
 
 ### 3.2 Contenu NON publié
 
@@ -100,13 +100,13 @@ IH est un canal secondaire pour le cold outreach (après Twitter #1 et LinkedIn 
 
 ### 4.1 Comment ça fonctionne
 
-Le cold outreach IH est basé sur les insights terrain CDV, pas sur un outil d'audit. On cherche les posts existants où quelqu'un parle de problèmes que nos produits résolvent.
+Le cold outreach IH est basé sur les insights terrain, pas sur un outil d'audit. On cherche les posts existants où quelqu'un parle de problèmes que nos produits résolvent.
 
 | Étape | Action |
 |-------|--------|
 | 1 | Chercher dans "Ask IH" et les posts récents : "shopify", "ecommerce", "chargeback", "client reporting", "content creation", "marketing agency", "store speed" |
 | 2 | Identifier 1-2 posts où quelqu'un décrit un problème que nos données terrain éclairent |
-| 3 | Rédiger une réponse détaillée avec des insights terrain basés sur les données CDV |
+| 3 | Rédiger une réponse détaillée avec des insights terrain basés sur les données terrain |
 
 ### 4.2 Structure d'une reply cold outreach IH
 
@@ -117,9 +117,9 @@ I've been researching this exact problem for the past month.
 
 We talked to 50+ [merchants/agency owners/creators] and analyzed 530+ reviews of tools in this space. Here's the pattern we keep seeing:
 
-→ [Insight 1 — basé sur données terrain CDV]
-→ [Insight 2 — basé sur données terrain CDV]
-→ [Insight 3 — basé sur données terrain CDV]
+→ [Insight 1 — basé sur données terrain]
+→ [Insight 2 — basé sur données terrain]
+→ [Insight 3 — basé sur données terrain]
 
 We're building an AI agent that automates this — [one-liner du SaaS pertinent]. [Lien si le produit est live.]
 
@@ -131,7 +131,7 @@ What's your current setup for handling [le problème]? Curious how others approa
 - Mention du studio et du produit pertinent OK (IH tolère la transparence sur ce qu'on construit)
 - Lien direct dans la reply OK (IH ne pénalise pas les liens, contrairement à Twitter et LinkedIn)
 - Question de suivi en fin de reply (force la conversation = booste le classement du post)
-- Données terrain CDV comme source d'expertise (pas un score d'audit automatique)
+- Données terrain comme source d'expertise (pas un score d'audit automatique)
 
 ### 4.3 Volume
 
@@ -323,7 +323,7 @@ for e-com merchants, marketing agencies, and content creators.
 - Defined [X] features for [product]
 
 [CE QU'ON A APPRIS — le cœur du post]
-The biggest surprise this week: [insight terrain CDV]
+The biggest surprise this week: [insight terrain]
 
 [NEXT STEPS]
 🎯 Next week: [actions concrètes]

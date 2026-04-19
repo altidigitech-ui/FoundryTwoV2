@@ -33,7 +33,7 @@ R est une **personne**, pas un studio. Il parle au "I", jamais au "we" (sauf qua
 
 ### 2.2 Positionnement
 
-R se positionne comme un **expert growth e-com & marketing**, pas un theoricien. Tout ce qu'il dit est ancre dans les donnees terrain CDV (530+ reviews, chargebacks, Reddit, patterns merchants). Il ne repete pas des best practices generiques — il partage ce qu'il voit dans les donnees reelles du terrain.
+R se positionne comme un **expert growth e-com & marketing**, pas un theoricien. Tout ce qu'il dit est ancre dans les donnees terrain (530+ reviews, chargebacks, Reddit, patterns merchants). Il ne repete pas des best practices generiques — il partage ce qu'il voit dans les donnees reelles du terrain.
 
 ### 2.3 Regles de voix
 
@@ -74,10 +74,10 @@ Max 1 par tweet, souvent aucun. Emojis acceptables : (insight), (data), (thread)
 | Type | Exemple |
 |------|---------|
 | **Hot takes e-com/agencies** | "Unpopular opinion: Your Shopify store doesn't have a traffic problem. It has a chargeback problem." |
-| **Patterns issus des donnees CDV** | "I analyzed 530+ reviews this month. Pattern: merchants lose $800/month to chargebacks they don't even track." |
+| **Patterns issus des donnees terrain** | "I analyzed 530+ reviews this month. Pattern: merchants lose $800/month to chargebacks they don't even track." |
 | **Questions pour merchants/agency owners** | "Agency owners: what's the #1 thing your clients ask for that you can't easily prove?" |
 | **Tips actionnables** | "If you can't tell which campaign drove your last sale in under 60 seconds, your reporting is broken." |
-| **Cold outreach public** (insights CDV) | "Looked at your store's niche data. Average chargeback rate: 2.3%. 71% isn't real fraud. Here's what I'd fix first:" |
+| **Cold outreach public** (insights terrain) | "Looked at your store's niche data. Average chargeback rate: 2.3%. 71% isn't real fraud. Here's what I'd fix first:" |
 | **Learnings personnels** | "Week 3 of cold outreach to Shopify merchants. Here's what converts and what doesn't." |
 | **Debats e-com/agencies** | Repondre a des posts sur les chargebacks, hidden costs, agency pricing avec un angle contraire |
 
@@ -100,7 +100,7 @@ Le cold outreach est defini en detail dans marketing/context.md §8. Ici on prec
 ### 4.1 Rappel du process
 
 1. **Grok** trouve les cibles (prompt `GROK-R-COLDOUTREACH`) → 15 min
-2. **Donnees CDV** fournissent les insights terrain (chargebacks, reviews, patterns) → 10 min
+2. **Donnees terrain** fournissent les insights terrain (chargebacks, reviews, patterns) → 10 min
 3. **Claude** (projet redaction R) redige la reply unique → 15 min
 4. **R** publie la reply en public depuis @delgado_ro72224
 
@@ -146,7 +146,7 @@ R s'interesse aux problemes **BUSINESS** du merchant ou de l'agence : chargeback
 Your store is probably losing $800/month to chargebacks.
 71% of it isn't even real fraud.
 Here's what I'd fix first:
-→ [Insight 1 from CDV data]
+→ [Insight 1 from données terrain]
 → [Insight 2]
 → [Insight 3]
 Happy to dig deeper if useful.
@@ -273,7 +273,7 @@ It's not. It's a leak.
 
 ### 6.2 Data post R (1-2x/semaine)
 
-Angle : pattern observe dans les donnees CDV de la semaine. Toujours ancre dans des donnees reelles.
+Angle : pattern observe dans les donnees terrain de la semaine. Toujours ancre dans des donnees reelles.
 
 ```
 I analyzed 530+ merchant reviews this month.
@@ -388,7 +388,7 @@ Extraites de twitter/context.md §8.
 | Tache | Qui | Outil |
 |-------|-----|-------|
 | Posts R perso (5-7/semaine) | R | Projet Claude redaction R |
-| Cold outreach replies | R | Projet Claude redaction R (donnees Grok + CDV terrain data en input) |
+| Cold outreach replies | R | Projet Claude redaction R (donnees Grok + terrain data en input) |
 | Cross-engagement replies | R | Manuel (pas besoin de Claude pour une reply courte) |
 | Posts F2 (5/semaine) | R | Projet Claude redaction F2 (voix differente, cf. f2/context.md) |
 
@@ -397,7 +397,7 @@ Extraites de twitter/context.md §8.
 1. **Vendredi soir — Reunion F+R** (1h) : revue Google Sheet, top/worst posts, decisions, inputs de F.
 2. **Samedi soir — Redaction R** (1-2h) :
    - Ouvrir le projet Claude redaction R
-   - Fournir : patterns de la semaine (cold outreach), donnees CDV terrain, sujets tendance de la niche
+   - Fournir : patterns de la semaine (cold outreach), donnees terrain, sujets tendance de la niche
    - Claude genere 5-7 posts dans la voix R
    - R valide, ajuste, programme
 3. **Samedi soir — Redaction F2** (1h) : switch vers le projet Claude redaction F2 (cf. f2/context.md §7.2).
@@ -418,7 +418,7 @@ Zero redaction de posts. Execution uniquement : publier, cross-engagement, repon
 
 ### Phase 2 — Mai : Expansion agencies (R lead) + data posts multi-vertical
 
-- **Dominante :** Data posts enrichis (volume de donnees CDV suffisant) + expansion agencies. R lead sur la verticale agencies.
+- **Dominante :** Data posts enrichis (volume de donnees terrain suffisant) + expansion agencies. R lead sur la verticale agencies.
 - **Mix :** 30% data, 25% provocation, 25% cold outreach public, 20% questions.
 - **Nouveau format :** "Audit My Store" — R invite les merchants a soumettre leur URL, audite en public. Aimant a engagement + genere des cibles volontaires.
 

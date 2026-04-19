@@ -95,4 +95,4 @@ Hi [prénom] — Saw your post about [sujet e-com/creator technique]. Building A
 |------|--------|
 | 16/03 | Création du fichier. Profils vérifiés. |
 | 16/03 → 26/03 | Activité pré-pivot : engagement dev-to-dev, cold outreach LD, followers 14→30. |
-| 04/04 | Pivot CDV. Bios et headlines à mettre à jour : "AI agents for e-com & creators". Comptes Tier réévalués : e-com/creators au lieu de Python/FastAPI devs. Les comptes techniques builder (cross-over) sont gardés. |
+| 04/04 | Pivot distribution-first. Bios et headlines à mettre à jour : "AI agents for e-com & creators". Comptes Tier réévalués : e-com/creators au lieu de Python/FastAPI devs. Les comptes techniques builder (cross-over) sont gardés. |

@@ -4,7 +4,7 @@
 **Hérite de :** `f2/context.md` (cadre opérationnel, cycle hebdomadaire, projet Claude)
 **Se synchronise avec :** `growth-marketing/roadmap.md` (coordination cross-plateforme)
 **Durée :** Avril → Juin+ 2026 (3 phases mensuelles).
-**Cadence cible :** 3 SaaS/mois par vertical.
+**Cadence cible :** 2 SaaS/mois.
 
 **Rôle de ce fichier :** La progression de R dans la gestion du compte F2 au fil du temps — comment le process, le contenu, et la communauté évoluent. Les roadmaps par plateforme (twitter/f2/roadmap.md, ih/f2/roadmap.md, ph/f2/roadmap.md) couvrent les détails spécifiques à chaque canal. Ce fichier couvre la vue OPÉRATIONNELLE globale de F2.
 
@@ -32,7 +32,7 @@ LD lancé le 16/03/2026. ~8 signups, 0 MRR. En mutation vers StoreMD (diagnostic
 
 | Changement | Impact sur la gestion F2 |
 |-----------|-------------------------|
-| **Pivot CDV validé** | Le contenu F2 s'appuie sur les données terrain CDV (530+ reviews, données Mastercard, threads Reddit) au lieu des audits LD. |
+| **Pivot distribution-first validé** | Le contenu F2 s'appuie sur les données terrain (530+ reviews, données Mastercard, threads Reddit) au lieu des audits LD. |
 | **3 SaaS e-com en développement** | Build in public sur le processus de construction de 3 produits en parallèle. Le contenu montre la méthode studio. |
 | **Communauté e-com à warmer** | Les posts ciblent les merchants Shopify, pas les SaaS builders. Questions, données, insights e-com. |
 | **Process batch rodé** | Le batch vendredi/samedi est en place depuis le lancement LD. Le cross-engagement est un réflexe. |
@@ -41,8 +41,8 @@ LD lancé le 16/03/2026. ~8 signups, 0 MRR. En mutation vers StoreMD (diagnostic
 
 | Aspect | Détail |
 |--------|--------|
-| **Données disponibles** | Données terrain CDV : 530+ reviews analysées, données chargebacks ($800/mois avg), app tax Shopify, threads Reddit. Pas encore de métriques produit pour les 3 nouveaux SaaS. |
-| **Squelette éditorial** | Lundi metrics portfolio. Mardi hot take e-com (basé sur données terrain). Mercredi data thread CDV. Jeudi questions merchants. Vendredi build in public portfolio. |
+| **Données disponibles** | Données terrain : 530+ reviews analysées, données chargebacks ($800/mois avg), app tax Shopify, threads Reddit. Pas encore de métriques produit pour les 3 nouveaux SaaS. |
+| **Squelette éditorial** | Lundi metrics portfolio. Mardi hot take e-com (basé sur données terrain). Mercredi data thread terrain. Jeudi questions merchants. Vendredi build in public portfolio. |
 | **IH** | Build in public portfolio (pas mono-produit). Show IH à chaque lancement de SaaS. |
 | **PH** | Lancement de chaque SaaS quand il est prêt. |
 
@@ -51,7 +51,7 @@ LD lancé le 16/03/2026. ~8 signups, 0 MRR. En mutation vers StoreMD (diagnostic
 | Milestone | Cible | Si pas atteint |
 |-----------|-------|----------------|
 | Le contenu F2 parle du PORTFOLIO (pas de LD seul) | Immédiat | Restructurer chaque post pour montrer le studio et les 3 verticals. |
-| Données terrain CDV intégrées dans les data threads | Semaine 1 avril | Si pas de données : R collecte les données CDV manquantes avant le batch. |
+| Données terrain intégrées dans les data threads | Semaine 1 avril | Si pas de données : R collecte les données terrain manquantes avant le batch. |
 | Communauté e-com engagée (replies de merchants) | Fin avril | Si 0 reply de merchants : les questions jeudi ne ciblent pas assez précisément. Ajuster les angles. |
 | 3 SaaS e-com en état de lancement | Fin avril | Si pas prêts : le build in public montre la progression honnêtement. |
 | Le batch samedi < 1h30 | Fin avril | Si > 1h30 : affiner le prompt ou le context du projet Claude F2. |
@@ -75,7 +75,7 @@ LD lancé le 16/03/2026. ~8 signups, 0 MRR. En mutation vers StoreMD (diagnostic
 |-----------|-------|----------------|
 | Le contenu F2 couvre 2+ verticals | Mi-mai | Si encore mono-vertical : restructurer les templates au batch. Dashboard portfolio obligatoire. |
 | Chaque lancement PH performe mieux que LD | À chaque lancement | Si non : analyser produit par produit. |
-| Show IH avec 15+ commentaires par SaaS | À chaque lancement | Si < 15 : la cadence "3 SaaS/mois" est un hook — si ça prend pas c'est le contenu du post. |
+| Show IH avec 15+ commentaires par SaaS | À chaque lancement | Si < 15 : la cadence "2 SaaS/mois" est un hook — si ça prend pas c'est le contenu du post. |
 | Des replies organiques de merchants/freelancers | Fin mai | Si 0 : le contenu ne résonne pas avec la cible non-dev. Ajuster les angles et le vocabulaire. |
 
 ---
@@ -121,7 +121,7 @@ LD lancé le 16/03/2026. ~8 signups, 0 MRR. En mutation vers StoreMD (diagnostic
 | Question | Si oui | Si non |
 |----------|--------|--------|
 | Le contenu F2 est aligné sur le portfolio multi-vertical ? | Continuer. La narration studio est en place. | Restructurer les templates. Chaque post = portfolio, pas mono-produit. |
-| Les données terrain CDV alimentent les posts ? | Les data threads ont de la matière. | R doit collecter plus de données CDV avant chaque batch. |
+| Les données terrain alimentent les posts ? | Les data threads ont de la matière. | R doit collecter plus de données terrain avant chaque batch. |
 | Des merchants/freelancers reply aux posts F2 ? | La cible est atteinte. | Ajuster le vocabulaire et les angles pour parler aux non-devs. |
 
 ### Fin mai

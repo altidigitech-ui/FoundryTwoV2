@@ -80,7 +80,7 @@ Semaine 1 : 0 signup UTM, 0 client payant, 15 cold outreachs dont toutes les rep
 - Gardes-fous partout : "couper si ca depasse"
 - Cible : devs, SaaS founders, indie hackers
 
-**APRES (Mode Explosion 24/7 — Pivot CDV) :**
+**APRES (Mode Explosion 24/7 — Pivot distribution-first) :**
 - R = marketing full-time, toute la journee, 7j/7
 - F = marketing full-time + build, toute la journee, 7j/7
 - L'UNIQUE objectif est d'etre visible et de vendre
@@ -201,7 +201,7 @@ Les commentaires LinkedIn de 15+ mots pesent 2.5x plus qu'un commentaire court d
 
 ### 2.4 DM Outreach LinkedIn — Mode "Wolf of Wall Street"
 
-C'est le NOUVEAU canal principal de conversion. Le repo n'en parle pas. C'est le plus gros gap. Maintenant cible sur les 3 verticales CDV : merchants e-com, agences, creators.
+C'est le NOUVEAU canal principal de conversion. Le repo n'en parle pas. C'est le plus gros gap. Maintenant cible sur les 3 verticales : merchants e-com, agences, creators.
 
 #### Le funnel DM
 
@@ -230,7 +230,7 @@ J+14  -> Message de sortie elegant (paradoxalement, souvent le plus efficace)
 - **Optimise (apres 60 jours) : 25-35 demos/mois**
 - Avec 20-44% close rate B2B SaaS : **2-15 clients/mois**
 
-#### Templates DM — CDV Terrain Insights par verticale
+#### Templates DM — Terrain Insights par verticale
 
 **1er DM R — Verticale e-com (merchants Shopify) :**
 ```
@@ -378,7 +378,7 @@ IH convertit a 23.1% par post engage vs 3.1% pour PH. Canal le plus sous-exploit
 
 ### 2.7 PH — Preparer les launches SERIEUSEMENT
 
-Avec 6 SaaS dans le pipeline CDV, PH devient un canal de launch recurrent — pas un one-shot.
+Avec 6 SaaS dans le pipeline, PH devient un canal de launch recurrent — pas un one-shot.
 
 **Strategie PH multi-launch :**
 - Chaque SaaS vertical = 1 launch PH independant
@@ -696,7 +696,7 @@ Meme routine que Day 3 pour R et F. Chaque jour.
 
 | Fichier | Modification cle |
 |---------|-----------------|
-| `growth-marketing/context.md` | Volumes explosion, temps illimite, 3 verticales CDV |
+| `growth-marketing/context.md` | Volumes explosion, temps illimite, 3 verticales |
 | `growth-marketing/roadmap.md` | Allocation temps : R et F full-time marketing, multi-vertical |
 | `growth-marketing/linkedin/fabrice/context.md` | 10 min -> full-time, DM outreach merchants/creators, volumes x10 |
 | `growth-marketing/linkedin/fabrice/roadmap.md` | Accelerer ramp-up, objectifs x5, cible e-com/agences/creators |

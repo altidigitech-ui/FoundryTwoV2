@@ -1,7 +1,7 @@
 # TOILE-ROADMAP.md — Roadmap Chronologique
 
 > Dernière mise à jour : 05 avril 2026
-> Version : 4.0 — PIVOT CDV
+> Version : 4.0 — Pivot distribution-first
 > Dépend de : TOILE-CONTEXT.md + TOILE-COORDINATION.md + TOILE-ASSOCIES.md
 > Ce fichier répond à : QUAND faire quoi, DANS QUEL ORDRE, et POURQUOI dans cet ordre.
 
@@ -19,9 +19,9 @@
 
 ## CONTEXTE POST-PIVOT
 
-F et R sont full-time FoundryTwo. Pas de contrainte CDI/intérim. Le planning est flexible et aligné sur les volumes CDV (30 interactions + 10 outreach/jour par personne).
+F et R sont full-time FoundryTwo. Pas de contrainte CDI/intérim. Le planning est flexible et aligné sur les volumes cibles (30 interactions + 10 outreach/jour par personne).
 
-Pipeline : 6 SaaS × 3 verticals. 2 SaaS par mois par vertical.
+Pipeline : 6 SaaS × 3 verticals. 2 SaaS par mois.
 
 ---
 
@@ -288,6 +288,6 @@ Pipeline : 6 SaaS × 3 verticals. 2 SaaS par mois par vertical.
 
 **Ne jamais publier un post qui n'a pas été batché et validé.**
 
-**3 SaaS par mois par vertical. Pas de pause. Le modèle usine tourne.**
+**2 SaaS par mois. Pas de pause. Le modèle usine tourne.**
 
 Le premier mois sera plus lent. C'est le prix à payer pour que les 5 mois suivants tournent comme une montre suisse.

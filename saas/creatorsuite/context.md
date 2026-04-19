@@ -4,7 +4,7 @@
 **Statut :** ⏳ En développement
 **Vertical :** Creators
 **Mois prévu :** Mois 3 (juin)
-**Specs détaillées :** Voir CDV/produits/NOUVEAUX.md
+**Specs détaillées :** Voir `produits/NOUVEAUX.md`
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 5. DONNÉES TERRAIN POUR LE CONTENU
 
-Source : CDV (repo compagnon)
+Source : `produits/NOUVEAUX.md`
 
 | Donnée | Chiffre | Utilisable dans les posts |
 |--------|---------|---------------------------|

@@ -3,7 +3,7 @@
 **Dernière mise à jour :** 04 avril 2026
 **Hérite de :** `fabrice/context.md` (cadre opérationnel, planning, projet Claude, historique LD)
 **Se synchronise avec :** `growth-marketing/roadmap.md` (coordination cross-plateforme)
-**Cadence cible :** 3 SaaS/mois par vertical (e-com, agences, creators).
+**Cadence cible :** 2 SaaS/mois (répartis sur 3 verticals : e-com, agences, creators).
 
 **Rôle de ce fichier :** La progression de F dans le temps — comment le cold outreach technique, l'engagement, la publication, et la communauté évoluent phase par phase. Les roadmaps par plateforme (twitter/fabrice/roadmap.md, linkedin/fabrice/roadmap.md) couvrent les détails spécifiques à chaque canal. Ce fichier couvre la vue OPÉRATIONNELLE globale de F.
 
@@ -11,9 +11,9 @@
 
 ## 1. VUE D'ENSEMBLE
 
-| Phase | Période | Focus F (FT = brand building) | Focus F (CDV = distribution terrain) |
-|-------|---------|-------------------------------|--------------------------------------|
-| 1 | Avril 2026 | Brand building e-com Twitter/LinkedIn. Cold outreach insights techniques e-com. Lurk creators. | Warming e-com Reddit/Facebook (CDV). |
+| Phase | Période | Focus F (brand building) | Focus F (distribution terrain) |
+|-------|---------|--------------------------|--------------------------------|
+| 1 | Avril 2026 | Brand building e-com Twitter/LinkedIn. Cold outreach insights techniques e-com. Lurk creators. | Warming e-com Reddit/Facebook. |
 | 2 | Mai 2026 | Expansion creators Twitter/LinkedIn (F LEAD). Contenu multi-vertical technique. | Distribution e-com + warming creators Reddit/Facebook. |
 | 3 | Juin-juillet 2026 | Scale 3 verticals. Autorité "builder qui résout des vrais problèmes". | Scale ce qui marche. |
 
@@ -166,7 +166,7 @@ PayloadDiff a été retiré du pipeline lors du pivot du 03/04/2026. Remplacé p
 | Le contenu F couvre 2 verticals ? | L'identité "builder multi-vertical" se construit. | Chaque post doit montrer que F construit pour plusieurs verticals. |
 | Engagement rate Twitter > 1% ? | La qualité est là. | Les posts sont trop "tutoriel" ? Plus de builder stories, plus de hot takes. |
 | 500+ followers ? | Préparer Phase 3. | Analyser : contenu bon mais distribution faible ? Augmenter engagement Tier 1. |
-| F LEAD les creators sur Twitter ? | La stratégie CDV §5 fonctionne. | Intensifier les cold outreach et l'engagement sur les posts creators. |
+| F LEAD les creators sur Twitter ? | La stratégie `strategie/CONTEXT.md` §5 fonctionne. | Intensifier les cold outreach et l'engagement sur les posts creators. |
 
 ### Fin juin (Phase 3 — mi-parcours)
 

@@ -4,7 +4,7 @@
 **Hérite de :** `growth-marketing/context.md` (stratégie globale, piliers, matrice contenu, Build My Community §1.1)
 **Coordonne :** les roadmaps de Twitter (R/F/F2), LinkedIn (R/F/F2), IH (F2), PH (F2)
 **Se synchronise avec :** `marketing/roadmap.md` (plan macro, cadence journalière, pipeline SaaS)
-**Durée :** Avril → Juin+ 2026 (3 phases mensuelles). Cadence cible : 3 SaaS/mois par vertical.
+**Durée :** Avril → Juin+ 2026 (3 phases mensuelles). Cadence cible : 2 SaaS/mois.
 
 **Rôle de ce fichier :** Ce n'est PAS un duplicata des roadmaps plateforme — chacune a ses propres milestones, checkpoints et détails opérationnels. Ce fichier COORDONNE : il montre ce qui se passe simultanément sur toutes les plateformes à chaque phase, comment un lancement SaaS impacte TOUS les canaux en même temps, et si l'ensemble tourne.
 
@@ -15,7 +15,7 @@
 | Phase | Période | Produits distribués | Twitter R | Twitter F | Twitter F2 | LinkedIn R | LinkedIn F | IH F2 | PH F2 |
 |-------|---------|-------------------|-----------|-----------|------------|------------|------------|-------|-------|
 | 1 | Avril | LD (actif) + 3 SaaS e-com en dev | Warming e-com. 10 cold/j. 1 post/j. | Warming e-com (angle tech). 10 cold/j. 1 post/j (5/sem). | Portfolio build in public. 1 post/j (lun-ven). | Warming merchants + freelancers. 3-4/sem. | Warming merchants + creators. 2-3/sem. | Build in public portfolio. 1/sem. | Karma farming. |
-| 2 | Mai | + 3 SaaS agences | Distribution e-com + warming agences (R) et creators (F). | Distribution e-com + warming creators. | Data threads CDV. Lancements. | Distribution multi-vertical. | Distribution creators. | Lancements IH. | Lancements PH. |
+| 2 | Mai | + 3 SaaS agences | Distribution e-com + warming agences (R) et creators (F). | Distribution e-com + warming creators. | Data threads terrain. Lancements. | Distribution multi-vertical. | Distribution creators. | Lancements IH. | Lancements PH. |
 | 3 | Juin+ | Portfolio 6 SaaS | Autorité multi-vertical. | Autorité technique multi-vertical. | Portfolio complet. Communauté. | Carousels. Guest posts. | Deep dives. | Guides cross-produit. | Lancements rodés. |
 
 ---
@@ -26,7 +26,7 @@
 
 | Plateforme | Compte | Actions clés Phase 1 | Référence |
 |-----------|--------|---------------------|-----------|
-| **Twitter** | R | Warming e-com. 10 cold outreach/j (angle growth). 15 interactions/j. 1 post/j. Données terrain CDV dans les replies. | twitter/romain/roadmap.md §2 |
+| **Twitter** | R | Warming e-com. 10 cold outreach/j (angle growth). 15 interactions/j. 1 post/j. Données terrain dans les replies. | twitter/romain/roadmap.md §2 |
 | **Twitter** | F | Warming e-com (angle technique). 10 cold outreach/j. 15 interactions/j. 1 post/j (5/sem). | twitter/fabrice/roadmap.md §2 |
 | **Twitter** | F2 | Squelette éditorial 5j/sem. Portfolio build in public. Cross-engagement protocol R→F→F2. | twitter/f2/roadmap.md §2 |
 | **LinkedIn** | R | Profil optimisé. Warming merchants + freelancers. 15 interactions/j + 5 cold/j. 3-4 posts/sem. | linkedin/romain/roadmap.md §2 |
@@ -81,7 +81,7 @@ Quand un SaaS est prêt au lancement, TOUTES les plateformes sont mobilisées si
 |-----------|--------|---------------------|-----------|
 | **Twitter** | R | Distribution e-com (data posts avec métriques réelles) + warming agences. 10 cold/j multi-vertical. | twitter/romain/roadmap.md §3 |
 | **Twitter** | F | Distribution e-com (angle tech) + warming creators. 10 cold/j. | twitter/fabrice/roadmap.md §3 |
-| **Twitter** | F2 | Data threads CDV. Teasers nouveaux SaaS. Lancements. | twitter/f2/roadmap.md §3 |
+| **Twitter** | F2 | Data threads terrain. Teasers nouveaux SaaS. Lancements. | twitter/f2/roadmap.md §3 |
 | **LinkedIn** | R | Posts data-driven multi-vertical + carousels. 3-4/sem. Contenu cross-vertical. | linkedin/romain/roadmap.md §3 |
 | **LinkedIn** | F | Posts techniques + carousels. 2-3/sem. Warming creators. | linkedin/fabrice/roadmap.md §3 |
 | **LinkedIn** | F2 | 0-1 repost/sem. Products section mise à jour à chaque lancement. | linkedin/f2/roadmap.md |
@@ -178,7 +178,7 @@ F est full-time. 30 interactions + 10 cold outreach + 1 post par jour. Mêmes vo
 
 Hors batch samedi (~1h) et hors launch days.
 
-**Le reste du temps :** F code les SaaS avec Claude Code. R gère les lancements, la stratégie, le repo FT/CDV, la distribution terrain.
+**Le reste du temps :** F code les SaaS avec Claude Code. R gère les lancements, la stratégie, la documentation du repo, et la distribution terrain.
 
 ### 5.3 Temps F2 (géré par R)
 
@@ -200,7 +200,7 @@ Le temps F2 est INCLUS dans le temps R. R gère la publication F2 (tweets progra
 
 | Produits live | Type de contenu dominant | Positionnement |
 |---------------|------------------------|---------------|
-| LD + 3 en dev | Données terrain CDV, build in public portfolio, insights e-com | "We're building 6 AI agents for e-com, agencies, and creators." |
+| LD + 3 en dev | Données terrain, build in public portfolio, insights e-com | "We're building 6 AI agents for e-com, agencies, and creators." |
 | 3-6 live | Cross-produit, cross-vertical, métriques portfolio | "AI agent studio, multi-vertical." |
 | 9 live | Studio complet, dashboard portfolio, guides cross-produit | "The studio that ships 3 AI agents per month." |
 
@@ -240,4 +240,5 @@ Ce fichier coordonne les plateformes du dossier growth-marketing. Le marketing/r
 | ph/f2/roadmap.md | growth-marketing/ph/f2/ | Roadmap PH F2 | ✅ |
 | ph/context.md | growth-marketing/ph/ | Stratégie PH, protocole launch day | ✅ |
 | ph/algo.md | growth-marketing/ph/ | Mécanique PH | ✅ |
-| **Co-do-va-bu-di (CDV)** | Repo compagnon | Distribution terrain Reddit/Facebook + source de vérité produits | ✅ |
+| `../produits/` | Racine | Source de vérité produits | ✅ |
+| `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/` | Racine | Distribution terrain Reddit/Facebook | ✅ |

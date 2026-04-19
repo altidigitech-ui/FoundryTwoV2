@@ -110,4 +110,4 @@ R en sélectionne 2-3 pour le batch de la semaine.
 |----------|----------|-------------|
 | Rédiger les posts | Grok cherche des sujets, Claude rédige | Projet Claude "Romain" |
 | Décider quels posts publier | Grok propose, R choisit | R au batch samedi |
-| Remplacer les données de R | Les sujets Grok donnent l'ANGLE. Les DONNÉES viennent du terrain CDV. | R fournit ses propres données |
+| Remplacer les données de R | Les sujets Grok donnent l'ANGLE. Les DONNÉES viennent du terrain. | R fournit ses propres données |

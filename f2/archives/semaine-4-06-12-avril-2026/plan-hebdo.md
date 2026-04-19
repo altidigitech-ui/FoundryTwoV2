@@ -12,7 +12,7 @@
 |------------------|--------------------|----------|------|
 |**Lundi 06/04**   |Metrics portfolio   |SKIP — démarrage tardif|❌ SKIP|
 |**Mardi 07/04**   |Transition pivot    |Honest update, LD → e-com, refocus|⏳|
-|**Mercredi 08/04**|Data thread CDV     |530+ reviews, 3 patterns (speed tax, ghost code, phantom billing)|⏳|
+|**Mercredi 08/04**|Data thread terrain     |530+ reviews, 3 patterns (speed tax, ghost code, phantom billing)|⏳|
 |**Jeudi 09/04**   |Communauté merchants|Question app count + code résiduel|⏳|
 |**Vendredi 10/04**|Build in public portfolio|Week 1 post-pivot, honest numbers, $0 MRR|⏳|
 
@@ -43,7 +43,7 @@
 |----------------------------------------------|------|
 |Signups portfolio (tous SaaS)                 |      |
 |MRR total                                     |      |
-|Données terrain CDV collectées                |      |
+|Données terrain collectées                |      |
 |Posts F2 Twitter publiés                      |      |
 |Vues F2 Twitter totales                       |      |
 |Likes F2 Twitter                              |      |
@@ -73,4 +73,4 @@ Voir `romain/cross-engagement-tracker.md` pour le suivi complet.
 
 ## 7. NOTES
 
-Première semaine post-pivot CDV. Contenu aligné sur le portfolio 6 SaaS et les données terrain.
+Première semaine post-pivot distribution-first. Contenu aligné sur le portfolio 6 SaaS et les données terrain.

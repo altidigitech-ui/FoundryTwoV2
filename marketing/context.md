@@ -42,19 +42,19 @@ Altistone (Holding — personne morale)
 | 5 | CreatorSuite | Creators | Mois 3 (juin) | Planifié |
 | 6 | LeadQuiz | E-com + Coaches | Mois 3 | Planifié |
 
-**Cadence cible :** 3 SaaS/mois par vertical. F code avec Claude Code. R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook = repo CDV.
+**Cadence cible :** 2 SaaS/mois. F code avec Claude Code. R distribue sur Twitter/LinkedIn et gère les lancements IH/PH. Distribution terrain Reddit/Facebook gérée dans `../romain/reddit/`, `../romain/facebook/`, `../fabrice/reddit/`, `../fabrice/facebook/`.
 
-**Détails produits** (features, pricing, concurrents, données marché) = voir CDV/produits/. Ne JAMAIS dupliquer ici.
+**Détails produits** (features, pricing, concurrents, données marché) = voir `../produits/`. Ne JAMAIS dupliquer ici.
 
 ---
 
 ## 3. MODÈLE FUNNEL
 
-R perso + F perso = **PORTES D'ENTRÉE** — engagement communautés e-com, agences, creators + insights basés sur les données terrain CDV (530+ reviews concurrents, données Mastercard, threads Reddit). Les gens suivent R ou F parce qu'ils apportent de la valeur dans leurs replies. Transfert organique vers F2 via mentions naturelles (2-3x/semaine).
+R perso + F perso = **PORTES D'ENTRÉE** — engagement communautés e-com, agences, creators + insights basés sur les données terrain (530+ reviews concurrents, données Mastercard, threads Reddit — collectées via la distribution Reddit/Facebook). Les gens suivent R ou F parce qu'ils apportent de la valeur dans leurs replies. Transfert organique vers F2 via mentions naturelles (2-3x/semaine).
 
 F2 = **HUB CENTRAL** — publication, build in public, milestones, annonces. Alimenté par le cross-engagement de R et F. NE fait PAS de cold outreach ni d'engagement proactif.
 
-Ce repo gère le funnel Twitter/LinkedIn/IH/PH. Le funnel Reddit/Facebook est dans le repo CDV.
+Ce fichier couvre le funnel Twitter/LinkedIn/IH/PH. Le funnel Reddit/Facebook est dans `../distribution/` + `../romain/{reddit,facebook}/` + `../fabrice/{reddit,facebook}/`.
 
 ---
 
@@ -110,7 +110,7 @@ Comptes produits pour les 6 SaaS à créer au fur et à mesure des lancements.
 
 ### 5.5 Comptes Reddit/Facebook
 
-Gérés dans le repo CDV. Voir CDV/romain/ et CDV/fabrice/ pour les détails.
+Détails dans `../romain/reddit/`, `../romain/facebook/`, `../fabrice/reddit/`, `../fabrice/facebook/`.
 
 ---
 
@@ -128,9 +128,9 @@ Gérés dans le repo CDV. Voir CDV/romain/ et CDV/fabrice/ pour les détails.
 
 | Segment | Intérêt | Où ils sont |
 |---------|---------|-------------|
-| Merchants Shopify (e-com) | Résoudre chargebacks, vitesse, conversion, listings | Twitter, LinkedIn, Reddit (CDV) |
-| Agences/Freelancers marketing | Reporting, ROI, workflow client, pricing | Twitter, LinkedIn, Reddit (CDV) |
-| Content Creators | Repurposing, editing, multi-plateforme, burnout | Twitter, LinkedIn, Reddit (CDV) |
+| Merchants Shopify (e-com) | Résoudre chargebacks, vitesse, conversion, listings | Twitter, LinkedIn, Reddit |
+| Agences/Freelancers marketing | Reporting, ROI, workflow client, pricing | Twitter, LinkedIn, Reddit |
+| Content Creators | Repurposing, editing, multi-plateforme, burnout | Twitter, LinkedIn, Reddit |
 | Build in public community | Suivre le parcours, apprendre, inspiration | Twitter, IH, PH |
 
 ---
@@ -141,7 +141,7 @@ Gérés dans le repo CDV. Voir CDV/romain/ et CDV/fabrice/ pour les détails.
 
 Le cold value outreach est la priorité #1. C'est la seule tactique à coût zéro qui convertit en quelques heures, pas en quelques semaines. Le branding, les posts, le contenu paieront dans 2-3 mois. Le cold outreach paie maintenant.
 
-**Le process :** trouver des gens qui ont un PROBLÈME dans nos 3 verticals → partager un insight basé sur les données terrain CDV (530+ reviews concurrents, données Mastercard, threads Reddit) → ils voient de la valeur immédiate → ils suivent R ou F → ils découvrent les produits FoundryTwo.
+**Le process :** trouver des gens qui ont un PROBLÈME dans nos 3 verticals → partager un insight basé sur les données terrain (530+ reviews concurrents, données Mastercard, threads Reddit — collectées via la distribution Reddit/Facebook) → ils voient de la valeur immédiate → ils suivent R ou F → ils découvrent les produits FoundryTwo.
 
 ### 8.2 Planning quotidien
 
@@ -196,7 +196,7 @@ Lmk if that was useful or if you have questions.
 
 ### 8.5 Règles absolues du cold outreach
 
-1. **Zéro faux témoignage.** Les données sont vraies. Les insights sont basés sur la recherche terrain CDV.
+1. **Zéro faux témoignage.** Les données sont vraies. Les insights sont basés sur la recherche terrain (distribution Reddit/Facebook).
 2. **Toujours en réponse publique d'abord.** DM uniquement en suivi.
 3. **UTM obligatoire sur chaque lien.** Format : `[produit].tech?utm_source=twitter&utm_medium=coldoutreach&utm_campaign=[vertical]`
 4. **Ne jamais pitcher le prix dans le premier message.** La valeur d'abord, la conversion vient du produit.
@@ -231,7 +231,7 @@ Most don't know.
 We're building an AI agent to fix this.
 ```
 
-C'est du vrai contenu basé sur de vraies données terrain (CDV). Bien plus puissant que du teasing vague.
+C'est du vrai contenu basé sur de vraies données terrain (Reddit/Facebook). Bien plus puissant que du teasing vague.
 
 ---
 
@@ -276,7 +276,8 @@ Publication et engagement maintenus mais à rythme allégé. Pas de jour off tan
 | toile-schema-v3.1.png | Schéma visuel de La Toile | la-toile/ |
 | FoundryTwo-Growth-Tracker.xlsx | Suivi cold outreach et métriques | tracking/ |
 | UTM-Tracking-FoundryTwo.xlsx | Liens UTM par produit | tracking/utm/ |
-| **Co-do-va-bu-di (CDV)** | **Source de vérité produits** (features, pricing, concurrents, données marché, distribution Reddit/Facebook) | Repo compagnon |
+| `produits/` | **Source de vérité produits** (features, pricing, concurrents, données marché) | Racine du repo |
+| `distribution/` + `romain/{reddit,facebook}/` + `fabrice/{reddit,facebook}/` | Distribution terrain Reddit/Facebook | Racine du repo |
 
 ---
 
@@ -297,11 +298,11 @@ Publication et engagement maintenus mais à rythme allégé. Pas de jour off tan
 | 25/02/2026 | TikTok suspendu | Zéro abonnés = zéro impact. Le temps libéré va dans le cold outreach. Reprend quand social proof disponible |
 | 01/03/2026 | Bio Twitter v3 validée | Voir Brand Bible section 7.1 — transparence, authenticité, format évolutif avec revenue |
 | 01/03/2026 | Brand Bible v2.0 et Logo Guidelines v1.0 validés | Documents de référence consolidés dans le nouveau repo FoundryTwo |
-| 03/04/2026 | Pivot distribution-first | LD = ~8 signups, 0€ MRR après 3 semaines. Cible dev = mauvaise. Pivot vers non-dev (e-com, agences, creators). Repo CDV créé. |
+| 03/04/2026 | Pivot distribution-first | LD = ~8 signups, 0€ MRR après 3 semaines. Cible dev = mauvaise. Pivot vers non-dev (e-com, agences, creators). |
 | 03/04/2026 | 6 SaaS définis | StoreMD, ProfitPilot, ClientPulse, AdAudit, CreatorSuite, LeadQuiz |
 | 03/04/2026 | 3 verticals non-dev | E-commerce Shopify, Agences/Freelancers marketing, Content Creators |
-| 03/04/2026 | Cadence 3 SaaS/mois | Avec Claude Code, la complexité technique est un moat, pas un frein |
+| 03/04/2026 | Cadence 2 SaaS/mois | Avec Claude Code, la complexité technique est un moat, pas un frein |
 | 04/04/2026 | Full-time R + F | Les deux au chômage = 100% dédiés FoundryTwo |
 | 04/04/2026 | Chacun rédige son contenu | R rédige R+F2. F rédige F. "R rédige TOUT" supprimé. |
-| 04/04/2026 | Volumes alignés CDV | 30 interactions/jour, 10 cold outreach/jour, 1 post/jour par personne |
-| 04/04/2026 | 2 repos spécialisés | FT = brand building Twitter/LinkedIn/IH/PH. CDV = distribution Reddit/Facebook + produits. |
+| 04/04/2026 | Volumes non-négociables | 30 interactions/jour, 10 cold outreach/jour, 1 post/jour par personne |
+| 19/04/2026 | Repo unifié | Brand building (Twitter/LinkedIn/IH/PH) + distribution terrain (Reddit/Facebook) + produits dans un seul repo. |

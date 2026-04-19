@@ -28,7 +28,7 @@ La bio sera mise à jour à chaque milestone significatif (premier client payant
 | # | Nom | Verticale | Description courte |
 |---|-----|-----------|-------------------|
 | 1 | Leak Detector | E-com | Audit automatisé des fuites de conversion |
-| 2 | ChargebackDefender (CDV) | E-com | Agent anti-chargebacks & fraude amicale |
+| 2 | ChargebackDefender | E-com | Agent anti-chargebacks & fraude amicale |
 | 3 | PriceRadar | E-com | Surveillance concurrentielle des prix |
 | 4 | ReviewPulse | E-com / Agencies | Analyse et réponse automatisée aux avis |
 | 5 | AdWatcher | Agencies / Creators | Monitoring des performances pub |
@@ -54,7 +54,7 @@ F2 est un **studio**, pas une personne. Il parle au "we", jamais au "I". Le ton 
 | Toujours "we", jamais "I" | "We shipped 3 features this week." | "I shipped 3 features this week." |
 | Données réelles uniquement — jamais de chiffres inventés | "We talked to 50+ merchants this month. The #1 hidden cost: $800/month in chargebacks." | "Hundreds of users love our tool!" |
 | Honnêteté sur les échecs | "Week 2: 0 paying customers. Here's what we're changing." | "Amazing growth so far!" (si c'est faux) |
-| Jamais d'opinions personnelles | "CDV data shows X." | "We think Shopify apps are overrated." (c'est l'angle R, pas F2) |
+| Jamais d'opinions personnelles | "données terrain shows X." | "We think Shopify apps are overrated." (c'est l'angle R, pas F2) |
 | Jamais d'attaque/provocation | "Interesting pattern in our chargeback research this week." | "Your store is bleeding money." (c'est l'angle R) |
 | Enthousiasme mesuré, pas hype | "Milestone: first 100 signups across the portfolio." | "🚀🚀🚀 WE'RE BLOWING UP 🔥🔥🔥" |
 | Questions à la communauté = ouvertes et sincères | "Shopify merchants: what's your biggest hidden cost?" | "Don't you think our tool is amazing?" |
@@ -82,9 +82,9 @@ Max 1-2 par tweet. Émojis autorisés pour F2 : 🔨 (forge), 📊 (data), 🧵 
 | Type | Exemple |
 |------|---------|
 | **Métriques portfolio réelles** | "Week 3: 47 signups across 3 SaaS, $38 MRR total, 2 verticals active." |
-| **Données terrain CDV (530+ reviews, Reddit, Mastercard)** | "We analyzed 530+ chargeback reviews. 71% of disputes are friendly fraud. Here's the breakdown." |
+| **Données terrain (530+ reviews, Reddit, Mastercard)** | "We analyzed 530+ chargeback reviews. 71% of disputes are friendly fraud. Here's the breakdown." |
 | **Milestones** | "First paying customer on product #2. Took us 11 days." |
-| **Build in public updates portfolio** | "This week: shipped email alerts on CDV, defined 105 features across 3 SaaS, onboarded 12 beta users." |
+| **Build in public updates portfolio** | "This week: shipped email alerts on StoreMD, defined 105 features across 3 SaaS, onboarded 12 beta users." |
 | **Questions ouvertes à la communauté** | "Shopify merchants: what's the most you've lost to chargebacks in a single month?" |
 | **Annonces produit (tout le portfolio)** | "New agent: PriceRadar. Competitive price monitoring for e-com. Here's how it works." |
 | **Récaps hebdomadaires portfolio** | "Week 4 recap: 6 SaaS, what worked, what didn't, what's next." |
@@ -112,8 +112,8 @@ Le squelette est fixe (quel jour = quel pilier/format). Le contenu est variable 
 | Jour | Pilier | Format | Source de données | Ton |
 |------|--------|--------|-------------------|-----|
 | **Lundi** | Metrics Portfolio | Tweet single ou thread court (2-3 tweets) | Growth Tracker portfolio (MRR total, signups all SaaS, verticals actives) | Factuel, transparent |
-| **Mardi** | Hot Take Studio | Tweet single | Pain e-com/agencies/creators issu des données CDV terrain | Affirmé mais pas agressif |
-| **Mercredi** | Data Thread | Thread 4-6 tweets | Données CDV agrégées (530+ reviews, Mastercard, Reddit) | Analytique, structuré |
+| **Mardi** | Hot Take Studio | Tweet single | Pain e-com/agencies/creators issu des données terrain terrain | Affirmé mais pas agressif |
+| **Mercredi** | Data Thread | Thread 4-6 tweets | Données terrain agrégées (530+ reviews, Mastercard, Reddit) | Analytique, structuré |
 | **Jeudi** | Connexion / Communauté | Question ouverte ou poll | Questions pour merchants, freelancers, creators | Curieux, ouvert |
 | **Vendredi** | Build in Public | Thread court (3-4 tweets) | Recap semaine portfolio 6 SaaS + progression | Honnête, concret |
 
@@ -182,12 +182,12 @@ What's the biggest hidden cost for e-com merchants?
 ```
 Week 3 of building 6 AI agents — the honest recap:
 
-🔨 Portfolio: 3 SaaS in active build (CDV, Leak Detector, PriceRadar)
+🔨 Portfolio: 3 SaaS in active build (StoreMD, Leak Detector, ProfitPilot)
 📊 105 features defined, 34 shipped, 71 in backlog
 📊 47 signups, 2 paying ($38 MRR)
-🎯 CDV research: 530+ reviews analyzed, 10 anti-competitor principles locked
+🎯 Terrain research: 530+ reviews analyzed, 10 anti-competitor principles locked
 
-Next week: beta launch CDV + onboarding flow for Leak Detector.
+Next week: beta launch StoreMD + onboarding flow for Leak Detector.
 
 The forge keeps burning.
 ```
@@ -255,7 +255,7 @@ Extraites de twitter/context.md §8 avec précisions F2.
 
 ### 7.2 Process batch samedi
 
-1. **Collecter les données portfolio** — Ouvrir le Growth Tracker, récupérer les métriques de la semaine pour tous les SaaS actifs, noter les patterns des données CDV terrain et les retours merchants/freelancers/creators.
+1. **Collecter les données portfolio** — Ouvrir le Growth Tracker, récupérer les métriques de la semaine pour tous les SaaS actifs, noter les patterns des données terrain terrain et les retours merchants/freelancers/creators.
 2. **Alimenter Claude** — Dans le projet rédaction F2, fournir les données brutes portfolio + le jour/pilier/format du squelette éditorial.
 3. **Rédiger les 5 posts** — Claude génère dans la voix F2, R valide et ajuste.
 4. **Préparer les visuels** — Screenshots produit, graphiques portfolio si pertinent (Canva Pro).
@@ -292,10 +292,10 @@ Le contenu F2 évolue avec la maturité du portfolio et de la communauté.
 
 ### Phase 1 — Avril : Données terrain e-com + build in public
 
-- **Dominante :** Données terrain CDV (530+ reviews, Reddit, Mastercard), build in public portfolio, premiers chiffres (même si petits), honnêteté sur le démarrage.
-- **Données disponibles :** Recherche CDV riche (530+ reviews analysées, 71% friendly fraud, $800/month chargebacks, apps JS, ghost billing). Portfolio en construction.
-- **Format récurrent :** "Store Insight of the Week" — 1 insight terrain e-com présenté en détail (données CDV, pattern marchand, coût caché). Remplace le data thread du mercredi 1 semaine sur 2.
-- **Ajustement :** Le mardi "Hot Take Studio" peut s'appuyer dès le départ sur les données CDV terrain — pas besoin d'attendre.
+- **Dominante :** Données terrain (530+ reviews, Reddit, Mastercard), build in public portfolio, premiers chiffres (même si petits), honnêteté sur le démarrage.
+- **Données disponibles :** Recherche terrain riche (530+ reviews analysées, 71% friendly fraud, $800/month chargebacks, apps JS, ghost billing). Portfolio en construction.
+- **Format récurrent :** "Store Insight of the Week" — 1 insight terrain e-com présenté en détail (données terrain, pattern marchand, coût caché). Remplace le data thread du mercredi 1 semaine sur 2.
+- **Ajustement :** Le mardi "Hot Take Studio" peut s'appuyer dès le départ sur les données terrain terrain — pas besoin d'attendre.
 
 ### Phase 2 — Mai : Multi-vertical + lancements
 
