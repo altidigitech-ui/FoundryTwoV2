@@ -43,7 +43,7 @@ COMMUNAUTÉ → DOULEUR → VALIDATION (10 signups/48h) → BUILD → DISTRIBUTI
 
 1. **Complexité = moat.** Ne JAMAIS filtrer par complexité technique.
 2. **Distribution-first.** Jamais de build sans validation communauté (10+ signups en 48h).
-3. **Volume × Constance non-négociable.** R : 30 interactions/jour. F : 15/jour.
+3. **Volume × Constance non-négociable.** R : 30 interactions/jour. F : 30/jour.
 4. **Problèmes à 10K$/an minimum.** Le pricing reflète la douleur, pas la feature.
 5. **Cible NON-dev uniquement.** Jamais de produit pour des codeurs.
 6. **Chaque SaaS = un AGENT**, pas un outil. LLM + webhooks + notifications push. PWA sur tout.
@@ -59,7 +59,6 @@ FoundryTwo/
 ├── ARCH.md                   ← Arbre ASCII généré
 ├── ANTI-IA.md                ← Règle #0 (prime sur tout)
 ├── VISUELS.md                ← Algo visuel
-├── context.md                ← Synthèse stratégique héritée de FT
 │
 ├── strategie/                ← Source de vérité stratégique (CONTEXT, PLAYBOOK-DISTRIBUTION, WARMING-FARMING, verticals/)
 ├── produits/                 ← Source de vérité produits (STATUS, MUTATIONS, NOUVEAUX, PRINCIPES-ANTI-CONCURRENTS)
@@ -97,7 +96,7 @@ FoundryTwo/
 1. **Héritage strict (no-duplication).** Chaque fichier hérite de son parent. Ne JAMAIS dupliquer le contenu du parent dans l'enfant. En-tête obligatoire : `Hérite de : [parent]/context.md` + `Ce fichier contient : [ajouts uniquement]`.
 2. **Langue.** Documents internes en français. Rédaction publique (posts, replies, cold outreach) en anglais. Marché cible US/EU.
 3. **Validation obligatoire.** Aucun fichier créé/modifié/supprimé sans "validé", "go", ou "ok" explicite.
-4. **Volume × Constance.** R : 30 interactions/jour + 10 cold outreach/jour + 7 posts/sem. F : 15 interactions/jour + 10 cold outreach/jour + 5 posts/sem. Non-négociable.
+4. **Volume × Constance.** R : 30 interactions/jour + 10 cold outreach/jour + 7 posts/sem. F : 30 interactions/jour + 10 cold outreach/jour + 5 posts/sem. Non-négociable.
 5. **Cible NON-dev.** Aucun produit pour codeurs. Le build in public peut exposer le code (angle F), mais le produit cible un non-dev.
 6. **Zéro donnée inventée.** Pas de "many users", "great results", "impressive growth". Exemples marqués, templates avec placeholders.
 7. **Voix séparées.** R, F, F2 et Produits ont chacun leur vocabulaire exclusif — ne jamais mélanger. Détails dans `romain/VOIX.md`, `fabrice/VOIX.md`, `f2/context.md`.

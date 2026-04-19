@@ -15,7 +15,6 @@ Repo opérationnel unifié — documentation .md, pas de code.
 | `ARCH.md` | Arbre ASCII généré. Profondeur 3. |
 | `ANTI-IA.md` | Règle #0 : anti-détection IA. Prime sur tout. |
 | `VISUELS.md` | Algo visuel (brand + posts). |
-| `context.md` | Synthèse stratégique (héritée de l'ancien repo FT). |
 
 ---
 
@@ -89,8 +88,8 @@ Toutes les règles d'écriture, nommage, héritage, voix, volume sont dans `CLAU
 
 | Dossier | État | Note |
 |---------|------|------|
-| `strategie/` | ✅ complet | 7 fichiers, issue de CDV |
-| `produits/` | ✅ complet | 4 fichiers, issue de CDV |
+| `strategie/` | ✅ complet | 7 fichiers, (issu de lancien repo distribution) |
+| `produits/` | ✅ complet | 4 fichiers, (issu de lancien repo distribution) |
 | `distribution/` | 🔨 minimal | README + PLAYBOOK — à enrichir |
 | `marketing/` | 🔨 léger | 3 fichiers — à enrichir |
 | `growth-marketing/` | ✅ complet | 20 fichiers (algo + context par plateforme) |
@@ -100,7 +99,7 @@ Toutes les règles d'écriture, nommage, héritage, voix, volume sont dans `CLAU
 | `saas/` | ✅ complet | 24 fichiers |
 | `la-toile/` | ✅ complet | 7 fichiers |
 | `asset-brand/` | ✅ complet | 16 fichiers |
-| `tracking/` | ✅ complet | 7 fichiers (fusion FT + CDV) |
+| `tracking/` | ✅ complet | 7 fichiers (fusion FoundryTwo) |
 | `archives/` | ⏳ vide | Se remplira à chaque archivage dimanche |
 
 Dossiers vides intentionnels : `archives/`, `romain/ph/`, `fabrice/ph/` (canal PH à documenter).
