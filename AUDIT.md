@@ -1,121 +1,77 @@
 # AUDIT — Merge FoundryTwo + Co-do-va-bu-di
 
-> Fichier temporaire. À supprimer après traitement des corrections.
-> Généré le 19 avril 2026 après fusion des deux repos.
+> Fichier temporaire. À supprimer après validation finale.
+> Généré le 19 avril 2026 après fusion des deux repos, mis à jour après batch de nettoyage.
 
 ---
 
-## 1. Références obsolètes inter-repo
+## Décisions appliquées (19/04/2026)
 
-Occurrences de "repo FT", "repo CDV", "Co-do-va-bu-di", "repo compagnon", "tandem", etc. Le repo est désormais unifié — toutes ces références doivent être réécrites.
-
-**34 occurrences détectées.** Liste complète :
-
-| Fichier | Ligne | Extrait |
-|---------|-------|---------|
-| `distribution/README.md` | 1 | `# Co-do-va-bu-di — Repo distribution-first FoundryTwo` |
-| `fabrice/context-from-FT.md` | 206 | `Distribution terrain Reddit = repo CDV. Sur FT, F mentionne Reddit…` |
-| `marketing/context.md` | 45 | `…Distribution terrain Reddit/Facebook = repo CDV.` |
-| `marketing/context.md` | 57 | `Ce repo gère le funnel Twitter/LinkedIn/IH/PH. Le funnel Reddit/Facebook est dans le repo CDV.` |
-| `marketing/context.md` | 113 | `Gérés dans le repo CDV. Voir CDV/romain/ et CDV/fabrice/ pour les détails.` |
-| `marketing/context.md` | 279 | `Co-do-va-bu-di (CDV) \| Source de vérité produits…` |
-| `marketing/README.md` | 25 | `Co-do-va-bu-di (CDV) \| Repo compagnon…` |
-| `context.md` | 12 | `Ce repo fonctionne en tandem avec le repo Co-do-va-bu-di (CDV)…` |
-| `context.md` | 65 | `…via le repo CDV (Reddit, Facebook).` |
-| `context.md` | 71 | `Sur Reddit/Facebook (repo CDV)…` |
-| `context.md` | 191 | `…s'aligner avec le pivot du 03/04/2026 (repo CDV).` |
-| `context.md` | 234 | `Co-do-va-bu-di (CDV) \| Repo compagnon…` |
-| `la-toile/coordination.md` | 569 | `CDV \| Cadence De Vie — le repo compagnon…` |
-| `growth-marketing/context.md` | 306 | `Reddit/Facebook = repo CDV.` |
-| `growth-marketing/context.md` | 393 | `Reddit/Facebook : Distribution terrain via repo CDV (séparé)` |
-| `growth-marketing/context.md` | 469 | `Co-do-va-bu-di (CDV) \| Repo compagnon…` |
-| `growth-marketing/roadmap.md` | 181 | `…le repo FT/CDV, la distribution terrain.` |
-| `growth-marketing/roadmap.md` | 243 | `Co-do-va-bu-di (CDV) \| Repo compagnon…` |
-| `growth-marketing/README.md` | 5 | `La distribution terrain Reddit/Facebook est dans le repo CDV.` |
-| `growth-marketing/README.md` | 177 | `Co-do-va-bu-di (CDV) \| Repo compagnon…` |
-| `saas/context.md` | 7 | `…voir repo CDV/produits/).` |
-| `saas/context.md` | 21 | `Distribution terrain Reddit/Facebook = repo CDV.` |
-| `saas/roadmap.md` | 25 | `…Distribution terrain Reddit/Facebook = repo CDV.` |
-| `saas/clientpulse/context.md` | 55 | `Source : CDV (repo compagnon)` |
-| `saas/storemd/context.md` | 58 | `Source : CDV (repo compagnon)` |
-| `saas/leadquiz/context.md` | 56 | `Source : CDV (repo compagnon)` |
-| `saas/creatorsuite/context.md` | 57 | `Source : CDV (repo compagnon)` |
-| `saas/adaudit/context.md` | 55 | `Source : CDV (repo compagnon)` |
-| `saas/profitpilot/context.md` | 58 | `Source : CDV (repo compagnon)` |
-| `romain/publication/claude/context.md` | 90 | `Reddit = repo CDV.` |
-| `romain/semaine-2/jour-09-mar-14-04.md` | 18 | `Journée passée sur repo FT.` |
-| `romain/context-from-FT.md` | 209 | `Distribution terrain Reddit = repo CDV.` |
-| `README.md` | 18 | `Synthèse stratégique (héritée de l'ancien repo FT).` |
-| `f2/publication/context.md` | 414 | `…voir le repo CDV (source de vérité produits).` |
-
-**Cas particulier — acceptés (à conserver) :**
-- `CLAUDE.md` §8 point 7 : cite explicitement "l'autre repo", "repo FT", "repo CDV" comme termes interdits. C'est légitime.
-- `AUDIT.md` (ce fichier) : cite les termes pour le diagnostic.
-- `README.md` ligne 18 : mentionne "ancien repo FT" dans une note contextuelle — reformuler ou laisser tel quel selon préférence.
-
-### Références inline aux chemins (CDV/... ou FT/...)
-
-**38 occurrences détectées** de patterns `CDV/produits/`, `CDV/romain/`, etc. Les plus critiques :
-
-- `la-toile/context.md:356` — `CDV/` comme "Repo compagnon"
-- `la-toile/README.md:74` — description du repo CDV/
-- `la-toile/coordination.md:407` — `Voir CDV/produits/ pour les specs des 6 SaaS.`
-- `saas/{clientpulse,storemd,leadquiz,creatorsuite}/context.md:7` — `Specs détaillées : Voir CDV/produits/{NOUVEAUX,MUTATIONS}.md`
-- `saas/{clientpulse,storemd,leadquiz,creatorsuite}/README.md:6` — `Specs détaillées : CDV/produits/`
-- `saas/context.md:65, 117, 135` — références CDV/produits/
-- `saas/roadmap.md:5` — `CDV/produits/STATUS.md` (source de vérité)
-- `marketing/context.md:47, 113` — références CDV/produits/, CDV/romain/, CDV/fabrice/
-
-**Action recommandée :** remplacer toutes les occurrences `CDV/` par le chemin direct dans le repo unifié (`produits/`, `romain/`, `fabrice/`, etc.).
+| Décision stratégique | Valeur finale | Remplacements |
+|---------------------|---------------|---------------|
+| Volume interactions/jour | R : 30 · F : 30 (aligné) | 3 lignes (CLAUDE.md §3, CLAUDE.md §6.4, strategie/CONTEXT.md §3 table) |
+| Cadence SaaS | 2/mois | 23 remplacements dans 20 fichiers |
+| Références inter-repo nettoyées | 0 résiduelle | ~110 remplacements dans ~50 fichiers (via 4 passes sed contextualisées) |
+| Fichiers temporaires supprimés | 5 | `romain/CLAUDE-from-CDV.md`, `fabrice/CLAUDE-from-CDV.md`, `romain/context-from-FT.md`, `fabrice/context-from-FT.md`, `context.md` (racine) |
+| Fichiers fusionnés créés | 2 | `romain/context.md`, `fabrice/context.md` (unifiés brand + distribution) |
+| Fichiers réécrits | 1 | `distribution/README.md` |
 
 ---
 
-## 2. Liens markdown cassés
+## 1. Références obsolètes inter-repo ✅
 
-**Aucun lien `[texte](chemin)` détecté dans les fichiers .md du repo.** Les références aux autres fichiers se font par chaînes en backticks (`` `strategie/CONTEXT.md` ``) ou en texte brut. Rien à corriger sur ce front.
+**Statut : résolu.** Les 34 occurrences + 38 chemins `CDV/...` initialement recensés ont été traités.
+
+| Pattern | Avant | Après |
+|---------|-------|-------|
+| `repo CDV`, `repo FT`, `repo compagnon`, `fonctionne en tandem`, `l'autre repo` | 34+ occurrences | 0 (hors CLAUDE.md §8 interdiction + CLAUDE.md §1 note historique de fusion) |
+| `CDV/produits/...`, `CDV/romain/...`, `CDV/fabrice/...`, `CDV/tracking/...` | 38 occurrences | Remplacé par chemins relatifs (`produits/`, `../romain/reddit/`, etc.) |
+| `Source : CDV (repo compagnon)` (6 × saas/) | 6 occurrences | Remplacé par `Source : produits/NOUVEAUX.md` ou `Source : produits/MUTATIONS.md` |
+| `(CDV)` parenthétiques, `CDV data`, `CDV cadence`, `terrain CDV`, `pivot CDV`, etc. | ~60 occurrences | Renommés en "terrain", "distribution", "distribution-first" selon contexte |
+
+Unique mention restante (LÉGITIME) : `CLAUDE.md:3` — note historique qui contextualise la fusion ("Fusion des anciens repos FT et CDV en un repo unique"). `CLAUDE.md:127` — règle d'interdiction qui cite les termes bannis.
 
 ---
 
-## 3. Duplications potentielles
+## 2. Liens markdown cassés ✅
 
-### 3.1 Fichiers temporaires à fusionner (HIGH PRIORITY)
+**Statut : rien à résoudre.** Aucun lien `[texte](chemin)` dans les fichiers .md du repo. Les références se font par chaînes en backticks. Les 38 chemins inline `CDV/...` ont été corrigés en étape 6.
+
+---
+
+## 3. Duplications potentielles ✅
+
+### 3.1 Fichiers temporaires → supprimés
 
 | Fichier | Statut |
 |---------|--------|
-| `romain/context-from-FT.md` | Context FT non fusionné. Doit être consolidé avec `romain/VOIX.md` + `romain/plan-30-jours.md` en un `romain/context.md` unifié. |
-| `fabrice/context-from-FT.md` | Idem pour F. |
-| `romain/CLAUDE-from-CDV.md` | Copie du CLAUDE.md CDV racine. Probablement redondant avec le CLAUDE.md unifié racine — à supprimer après vérification. |
-| `fabrice/CLAUDE-from-CDV.md` | Idem pour F. |
+| `romain/context-from-FT.md` | ✅ Supprimé. Contenu utile intégré dans `romain/context.md` unifié. |
+| `fabrice/context-from-FT.md` | ✅ Supprimé. Contenu utile intégré dans `fabrice/context.md` unifié. |
+| `romain/CLAUDE-from-CDV.md` | ✅ Supprimé. Contenu opérationnel (phases mois, outils F5Bot/Feedly, volumes par canal) intégré dans `romain/context.md`. |
+| `fabrice/CLAUDE-from-CDV.md` | ✅ Supprimé. Idem pour F. |
+| `context.md` (racine) | ✅ Supprimé. Structure corporate Altistone déjà présente dans `la-toile/context.md`. Toutes les autres sections étaient redondantes avec CLAUDE.md, strategie/CONTEXT.md, README.md. |
 
-### 3.2 Filenames partagés — pas de contradiction
+### 3.2 Filenames partagés — OK (héritage)
 
-| Fichier | Occurrences | Note |
-|---------|-------------|------|
-| `context.md` | 40 | Normal — un par dossier. Héritage strict applique. |
-| `roadmap.md` | 16 | Normal — un par scope. |
-| `README.md` | 12 | Normal. |
-| `plan-hebdo.md`, `progress-semaine.md` | 12 + 10 | Copiés dans archives/ par semaine. Normal. |
-| `VOIX.md` | 2 (romain, fabrice) | OK. |
-| `CLAUDE.md` | 1 (racine) | OK. |
+Les 40 `context.md`, 16 `roadmap.md`, 12 `plan-hebdo.md`, etc. sont normaux (un par scope dans l'arbre d'héritage).
 
-### 3.3 Distribution/README.md commence par "# Co-do-va-bu-di"
+### 3.3 distribution/README.md → réécrit ✅
 
-Le fichier `distribution/README.md` est simplement le README original de CDV. Son titre et son contenu font référence au repo CDV comme entité propre. À réécrire entièrement comme README du dossier `distribution/` dans le repo unifié.
+Le fichier commençait par "# Co-do-va-bu-di — Repo distribution-first FoundryTwo" (README original de l'ancien repo). Réécrit intégralement en "# Distribution terrain — Reddit + Facebook".
 
 ---
 
 ## 4. Fichiers orphelins
 
-Non traité automatiquement (détection manuelle nécessaire). Pointeurs de détection possible : fichiers non référencés depuis CLAUDE.md, README.md, context.md, ARCH.md. À auditer avec un outil dédié si souhaité.
+**Non bloquant.** Candidats à vérifier manuellement par F lors d'une revue ultérieure :
 
-Candidats visibles à vérifier :
-- `growth-marketing/strategie/strategie-expansion-generale.md` — probablement orphelin du repo, pas référencé dans README.md racine.
+- `growth-marketing/strategie/strategie-expansion-generale.md` — probablement orphelin du repo, pas référencé depuis README.md racine.
 - `la-toile/LA-TOILE-v3.1-Complete.docx` — fichier binaire, non documenté dans CLAUDE.md/README.md.
 - `la-toile/toile-schema-v3.1.png` — image, non liée dans les .md.
 
 ---
 
-## 5. Dossiers vides
+## 5. Dossiers vides ✅
 
 | Dossier | État | Intentionnel ? |
 |---------|------|----------------|
@@ -127,49 +83,39 @@ Aucun autre dossier vide détecté.
 
 ---
 
-## 6. Contradictions de règles
+## 6. Contradictions de règles ✅
 
-### 6.1 Volume interactions pour F (critique)
+### 6.1 Volume interactions F ✅ résolu
 
-Deux chiffres coexistent :
-- **CDV/CLAUDE.md (pivot) :** `F : 15 interactions/jour`
-- **FT (post-pivot) :** `F : 30 interactions/jour (15 Twitter + 15 LinkedIn)` — dans `fabrice/twitter/context.md:168`, `fabrice/roadmap.md:36, 57, 76, 91, 123`, `fabrice/playbook-semaine.md:8, 151`, `fabrice/engagement/grok/context.md:102`, `fabrice/engagement/claude/context.md:34-38`, `fabrice/linkedin/context.md:285`, `fabrice/archives/semaine-4-…/plan-hebdo.md:63`, `fabrice/daily-checklist.md:54`, `fabrice/plan-hebdo.md:58`.
+Décision F = 30 interactions/jour appliquée dans les 3 fichiers qui le traitaient comme un TOTAL (CLAUDE.md x2, strategie/CONTEXT.md x1). Les mentions "15 interactions Twitter" et "15 interactions LinkedIn" en tant que SPLIT per-canal sont préservées (15+15=30 cohérent).
 
-**CLAUDE.md unifié (nouveau) suit CDV : F = 15/jour.** Les 13+ références à "F : 30 interactions/jour" dans fabrice/ contredisent directement la règle #3. Action : trancher (F = 15 ou 30 ?) puis corriger en masse.
+### 6.2 Cadence SaaS ✅ résolu
 
-### 6.2 Cadence SaaS (contradictions multiples)
+Décision 2 SaaS/mois appliquée dans 20 fichiers (~23 remplacements). Le tableau §7 de `strategie/CONTEXT.md` (M1: StoreMD+ProfitPilot, M2: ClientPulse+AdAudit, M3: CreatorSuite+LeadQuiz) était déjà cohérent avec 2/mois — **intact après correction**.
 
-- `CLAUDE.md` unifié + `tracking/decisions-log.md:7` + prompt de fusion → **3–4 SaaS/mois**.
-- `context.md:24` + `marketing/context.md:45, 303` + `growth-marketing/roadmap.md:7` + `fabrice/roadmap.md:6` + `fabrice/system-prompt.md:330` + `fabrice/context-from-FT.md:246` + `saas/roadmap.md` (implicite) + `la-toile/*` → **3 SaaS/mois par vertical** (soit jusqu'à 9/mois).
-- `la-toile/roadmap.md:24` → **2 SaaS par mois par vertical**.
-- `saas/context.md:13` → **2 SaaS/mois** (pas par vertical).
+Les 2 mentions restantes "1 SaaS/mois" dans `strategie/CONTEXT.md:202, 265` sont des références **historiques** (ancienne contrainte retirée, comparaison "remplacée par 2 SaaS/mois"). Légitimes.
 
-**4 valeurs différentes.** Trancher puis corriger partout.
+### 6.3 "Ce repo" ambigu ✅ résolu
 
-### 6.3 Référence "ce repo" ambiguë
-
-De multiples fichiers (`context.md`, `marketing/context.md`, `growth-marketing/*`, `saas/*`, `f2/publication/context.md`) parlent encore de "ce repo" comme si FT et CDV étaient deux repos. Avec la fusion, "ce repo" = le repo unifié. À reformuler systématiquement.
+Toutes les formulations "ce repo" qui suggéraient deux repos distincts ont été reformulées pour refléter l'unification. Les références à "ce repo" dans un contexte cohérent (ex : "ce dossier") ont été préservées.
 
 ---
 
-## 7. Décisions à valider (emplacements incertains)
+## 7. Décisions appliquées (emplacements)
 
-| Fichier | Emplacement choisi | À valider |
-|---------|-------------------|-----------|
-| `context.md` (racine) | Racine | Source héritée de FT. Fusionner avec `strategie/CONTEXT.md` ou garder les deux ? |
-| `romain/context-from-FT.md` / `fabrice/context-from-FT.md` | `romain/` / `fabrice/` | À fusionner en `context.md` unique ou à supprimer (redondant avec VOIX.md + plan-30-jours.md) ? |
-| `romain/CLAUDE-from-CDV.md` / `fabrice/CLAUDE-from-CDV.md` | `romain/` / `fabrice/` | Supprimer — le CLAUDE.md racine suffit. |
-| `growth-marketing/strategie/` | Conservé | À fusionner avec `strategie/` racine ? Ou garder les deux scopes séparés ? |
-| `distribution/README.md` | `distribution/` | Réécrire complètement — actuellement c'est le README original de CDV. |
-| Fichiers `saas/*/context.md` mentionnant "Source : CDV" | Conservés | Réécrire pour pointer vers `produits/` (même repo). |
+| Fichier | Décision |
+|---------|----------|
+| `context.md` racine | ✅ Supprimé. Contenu fusionné dans CLAUDE.md, strategie/CONTEXT.md, la-toile/context.md. |
+| `romain/context-from-FT.md` / `fabrice/context-from-FT.md` | ✅ Supprimés. |
+| `romain/CLAUDE-from-CDV.md` / `fabrice/CLAUDE-from-CDV.md` | ✅ Supprimés. |
+| `growth-marketing/strategie/` | ⏳ Conservé tel quel. À évaluer avec F si fusion avec `strategie/` racine pertinente. |
+| `distribution/README.md` | ✅ Réécrit. |
+| `saas/*/context.md` et `saas/*/README.md` avec "Source : CDV" | ✅ Pointent maintenant vers `produits/NOUVEAUX.md` ou `produits/MUTATIONS.md`. |
 
 ---
 
-## Recommandations d'ordre
+## 8. Reste à traiter (non-bloquant, pour F)
 
-1. **Supprimer** `romain/CLAUDE-from-CDV.md` et `fabrice/CLAUDE-from-CDV.md` (redondants avec CLAUDE.md racine).
-2. **Trancher** sur le volume F (15 ou 30 int./jour) et sur la cadence SaaS (2, 3, 3–4 ?) — une seule valeur autorisée.
-3. **Réécrire** `distribution/README.md` (actuellement c'est le README de l'ex-repo CDV).
-4. **Corriger en batch** les 34 références "repo CDV / repo FT / repo compagnon" + les 38 chemins `CDV/...`.
-5. **Fusionner ou supprimer** les deux `context-from-FT.md` dans `romain/` et `fabrice/`.
-6. **Reformuler** les "ce repo" ambigus pour refléter l'unification.
+1. Vérifier si `growth-marketing/strategie/` doit être fusionné avec `strategie/` racine ou rester distinct (scope plateforme vs stratégie globale).
+2. Valider les nouveaux `romain/context.md` et `fabrice/context.md` (120 lignes chacun) — est-ce que le niveau de détail convient, ou faut-il ajouter/retirer des sections ?
+3. Supprimer ce fichier AUDIT.md après validation finale.

@@ -1,15 +1,14 @@
 # ARCH — Structure du repo FoundryTwo
 
-Arbre ASCII généré le 19 avril 2026. Profondeur max : 3.
+Arbre ASCII généré le 19 avril 2026 (après batch de nettoyage post-merge). Profondeur max : 3.
 Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 
 ```
 .
 ├── ANTI-IA.md
 ├── ARCH.md
+├── AUDIT.md
 ├── CLAUDE.md
-├── Co-do-va-bu-di-main (2).zip
-├── FoundryTwo-main (1).zip
 ├── README.md
 ├── VISUELS.md
 ├── asset-brand
@@ -20,7 +19,6 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 │       ├── leak-detector
 │       ├── saas-2
 │       └── saas-3
-├── context.md
 ├── distribution
 │   ├── PLAYBOOK_DISTRI_3_VERTICAL
 │   └── README.md
@@ -55,7 +53,6 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 │       ├── context.md
 │       └── roadmap.md
 ├── fabrice
-│   ├── CLAUDE-from-CDV.md
 │   ├── VOIX.md
 │   ├── angles-et-templates.md
 │   ├── claude-code-prompts.md
@@ -64,7 +61,7 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 │   │   ├── cold-outreach-log.md
 │   │   └── grok
 │   ├── cold-outreach-log.md
-│   ├── context-from-FT.md
+│   ├── context.md
 │   ├── cross-engagement-tracker.md
 │   ├── daily-checklist.md
 │   ├── engagement
@@ -158,7 +155,6 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 │   ├── PRINCIPES-ANTI-CONCURRENTS.md
 │   └── STATUS.md
 ├── romain
-│   ├── CLAUDE-from-CDV.md
 │   ├── VOIX.md
 │   ├── angles-et-templates.md
 │   ├── claude-code-prompts.md
@@ -166,7 +162,7 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
 │   │   ├── claude
 │   │   ├── cold-outreach-log.md
 │   │   └── grok
-│   ├── context-from-FT.md
+│   ├── context.md
 │   ├── cross-engagement-tracker.md
 │   ├── daily-checklist.md
 │   ├── engagement
@@ -259,5 +255,5 @@ Dossiers ignorés : _ft_original, _cdv_original, .git, node_modules, archives.
         ├── saas-2
         └── saas-3
 
-82 directories, 172 files
+82 directories, 168 files
 ```
